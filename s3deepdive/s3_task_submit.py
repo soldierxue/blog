@@ -20,10 +20,10 @@ class S3Tasks():
     def __init__(self,directory,region,profile):
         self.folder = directory
         self.file_includes = '*.obj.*'
-        self.max_task_objects = 100  # the max total number of objects for one task
-        self.max_task_size_mb = 100  # the max total size of objects for one task (MB)
-        self.multipart_threshold = 100 # the threshod size(MB) of object need to be splitted
-        self.multipart_chunksize = 8 # the chunksize (MB) for each splitted object part
+        self.max_task_objects = 10  # the max total number of objects for one task
+        self.max_task_size_mb = 20  # the max total size of objects for one task (MB)
+        self.multipart_threshold = 5 # the threshod size(MB) of object need to be splitted
+        self.multipart_chunksize = 5 # the chunksize (MB) for each splitted object part
         self.max_queue_msg = 80000 # the max number of message per SQS queue
         self.s3_tasks = []
         self.s3_tasks_split = []
