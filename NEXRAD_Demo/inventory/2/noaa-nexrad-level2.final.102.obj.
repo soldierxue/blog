@@ -1,0 +1,788 @@
+{
+    "Contents": [
+        {
+            "LastModified": "2015-10-22T21:29:19.000Z", 
+            "ETag": "\"a68a99e04d5e30b1e8dd54c023106d89\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_000642.gz", 
+            "Size": 519520
+        }, 
+        {
+            "LastModified": "2015-10-22T21:29:20.000Z", 
+            "ETag": "\"128331253bc7f374d07456db99b96f4b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_001628.gz", 
+            "Size": 629957
+        }, 
+        {
+            "LastModified": "2015-10-22T21:29:22.000Z", 
+            "ETag": "\"6cc54e1259bee46de736a3ddb728f0e1\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_002614.gz", 
+            "Size": 712431
+        }, 
+        {
+            "LastModified": "2015-10-22T21:29:23.000Z", 
+            "ETag": "\"188281bbfa1e4be466c2e6220689dc71\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_003559.gz", 
+            "Size": 70946
+        }, 
+        {
+            "LastModified": "2015-10-22T21:29:24.000Z", 
+            "ETag": "\"77c093c416173a682a72a18f70575e72\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_003731.gz", 
+            "Size": 916937
+        }, 
+        {
+            "LastModified": "2015-10-22T21:29:26.000Z", 
+            "ETag": "\"2691c0c3c5356259feff8405b650037d\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_004329.gz", 
+            "Size": 931783
+        }, 
+        {
+            "LastModified": "2015-10-22T21:29:28.000Z", 
+            "ETag": "\"0a02a2741de839842b2016848abea8ac\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_004928.gz", 
+            "Size": 977721
+        }, 
+        {
+            "LastModified": "2015-10-22T21:29:29.000Z", 
+            "ETag": "\"e7f1f956451ced0f786140221dea9192\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_005526.gz", 
+            "Size": 1017568
+        }, 
+        {
+            "LastModified": "2015-10-22T21:29:31.000Z", 
+            "ETag": "\"a2f8eb9a82e875e028589575896eed8b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_010124.gz", 
+            "Size": 1043940
+        }, 
+        {
+            "LastModified": "2015-10-22T21:29:33.000Z", 
+            "ETag": "\"4e5507328712b8cf7c404c2d33f82356\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_010722.gz", 
+            "Size": 1066039
+        }, 
+        {
+            "LastModified": "2015-10-22T21:29:34.000Z", 
+            "ETag": "\"b15ce2874b78ca555c0e42fd8bda398c\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_011321.gz", 
+            "Size": 1081227
+        }, 
+        {
+            "LastModified": "2015-10-22T21:29:36.000Z", 
+            "ETag": "\"1e13208cb8b0b4e89f6edaa0696cedf5\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_011919.gz", 
+            "Size": 1086030
+        }, 
+        {
+            "LastModified": "2015-10-22T21:29:38.000Z", 
+            "ETag": "\"ae5f0d5723403cd17d34c3e98bed24ab\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_012517.gz", 
+            "Size": 1093286
+        }, 
+        {
+            "LastModified": "2015-10-22T21:29:39.000Z", 
+            "ETag": "\"5c97ac671550dfefec4bea5eaf045f7d\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_013115.gz", 
+            "Size": 1100337
+        }, 
+        {
+            "LastModified": "2015-10-22T21:29:41.000Z", 
+            "ETag": "\"d1e37046fdeb7ae2cd4390d62b48e16b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_013714.gz", 
+            "Size": 1104722
+        }, 
+        {
+            "LastModified": "2015-10-22T21:29:43.000Z", 
+            "ETag": "\"45338c94b0cff56a09e0b743a5bd73e1\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_014312.gz", 
+            "Size": 1058754
+        }, 
+        {
+            "LastModified": "2015-10-22T21:29:44.000Z", 
+            "ETag": "\"807f2a4f6a0dce98955cc2b27a85f3e9\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_014910.gz", 
+            "Size": 1128598
+        }, 
+        {
+            "LastModified": "2015-10-22T21:29:46.000Z", 
+            "ETag": "\"900fbce6eb47ef3104d0d278f9c75b73\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_015508.gz", 
+            "Size": 1148605
+        }, 
+        {
+            "LastModified": "2015-10-22T21:29:48.000Z", 
+            "ETag": "\"1b223cea120291ba18c4d3cf3c740ba1\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_020107.gz", 
+            "Size": 1160918
+        }, 
+        {
+            "LastModified": "2015-10-22T21:29:50.000Z", 
+            "ETag": "\"547695d14762983c8157a6ea3068124a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_020705.gz", 
+            "Size": 1174609
+        }, 
+        {
+            "LastModified": "2015-10-22T21:29:51.000Z", 
+            "ETag": "\"93f74c19433cd945045b435afca73077\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_021303.gz", 
+            "Size": 1178517
+        }, 
+        {
+            "LastModified": "2015-10-22T21:29:53.000Z", 
+            "ETag": "\"2edc80061590a820ebe68a385b3efad7\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_021902.gz", 
+            "Size": 1177239
+        }, 
+        {
+            "LastModified": "2015-10-22T21:29:55.000Z", 
+            "ETag": "\"e08f0f0748a9afe06c5f2ee891283395\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_022500.gz", 
+            "Size": 1170601
+        }, 
+        {
+            "LastModified": "2015-10-22T21:29:56.000Z", 
+            "ETag": "\"9d7e7c283107fc43dbe389230d9c789a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_023058.gz", 
+            "Size": 1175219
+        }, 
+        {
+            "LastModified": "2015-10-22T21:29:58.000Z", 
+            "ETag": "\"acf3f2d089fa15ef2b3d5ad05fea7511\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_023656.gz", 
+            "Size": 1178188
+        }, 
+        {
+            "LastModified": "2015-10-22T21:30:00.000Z", 
+            "ETag": "\"20b18d679d4926636b39c5be0235f545\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_024256.gz", 
+            "Size": 1180509
+        }, 
+        {
+            "LastModified": "2015-10-22T21:30:02.000Z", 
+            "ETag": "\"cbe5ffd26ed4adf021c5b2e011b9a290\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_024854.gz", 
+            "Size": 1195824
+        }, 
+        {
+            "LastModified": "2015-10-22T21:30:03.000Z", 
+            "ETag": "\"04e452fcf9d06ab44a41aff9c3ed49a0\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_025453.gz", 
+            "Size": 1212435
+        }, 
+        {
+            "LastModified": "2015-10-22T21:30:05.000Z", 
+            "ETag": "\"d33531be4a884fee1c69c5028ab5d081\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_030051.gz", 
+            "Size": 1227665
+        }, 
+        {
+            "LastModified": "2015-10-22T21:30:07.000Z", 
+            "ETag": "\"1ef6a4efc8c10e8b93c3f369211cbcd5\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_030649.gz", 
+            "Size": 1238086
+        }, 
+        {
+            "LastModified": "2015-10-22T21:30:09.000Z", 
+            "ETag": "\"8d36275422a5e547c36d73481e528cb9\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_031247.gz", 
+            "Size": 1245343
+        }, 
+        {
+            "LastModified": "2015-10-22T21:30:11.000Z", 
+            "ETag": "\"7793c55b53bc3ee43cd5a838eebba663\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_031845.gz", 
+            "Size": 1243603
+        }, 
+        {
+            "LastModified": "2015-10-22T21:30:13.000Z", 
+            "ETag": "\"64ff5be937c85e6c72b57631c20310de\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_032444.gz", 
+            "Size": 1240812
+        }, 
+        {
+            "LastModified": "2015-10-22T21:30:14.000Z", 
+            "ETag": "\"b67b79199d42c0319eb0edcf48eb232e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_033042.gz", 
+            "Size": 1229116
+        }, 
+        {
+            "LastModified": "2015-10-22T21:30:16.000Z", 
+            "ETag": "\"d5a8df575cf6d2b36fe9d38ac4e933b5\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_033640.gz", 
+            "Size": 1233779
+        }, 
+        {
+            "LastModified": "2015-10-22T21:30:18.000Z", 
+            "ETag": "\"f45050d9c57be1ade477b031b399adbc\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_034239.gz", 
+            "Size": 1248155
+        }, 
+        {
+            "LastModified": "2015-10-22T21:30:20.000Z", 
+            "ETag": "\"5f8331b3d90ab7e33e06b572167c2bf6\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_034837.gz", 
+            "Size": 1244952
+        }, 
+        {
+            "LastModified": "2015-10-22T21:30:22.000Z", 
+            "ETag": "\"abfa2acf91d18e7ba05fc421a3867834\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_035435.gz", 
+            "Size": 1257025
+        }, 
+        {
+            "LastModified": "2015-10-22T21:30:23.000Z", 
+            "ETag": "\"2a2527bcb374af888c3af66b7c04bc1b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_040034.gz", 
+            "Size": 1251985
+        }, 
+        {
+            "LastModified": "2015-10-22T21:30:25.000Z", 
+            "ETag": "\"09d3f4738b6f11872330f7ab7e3d5594\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_040632.gz", 
+            "Size": 1253730
+        }, 
+        {
+            "LastModified": "2015-10-22T21:30:27.000Z", 
+            "ETag": "\"9faf83a0a0b539d16e3414f5384951de\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_041230.gz", 
+            "Size": 1247523
+        }, 
+        {
+            "LastModified": "2015-10-22T21:30:29.000Z", 
+            "ETag": "\"453924dfe977779f01dae877d815875e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_041829.gz", 
+            "Size": 1237225
+        }, 
+        {
+            "LastModified": "2015-10-22T21:30:31.000Z", 
+            "ETag": "\"fa7e773d044d2dd980cc23e38c60f0a3\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_042427.gz", 
+            "Size": 1230934
+        }, 
+        {
+            "LastModified": "2015-10-22T21:30:32.000Z", 
+            "ETag": "\"1497d5c9de6004318b5400af72fddf84\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_043026.gz", 
+            "Size": 1225743
+        }, 
+        {
+            "LastModified": "2015-10-22T21:30:34.000Z", 
+            "ETag": "\"1d31d46c88f863f6f50f6b39dc366eba\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_043624.gz", 
+            "Size": 1222489
+        }, 
+        {
+            "LastModified": "2015-10-22T21:30:36.000Z", 
+            "ETag": "\"85ac61db6fda564f065974f5a8ac42a6\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_044223.gz", 
+            "Size": 1213074
+        }, 
+        {
+            "LastModified": "2015-10-22T21:30:38.000Z", 
+            "ETag": "\"237bb86c26851ee7489e5accfbc59655\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_044821.gz", 
+            "Size": 1210202
+        }, 
+        {
+            "LastModified": "2015-10-22T21:30:40.000Z", 
+            "ETag": "\"f71f9779c16f5998573846f0c2049b7a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_045419.gz", 
+            "Size": 1211103
+        }, 
+        {
+            "LastModified": "2015-10-22T21:30:42.000Z", 
+            "ETag": "\"c769f65a4cf76604673fa7022bd969e6\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_050017.gz", 
+            "Size": 1211899
+        }, 
+        {
+            "LastModified": "2015-10-22T21:30:43.000Z", 
+            "ETag": "\"5e4b0302de87778d2614cec072e210cc\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_050616.gz", 
+            "Size": 1217057
+        }, 
+        {
+            "LastModified": "2015-10-22T21:30:45.000Z", 
+            "ETag": "\"bee27c454885a4957ad7d19bda889cf1\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_051214.gz", 
+            "Size": 1207070
+        }, 
+        {
+            "LastModified": "2015-10-22T21:30:47.000Z", 
+            "ETag": "\"bf5aa3379dfdc5e6a65255a739360f83\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_051813.gz", 
+            "Size": 1220804
+        }, 
+        {
+            "LastModified": "2015-10-22T21:30:49.000Z", 
+            "ETag": "\"5486ace996f8acaf1490c1ac5e2157fa\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_052411.gz", 
+            "Size": 1228299
+        }, 
+        {
+            "LastModified": "2015-10-22T21:30:51.000Z", 
+            "ETag": "\"a53985e8ebf5387ce2453e5a8835e084\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_053010.gz", 
+            "Size": 1228162
+        }, 
+        {
+            "LastModified": "2015-10-22T21:30:53.000Z", 
+            "ETag": "\"c4b8977b134212e843da438158917115\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_053608.gz", 
+            "Size": 1228410
+        }, 
+        {
+            "LastModified": "2015-10-22T21:30:55.000Z", 
+            "ETag": "\"0fc7175e33bcc939fe69e89f0f778a65\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_054206.gz", 
+            "Size": 1221715
+        }, 
+        {
+            "LastModified": "2015-10-22T21:30:57.000Z", 
+            "ETag": "\"96ca7bf1f1967b72369b82c0176be618\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_054805.gz", 
+            "Size": 1213412
+        }, 
+        {
+            "LastModified": "2015-10-22T21:30:58.000Z", 
+            "ETag": "\"61b2843d081c0268ffd4f6ef23ad1508\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_055403.gz", 
+            "Size": 1213092
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:00.000Z", 
+            "ETag": "\"eec10c27e7ea3e3c34f0b9a73d5740ac\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_060001.gz", 
+            "Size": 1211605
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:02.000Z", 
+            "ETag": "\"95487f5d765a41bf06a7590facd130d4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_060600.gz", 
+            "Size": 1206029
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:04.000Z", 
+            "ETag": "\"7b679410bf08c607aa64b4d417e1db51\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_061158.gz", 
+            "Size": 1204549
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:06.000Z", 
+            "ETag": "\"1c61f25cafb23b06a19693b938a7eda4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_061757.gz", 
+            "Size": 1208584
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:08.000Z", 
+            "ETag": "\"52103fda4ad8ef1d22d4078de188f754\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_062355.gz", 
+            "Size": 1211759
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:10.000Z", 
+            "ETag": "\"03334519c15262e15a0fe7a490c39571\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_062953.gz", 
+            "Size": 1207591
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:12.000Z", 
+            "ETag": "\"0d4fed284668e4c2cf3cce3d1a8ca44d\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_063551.gz", 
+            "Size": 1207454
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:14.000Z", 
+            "ETag": "\"003fb6b193be97650d566699bdbf03b1\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_064150.gz", 
+            "Size": 1196733
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:16.000Z", 
+            "ETag": "\"7823c8aefc7545b8c83e7e2c8d92af46\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_064748.gz", 
+            "Size": 1181944
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:18.000Z", 
+            "ETag": "\"d192b3b506c77089441e077e137d240b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_065346.gz", 
+            "Size": 1165840
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:20.000Z", 
+            "ETag": "\"24e10a631cf1b398d85c0f24ace5b5b5\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_065945.gz", 
+            "Size": 1149946
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:22.000Z", 
+            "ETag": "\"4ceb1a86f20880d2a8a3614437de75f5\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_070544.gz", 
+            "Size": 1148411
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:23.000Z", 
+            "ETag": "\"d354b225c73489674be5cd6952f2de39\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_071142.gz", 
+            "Size": 165900
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:25.000Z", 
+            "ETag": "\"6c0fc9f854016e2752dd3eb500b04c47\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_071351.gz", 
+            "Size": 382504
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:27.000Z", 
+            "ETag": "\"5edf0c093e7a5f47746b00791b93d24a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_071708.gz", 
+            "Size": 1260763
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:29.000Z", 
+            "ETag": "\"f46252c1f15edd7624492f08cf9dab65\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_072306.gz", 
+            "Size": 1133971
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:31.000Z", 
+            "ETag": "\"4e9c6b69fc808a0f495b95a45a090bac\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_072905.gz", 
+            "Size": 1112343
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:33.000Z", 
+            "ETag": "\"67fdbfdfa2f0393700341cff8e7e32c4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_073503.gz", 
+            "Size": 1104760
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:34.000Z", 
+            "ETag": "\"96d1488ba0dfcc47d49248e0b51f65d3\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_074102.gz", 
+            "Size": 1098621
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:36.000Z", 
+            "ETag": "\"fc28716fc89c725c76e36bfece4607a4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_074700.gz", 
+            "Size": 1090195
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:38.000Z", 
+            "ETag": "\"2bd0e6d5bb162ba1b659e34e057ab6ee\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_075258.gz", 
+            "Size": 1096084
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:40.000Z", 
+            "ETag": "\"4e686a9d8ee6ac882aff8334ca5055f3\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_075857.gz", 
+            "Size": 1118760
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:44.000Z", 
+            "ETag": "\"04f1e77531c103ebb1fb6ddc3ebcaf10\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_080455.gz", 
+            "Size": 1107643
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:46.000Z", 
+            "ETag": "\"4f646bd0a8faa2ffb6d62c594440a945\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_081120.gz", 
+            "Size": 1077532
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:48.000Z", 
+            "ETag": "\"de00e865891ddf82311b8d45de639c77\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_081718.gz", 
+            "Size": 1081585
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:50.000Z", 
+            "ETag": "\"4071b19f131b81e02259b07c15dec843\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_082316.gz", 
+            "Size": 1089262
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:51.000Z", 
+            "ETag": "\"a1ffddc5271461d5e8d4a1a0f2a7fcdf\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_082914.gz", 
+            "Size": 1095824
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:53.000Z", 
+            "ETag": "\"3f2523e6138c3cd793061f859463635f\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_083513.gz", 
+            "Size": 1099388
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:55.000Z", 
+            "ETag": "\"ae6ecd60c8d87798c319cbb70e136c48\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_084111.gz", 
+            "Size": 1110910
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:57.000Z", 
+            "ETag": "\"22193e751bde01d13e87f982a5afdfae\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_084710.gz", 
+            "Size": 498807
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:59.000Z", 
+            "ETag": "\"a5053a250511c7ec3a9b44580ce3b9d2\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_085020.gz", 
+            "Size": 1104536
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:01.000Z", 
+            "ETag": "\"02e43b188c5cc17a76e818c4cd524b6b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_085446.gz", 
+            "Size": 779431
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:03.000Z", 
+            "ETag": "\"5357068d74365a3c827a26a39958ea00\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_085744.gz", 
+            "Size": 1224616
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:05.000Z", 
+            "ETag": "\"fe6d912e57d800112fe6bbeb23d3ba76\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_090342.gz", 
+            "Size": 1138051
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:07.000Z", 
+            "ETag": "\"c11462cde553c514e0978293304119d3\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_090940.gz", 
+            "Size": 1145409
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:09.000Z", 
+            "ETag": "\"42f63598609c1af9b319eeaf58c6e098\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_091539.gz", 
+            "Size": 1152119
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:11.000Z", 
+            "ETag": "\"3bcfb6110760cf48e71d1d0b89721667\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_092137.gz", 
+            "Size": 1153911
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:13.000Z", 
+            "ETag": "\"5603c73efc0b547111196d0ef5d9c390\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_092735.gz", 
+            "Size": 1155458
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:15.000Z", 
+            "ETag": "\"b85609843310a05e12bdb5146881d139\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_093334.gz", 
+            "Size": 1151026
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:17.000Z", 
+            "ETag": "\"294143bb0f3d732517aa1d78eaeedb45\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_093932.gz", 
+            "Size": 1151239
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:19.000Z", 
+            "ETag": "\"cf9787ad825a333cc76469f16be7fac8\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_094530.gz", 
+            "Size": 1156983
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:21.000Z", 
+            "ETag": "\"3744497c70c87adc6796a1438f5b359a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_095129.gz", 
+            "Size": 1163762
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:23.000Z", 
+            "ETag": "\"12ce8f6984d21f77e4efa81307940e96\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_095728.gz", 
+            "Size": 1189494
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:25.000Z", 
+            "ETag": "\"4d19c120b2d81b171d083f454d7defc8\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_100327.gz", 
+            "Size": 1212553
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:27.000Z", 
+            "ETag": "\"93905fc37f0916dea8cc955a76e6e125\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_100925.gz", 
+            "Size": 1230232
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:29.000Z", 
+            "ETag": "\"3e983bcf26d19ac7b786e807779b151c\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_101523.gz", 
+            "Size": 1209562
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:30.000Z", 
+            "ETag": "\"7a3ece57f7f98e01acb50351750ee9c2\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_102122.gz", 
+            "Size": 1200332
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:32.000Z", 
+            "ETag": "\"af006d64bb89daed221c8153f175f4c0\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_102720.gz", 
+            "Size": 1186538
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:34.000Z", 
+            "ETag": "\"29472fe76b2f62aacc29081249f1e973\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_103318.gz", 
+            "Size": 1199553
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:36.000Z", 
+            "ETag": "\"70cf2151873091517222f3de79143a50\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_103917.gz", 
+            "Size": 1231002
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:38.000Z", 
+            "ETag": "\"39c222d87d3fb6566da80246d1797dcd\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_104515.gz", 
+            "Size": 1272343
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:40.000Z", 
+            "ETag": "\"4604653967ec8381a3e2ba7cf85d355c\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/KTLX19911015_105113.gz", 
+            "Size": 1191613
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:42.000Z", 
+            "ETag": "\"b218d159f2e8e0145400615b6709f33b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/NWS_NEXRAD_NXL2LG_KTLX_19911015000000_19911015075959.tar", 
+            "Size": 33
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:41.000Z", 
+            "ETag": "\"d8e7955b1db3dcd41507f998a99bcd01\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1991/10/15/KTLX/NWS_NEXRAD_NXL2LG_KTLX_19911015080000_19911015155959.tar", 
+            "Size": 33
+        }
+    ]
+}

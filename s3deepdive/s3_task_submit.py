@@ -24,6 +24,7 @@ class S3Tasks():
         self.max_task_size_mb = 100  # the max total size of objects for one task (MB)
         self.multipart_threshold = 100 # the threshod size(MB) of object need to be splitted
         self.multipart_chunksize = 8 # the chunksize (MB) for each splitted object part
+        self.max_queue_msg = 80000 # the max number of message per SQS queue
         self.s3_tasks = []
         self.s3_tasks_split = []
         self.s3_tasks_small_objects = []
@@ -222,6 +223,9 @@ class S3Tasks():
         # group sencond time by multiple part upload(big size object splitting)
         self.groupTask2()
         self.debugResult()
+        # determine the total task number
+        total_small_obj_tasks = len(self.s3_tasks_small_objects)
+        total_bigsize_tasks = len(self.s3_tasks_split)
         # send tasks to sqs
         session = boto3.Session(profile_name=self.profile,region_name=self.region)
         sqs_client = session.client('sqs')
@@ -244,55 +248,91 @@ class S3Tasks():
         awsref = "aws-cn" if self.region.startswith("cn") else "aws"
         deadQArn = arn_format.format(awsref,self.region,awsaccount,qname)
         logger.info("Dead q urn # %s",deadQArn)
-        # deadQ = sqs_client.
-        normalQRes = sqs_client.create_queue(
-            QueueName=queueNames[1],
-            Attributes={
-                'VisibilityTimeout': visTimeout
-                ,'RedrivePolicy':json.dumps({
-                    'deadLetterTargetArn':deadQArn,
-                    'maxReceiveCount': '10'
-                })
-            }
-        )
-        logger.info("Normal Q's url# %s",json.dumps(normalQRes))  
-
-        bigsizeQRes = sqs_client.create_queue(
-            QueueName=queueNames[2],
-            Attributes={
-                'VisibilityTimeout': visTimeout
-                ,'RedrivePolicy':json.dumps({
-                    'deadLetterTargetArn':deadQArn,
-                    'maxReceiveCount': '10'
-                })
-            }
-        )
-        logger.info("Normal Q's url# %s",bigsizeQRes['QueueUrl'])             
+        # clear the queue messages
         sqs_client.purge_queue(
             QueueUrl=deadQRes['QueueUrl']
         ) 
-        sqs_client.purge_queue(
-            QueueUrl=normalQRes['QueueUrl']
-        )
-        sqs_client.purge_queue(
-            QueueUrl=bigsizeQRes['QueueUrl']
-        )        
+        
+        # calculate the nubmer of queue needed
+        normalQCount = total_small_obj_tasks / self.max_queue_msg
+        normalQLeft = total_small_obj_tasks % self.max_queue_msg
+        normalQCount = normalQCount if normalQLeft <= 0 else normalQCount + 1
+        # create queues
+        idxNormal = 0
+        normalQUrlArray = []
+        while idxNormal < normalQCount:
+            idxNormal = idxNormal + 1
+            normalQRes = sqs_client.create_queue(
+                QueueName=queueNames[1]+str(idxNormal),
+                Attributes={
+                    'VisibilityTimeout': visTimeout
+                    ,'RedrivePolicy':json.dumps({
+                        'deadLetterTargetArn':deadQArn,
+                        'maxReceiveCount': '10'
+                    })
+                }
+            )
+            # logger.info("Normal Q's url# %s",json.dumps(normalQRes)) 
+            normalQUrlArray.append(normalQRes['QueueUrl'])
+            # clear the queue messages
+            sqs_client.purge_queue(
+                QueueUrl=normalQRes['QueueUrl']
+            )
+
+        # calculate the nubmer of queue needed
+        bigsizeQCount = total_bigsize_tasks / self.max_queue_msg
+        bigsizeQLeft = total_bigsize_tasks % self.max_queue_msg
+        bigsizeQCount = bigsizeQCount if bigsizeQLeft <= 0 else bigsizeQCount + 1
+        # create queues
+        idxBigsize = 0
+        bigsizeQUrlArray = []
+        while idxBigsize < bigsizeQCount:
+            idxBigsize = idxBigsize + 1
+            bigsizeQRes = sqs_client.create_queue(
+                QueueName=queueNames[2]+str(idxBigsize),
+                Attributes={
+                    'VisibilityTimeout': visTimeout
+                    ,'RedrivePolicy':json.dumps({
+                        'deadLetterTargetArn':deadQArn,
+                        'maxReceiveCount': '10'
+                    })
+                }
+            )
+            # logger.info("Normal Q's url# %s",bigsizeQRes['QueueUrl'])
+            bigsizeQUrlArray.append(bigsizeQRes['QueueUrl'])
+            # clear the queue messages
+            sqs_client.purge_queue(
+                QueueUrl=bigsizeQRes['QueueUrl']
+            ) 
+
         msgcount = 0
+        queueIdx = 0
         for t in self.s3_tasks_small_objects:
             logger.info(json.dumps(t))
             response = sqs_client.send_message(
-                QueueUrl=normalQRes['QueueUrl'],
+                QueueUrl=normalQUrlArray[queueIdx],
                 MessageBody= json.dumps(t)
                 )   
             msgcount = msgcount + 1
+            if msgcount % self.max_queue_msg == 0:
+                queueIdx = queueIdx + 1
+        
+        logger.info("Total Task Msg# %d for normal objects",msgcount)  
+
+        msgcount = 0
+        queueIdx = 0
         for t in self.s3_tasks_split:
             logger.info(json.dumps(t))
             response = sqs_client.send_message(
-                QueueUrl=bigsizeQRes['QueueUrl'],
+                QueueUrl=bigsizeQUrlArray[queueIdx],
                 MessageBody= json.dumps(t)
                 )   
-            msgcount = msgcount + 1    
-        logger.info("Total Task Msg# %d",msgcount)                
+            msgcount = msgcount + 1 
+            if msgcount % self.max_queue_msg == 0:
+                queueIdx = queueIdx + 1
+
+        logger.info("Total Task Msg# %d for bigsize objects",msgcount)          
+              
 
     def getObjects(self,file):
         if os.path.exists(file):

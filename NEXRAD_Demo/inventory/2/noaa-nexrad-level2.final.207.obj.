@@ -1,0 +1,963 @@
+{
+    "Contents": [
+        {
+            "LastModified": "2015-10-22T22:08:59.000Z", 
+            "ETag": "\"045b2c55d2d58f9c5eb70fdad2463abf\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_000745.gz", 
+            "Size": 371611
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:00.000Z", 
+            "ETag": "\"d353c0c62161c60445e231723d95d9bb\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_001742.gz", 
+            "Size": 566356
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:01.000Z", 
+            "ETag": "\"2a95f73267cc2f20aef8c2ba3ba8deb1\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_001744.gz", 
+            "Size": 24390
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:03.000Z", 
+            "ETag": "\"a091b6d6ca7478c3219d9d7bc1b9cbbe\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_002738.gz", 
+            "Size": 558841
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:05.000Z", 
+            "ETag": "\"44a9392346dceead29df42b0b637d0fc\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_003735.gz", 
+            "Size": 518270
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:06.000Z", 
+            "ETag": "\"6645e62ab2fff8852f3458c175ef8ed1\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_004731.gz", 
+            "Size": 566813
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:08.000Z", 
+            "ETag": "\"9c088d62e2f97a00434d198ea3912125\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_005728.gz", 
+            "Size": 526881
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:09.000Z", 
+            "ETag": "\"0281df3cdeb574b3fb3eedf10acb62e9\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_010724.gz", 
+            "Size": 509905
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:11.000Z", 
+            "ETag": "\"5940a12585819edcb5e9b47b34186ec4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_011721.gz", 
+            "Size": 406904
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:13.000Z", 
+            "ETag": "\"8e420db39a7fc782c3378934c450ddea\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_012717.gz", 
+            "Size": 481689
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:14.000Z", 
+            "ETag": "\"8796cfa32f0049548c3501639a6c0d36\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_012719.gz", 
+            "Size": 14663
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:15.000Z", 
+            "ETag": "\"7c7e6b1318e59e4a2f8fee9b14bdd08f\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_013713.gz", 
+            "Size": 495463
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:17.000Z", 
+            "ETag": "\"ebf4891e9db489a0862f8ab65837d490\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_014710.gz", 
+            "Size": 500297
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:19.000Z", 
+            "ETag": "\"c33073a888cef75d8b2e25363b445f1d\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_015707.gz", 
+            "Size": 462614
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:20.000Z", 
+            "ETag": "\"770d27dd06590e86ba646a15d5ac204a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_020703.gz", 
+            "Size": 505783
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:22.000Z", 
+            "ETag": "\"7d5b96819e001514831e2ba69187da72\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_021700.gz", 
+            "Size": 490111
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:23.000Z", 
+            "ETag": "\"d3e5b52f6fabd164c1d4cbcee9801000\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_022656.gz", 
+            "Size": 296675
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:25.000Z", 
+            "ETag": "\"dcb5d2c805db7297956b33ffc9d3f3d0\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_023653.gz", 
+            "Size": 431412
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:26.000Z", 
+            "ETag": "\"2e58aa9bfcbeded7475783e3ec705008\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_023656.gz", 
+            "Size": 35374
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:27.000Z", 
+            "ETag": "\"20c9ed7aace3e571e79537ce03b5a5e4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_024716.gz", 
+            "Size": 478427
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:29.000Z", 
+            "ETag": "\"13002f2b4ef6ad11554fb8aeb161dcac\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_025712.gz", 
+            "Size": 500408
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:31.000Z", 
+            "ETag": "\"7c6bc5a171dac36108fbe67b0d72f598\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_030709.gz", 
+            "Size": 455858
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:33.000Z", 
+            "ETag": "\"37c11af640aaf7fccb5a038cff2cf529\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_031706.gz", 
+            "Size": 463902
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:34.000Z", 
+            "ETag": "\"42c3a61efa01c205db12f14850c20efa\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_032702.gz", 
+            "Size": 483399
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:36.000Z", 
+            "ETag": "\"01776f5172d8b7d8d7b51cb5f0aae7a4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_033659.gz", 
+            "Size": 422597
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:38.000Z", 
+            "ETag": "\"134e9cf0456ef07cc07489e07bc6f644\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_034656.gz", 
+            "Size": 446747
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:39.000Z", 
+            "ETag": "\"0241278b9767bb0c073c5c3c34c84175\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_034658.gz", 
+            "Size": 24587
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:40.000Z", 
+            "ETag": "\"e967bed0bc7ca7a36e1bba8f51ea6e6c\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_035653.gz", 
+            "Size": 442112
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:42.000Z", 
+            "ETag": "\"857bf10752ea424a8f3c8d5d1c57a391\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_035655.gz", 
+            "Size": 431133
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:44.000Z", 
+            "ETag": "\"b162bf102dc823299edc6e408a50b91c\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_040650.gz", 
+            "Size": 409475
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:45.000Z", 
+            "ETag": "\"2f8803741e6f59ed041a0589d0951b63\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_041647.gz", 
+            "Size": 437809
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:47.000Z", 
+            "ETag": "\"44ea7db314b1d0d7a54a6143e67ca86a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_042643.gz", 
+            "Size": 418481
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:48.000Z", 
+            "ETag": "\"33bf283188d624b8382b9f244667b0c4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_043640.gz", 
+            "Size": 390345
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:50.000Z", 
+            "ETag": "\"725472b4b1605f262cbf76468412c69c\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_044636.gz", 
+            "Size": 413280
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:52.000Z", 
+            "ETag": "\"f734556f651136b550d573bb163e9835\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_045632.gz", 
+            "Size": 376948
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:53.000Z", 
+            "ETag": "\"cd87370bb6f7294612a4f33a51df3c9a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_050630.gz", 
+            "Size": 360025
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:55.000Z", 
+            "ETag": "\"b1b3311165f6d6a5372a3a995272ee74\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_051626.gz", 
+            "Size": 368519
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:56.000Z", 
+            "ETag": "\"a58365f40150a436a8e73cdc410cf180\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_052623.gz", 
+            "Size": 331011
+        }, 
+        {
+            "LastModified": "2015-10-22T22:09:58.000Z", 
+            "ETag": "\"6575b3c6970b362c540a55b7f32b367b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_053620.gz", 
+            "Size": 321530
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:00.000Z", 
+            "ETag": "\"5887912d85afa610810fa5add75213eb\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_054617.gz", 
+            "Size": 323760
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:01.000Z", 
+            "ETag": "\"a5a7445cfd9c9786700dbac020dbab55\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_055614.gz", 
+            "Size": 286223
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:03.000Z", 
+            "ETag": "\"2e9fe79c4752d67d3d97a0a98760ec3a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_060610.gz", 
+            "Size": 309140
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:05.000Z", 
+            "ETag": "\"e065a8d27dbda20a18cead28e391e9e5\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_061607.gz", 
+            "Size": 309528
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:07.000Z", 
+            "ETag": "\"9b57b15d88bad0e8c3febdeaad3ae176\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_062603.gz", 
+            "Size": 344421
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:08.000Z", 
+            "ETag": "\"47a188ce6439fbb68e9c73d8f0e1eac6\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_063600.gz", 
+            "Size": 156510
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:10.000Z", 
+            "ETag": "\"84b6bf7e448da0c6cf0cd9ef831682ff\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_064556.gz", 
+            "Size": 375875
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:11.000Z", 
+            "ETag": "\"d1258d8b5c7f3760ce8b802a27d6e19c\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_064558.gz", 
+            "Size": 25968
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:12.000Z", 
+            "ETag": "\"81ce64ea1ab20b559ab01689d34e4bcb\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_065553.gz", 
+            "Size": 365337
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:14.000Z", 
+            "ETag": "\"89e8160c7b991e2876343f1ea2a09f77\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_070550.gz", 
+            "Size": 386396
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:16.000Z", 
+            "ETag": "\"3378a5855467d379071339b6259d4c12\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_071547.gz", 
+            "Size": 354381
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:18.000Z", 
+            "ETag": "\"80d7d1852c719552dec906e45332558b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_072543.gz", 
+            "Size": 401041
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:20.000Z", 
+            "ETag": "\"c2466585a96f95d00bf968dbcb51dbe0\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_073540.gz", 
+            "Size": 428487
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:21.000Z", 
+            "ETag": "\"113cc363ad35613476044a5dd141d1ff\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_074537.gz", 
+            "Size": 406787
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:23.000Z", 
+            "ETag": "\"204c6ac442614a1604f422806f383bb0\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_075534.gz", 
+            "Size": 336344
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:07.000Z", 
+            "ETag": "\"2f5b3b8884b7c6ca9397585369ba2708\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_080530.gz", 
+            "Size": 447020
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:08.000Z", 
+            "ETag": "\"54f90c5a427fec37bf37ac187237db78\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_080532.gz", 
+            "Size": 44814
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:10.000Z", 
+            "ETag": "\"84e4b9516f2409c345f2bebe66316b80\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_081527.gz", 
+            "Size": 411033
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:12.000Z", 
+            "ETag": "\"6135ea73f983022d6d9e8bb028877548\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_081529.gz", 
+            "Size": 378778
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:14.000Z", 
+            "ETag": "\"3a9adbfad76cc52aabd28eea49f4baaf\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_082523.gz", 
+            "Size": 451904
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:16.000Z", 
+            "ETag": "\"5215f8e13244091a2a16aa23af453069\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_083519.gz", 
+            "Size": 459903
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:17.000Z", 
+            "ETag": "\"42b0598684eb9c01669733e4f13140e9\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_084517.gz", 
+            "Size": 442340
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:19.000Z", 
+            "ETag": "\"3b7ebd8492420997b5387cef605b64fb\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_085512.gz", 
+            "Size": 469921
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:21.000Z", 
+            "ETag": "\"014c6499e02c829f0f1652736e2048f7\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_090510.gz", 
+            "Size": 444063
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:23.000Z", 
+            "ETag": "\"10a1755f4a4fb1c711ddcd659078a57e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_091506.gz", 
+            "Size": 304688
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:24.000Z", 
+            "ETag": "\"3c67722c4cd682975db1e5ece6d85c1b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_092503.gz", 
+            "Size": 432902
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:25.000Z", 
+            "ETag": "\"d13777b78fec84689179133e892bdae6\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_092505.gz", 
+            "Size": 45976
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:27.000Z", 
+            "ETag": "\"4825a876a863077017245fc9d92e6077\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_093500.gz", 
+            "Size": 403728
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:29.000Z", 
+            "ETag": "\"e4fffa43cbf0716657fc9b43d9f59321\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_094456.gz", 
+            "Size": 386472
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:30.000Z", 
+            "ETag": "\"aed917a949ba0d8322f425ba6db56645\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_095452.gz", 
+            "Size": 402510
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:32.000Z", 
+            "ETag": "\"4d4dbef32c58b70080913670854ee0fb\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_100449.gz", 
+            "Size": 366162
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:34.000Z", 
+            "ETag": "\"db1a756f56d873b71843873562ffceea\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_101446.gz", 
+            "Size": 376144
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:35.000Z", 
+            "ETag": "\"5e51c12d866b98b010b9b79608bd8689\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_102442.gz", 
+            "Size": 381148
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:37.000Z", 
+            "ETag": "\"4a18d933f154298f185286dea59641e0\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_103439.gz", 
+            "Size": 327546
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:39.000Z", 
+            "ETag": "\"62dd1a5c737946f6e181d1f3007e3c73\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_104436.gz", 
+            "Size": 331163
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:40.000Z", 
+            "ETag": "\"2050032ba9ec01f60d984c57dcca8d7b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_105459.gz", 
+            "Size": 295076
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:42.000Z", 
+            "ETag": "\"29f40c175f2b73ab3cb0b3189b64644d\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_110455.gz", 
+            "Size": 314990
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:43.000Z", 
+            "ETag": "\"a98fe2d6ecdb290f56a6e9f95a84fb82\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_111451.gz", 
+            "Size": 314109
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:45.000Z", 
+            "ETag": "\"4f39f3bd45a5d0c14b936441f1012459\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_112448.gz", 
+            "Size": 310143
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:47.000Z", 
+            "ETag": "\"408b533c4adedbeaf476ecac3a0d884e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_113444.gz", 
+            "Size": 346590
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:48.000Z", 
+            "ETag": "\"2a50469a8840f6a5cf8b7b91c3e11f5f\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_114441.gz", 
+            "Size": 350305
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:50.000Z", 
+            "ETag": "\"7a968c2101b62f839ee2060d85aa8f37\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_115438.gz", 
+            "Size": 354197
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:51.000Z", 
+            "ETag": "\"528eab3b252eaa29b031a9cb81d3f6bc\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_120435.gz", 
+            "Size": 340298
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:53.000Z", 
+            "ETag": "\"ee6cd9beff31d03aa85d5caecbb62424\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_121431.gz", 
+            "Size": 335782
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:54.000Z", 
+            "ETag": "\"81a3186bb5b4f6dae68e8c8e04665972\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_122428.gz", 
+            "Size": 325393
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:56.000Z", 
+            "ETag": "\"0b9c347e782eb43e64fda2cc49d4bdaa\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_123424.gz", 
+            "Size": 319026
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:57.000Z", 
+            "ETag": "\"245c83ee6969789091ec73c701c1e66c\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_124421.gz", 
+            "Size": 324725
+        }, 
+        {
+            "LastModified": "2015-10-22T21:31:59.000Z", 
+            "ETag": "\"f497250978b40a6405ad7673f42029e4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_125417.gz", 
+            "Size": 308306
+        }, 
+        {
+            "LastModified": "2015-10-22T21:32:00.000Z", 
+            "ETag": "\"a043507cbe61f91b77aa9750eb9ffd82\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_130414.gz", 
+            "Size": 306726
+        }, 
+        {
+            "LastModified": "2015-10-22T21:32:02.000Z", 
+            "ETag": "\"33db4b709285a34296de3a16517315ab\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_131411.gz", 
+            "Size": 294723
+        }, 
+        {
+            "LastModified": "2015-10-22T21:32:03.000Z", 
+            "ETag": "\"270937325abc1637ea8e156f836bff15\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_140216.gz", 
+            "Size": 310617
+        }, 
+        {
+            "LastModified": "2015-10-22T21:32:05.000Z", 
+            "ETag": "\"a9a60fbd45e9b6077ff4bed70b195a19\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_141204.gz", 
+            "Size": 319285
+        }, 
+        {
+            "LastModified": "2015-10-22T21:32:06.000Z", 
+            "ETag": "\"61f0761c9a5f1d929374065c997be5fb\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_142151.gz", 
+            "Size": 341527
+        }, 
+        {
+            "LastModified": "2015-10-22T21:32:08.000Z", 
+            "ETag": "\"171b2d555607feedc098471386baeabb\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_143137.gz", 
+            "Size": 342927
+        }, 
+        {
+            "LastModified": "2015-10-22T21:32:09.000Z", 
+            "ETag": "\"79b5e366fba28a7b558fc33ddeaca303\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_144122.gz", 
+            "Size": 365259
+        }, 
+        {
+            "LastModified": "2015-10-22T21:32:11.000Z", 
+            "ETag": "\"9eb89307270e3668b9d7cccc5a82b671\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_145109.gz", 
+            "Size": 423072
+        }, 
+        {
+            "LastModified": "2015-10-22T21:32:12.000Z", 
+            "ETag": "\"b6d3065b3e7d86b2ddd54543fb968611\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_150055.gz", 
+            "Size": 406735
+        }, 
+        {
+            "LastModified": "2015-10-22T21:32:14.000Z", 
+            "ETag": "\"827e02dfd4644bc85aa72d5e4a8b1851\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_151041.gz", 
+            "Size": 448840
+        }, 
+        {
+            "LastModified": "2015-10-22T21:32:15.000Z", 
+            "ETag": "\"0b09bf08d5dd358c2c38164c4d775105\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_152027.gz", 
+            "Size": 451976
+        }, 
+        {
+            "LastModified": "2015-10-22T21:32:17.000Z", 
+            "ETag": "\"a63b4a5c4100ce0a74f25dc33e4aea84\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_153013.gz", 
+            "Size": 444359
+        }, 
+        {
+            "LastModified": "2015-10-22T21:32:19.000Z", 
+            "ETag": "\"2e4862d79d6c3e4444f763e694a11da0\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_154000.gz", 
+            "Size": 471619
+        }, 
+        {
+            "LastModified": "2015-10-22T21:32:20.000Z", 
+            "ETag": "\"c68e378c283abf2747843cbee69e0521\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_154946.gz", 
+            "Size": 457922
+        }, 
+        {
+            "LastModified": "2015-10-22T21:32:22.000Z", 
+            "ETag": "\"96f6482bce26895c7d23f4ac7a6f9b19\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_155931.gz", 
+            "Size": 466873
+        }, 
+        {
+            "LastModified": "2015-10-22T23:58:18.000Z", 
+            "ETag": "\"3679509b98c1e49a7288ecc70ae5fc25\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_160917.gz", 
+            "Size": 489089
+        }, 
+        {
+            "LastModified": "2015-10-22T23:58:19.000Z", 
+            "ETag": "\"1b92e3f6cb0c14eb2e5958608dd06e02\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_161904.gz", 
+            "Size": 454503
+        }, 
+        {
+            "LastModified": "2015-10-22T23:58:21.000Z", 
+            "ETag": "\"81ebad812ad02ce95cfa949d9aba53ce\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_162850.gz", 
+            "Size": 468827
+        }, 
+        {
+            "LastModified": "2015-10-22T23:58:22.000Z", 
+            "ETag": "\"0b232520a1d56eae54923ceba4e24787\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_163836.gz", 
+            "Size": 467659
+        }, 
+        {
+            "LastModified": "2015-10-22T23:58:24.000Z", 
+            "ETag": "\"81b48cd8d08054941c1a1e06d8d2dcd5\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_164821.gz", 
+            "Size": 444287
+        }, 
+        {
+            "LastModified": "2015-10-22T23:58:25.000Z", 
+            "ETag": "\"3592488baa6774fa54d51eb82f6c0485\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_165807.gz", 
+            "Size": 468292
+        }, 
+        {
+            "LastModified": "2015-10-22T23:58:27.000Z", 
+            "ETag": "\"6be244336c89369ed780972f21d92939\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_170753.gz", 
+            "Size": 463513
+        }, 
+        {
+            "LastModified": "2015-10-22T23:58:28.000Z", 
+            "ETag": "\"327799551e7f82a62690564de15c0747\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_171740.gz", 
+            "Size": 448567
+        }, 
+        {
+            "LastModified": "2015-10-22T23:58:29.000Z", 
+            "ETag": "\"b59ab886aebc30572375a322b64a869a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_172744.gz", 
+            "Size": 3741
+        }, 
+        {
+            "LastModified": "2015-10-22T23:58:30.000Z", 
+            "ETag": "\"ca1993dbc36c6cec081e146876021601\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_182608.gz", 
+            "Size": 4142
+        }, 
+        {
+            "LastModified": "2015-10-22T23:58:32.000Z", 
+            "ETag": "\"ec9d69a64238c1b13ff6acad64720362\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_202439.gz", 
+            "Size": 180696
+        }, 
+        {
+            "LastModified": "2015-10-22T23:58:33.000Z", 
+            "ETag": "\"c4395e1d848c8a6f24c0fca6967f9a01\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_203435.gz", 
+            "Size": 468545
+        }, 
+        {
+            "LastModified": "2015-10-22T23:58:35.000Z", 
+            "ETag": "\"710bf0e00558a5a965687c2e198d189e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_204432.gz", 
+            "Size": 444756
+        }, 
+        {
+            "LastModified": "2015-10-22T23:58:36.000Z", 
+            "ETag": "\"5be774394bc79745371acf5ca06c47d4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_205429.gz", 
+            "Size": 444685
+        }, 
+        {
+            "LastModified": "2015-10-22T23:58:38.000Z", 
+            "ETag": "\"ebe23674f202812f29a0ba279b76f519\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_210426.gz", 
+            "Size": 460535
+        }, 
+        {
+            "LastModified": "2015-10-22T23:58:39.000Z", 
+            "ETag": "\"f417172e123e8349395dab2409123bfd\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_211422.gz", 
+            "Size": 435098
+        }, 
+        {
+            "LastModified": "2015-10-22T23:58:41.000Z", 
+            "ETag": "\"0cb9ad40dcc448d0f8962a1b9194fb55\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_212419.gz", 
+            "Size": 433492
+        }, 
+        {
+            "LastModified": "2015-10-22T23:58:42.000Z", 
+            "ETag": "\"61f1e80aa9655d8f87435c4030b23bb8\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_213416.gz", 
+            "Size": 438674
+        }, 
+        {
+            "LastModified": "2015-10-22T23:58:44.000Z", 
+            "ETag": "\"4e53b07359f2a16c2817fac99ee3386d\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_214413.gz", 
+            "Size": 404365
+        }, 
+        {
+            "LastModified": "2015-10-22T23:58:45.000Z", 
+            "ETag": "\"eaacc9956b0abe879ac3d42b9d5dec5b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_215411.gz", 
+            "Size": 423986
+        }, 
+        {
+            "LastModified": "2015-10-22T23:58:47.000Z", 
+            "ETag": "\"3adb19d0e57ba0e95943b67ebfd96798\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_220408.gz", 
+            "Size": 405698
+        }, 
+        {
+            "LastModified": "2015-10-22T23:58:48.000Z", 
+            "ETag": "\"125bb0cdf4578d2f2c53417ec376e807\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_221405.gz", 
+            "Size": 400105
+        }, 
+        {
+            "LastModified": "2015-10-22T23:58:50.000Z", 
+            "ETag": "\"5edb0a7f7d01cc2c1b119978de5f7105\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_222401.gz", 
+            "Size": 393947
+        }, 
+        {
+            "LastModified": "2015-10-22T23:58:52.000Z", 
+            "ETag": "\"274412e39d246d8d180aa680a17a7937\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_223358.gz", 
+            "Size": 386504
+        }, 
+        {
+            "LastModified": "2015-10-22T23:58:53.000Z", 
+            "ETag": "\"a01b96482e47d221e7827f1b5e34483a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_224355.gz", 
+            "Size": 377421
+        }, 
+        {
+            "LastModified": "2015-10-22T23:58:55.000Z", 
+            "ETag": "\"5fdf33e0ef7590122197e515bf55e1bf\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_225351.gz", 
+            "Size": 379109
+        }, 
+        {
+            "LastModified": "2015-10-22T23:58:56.000Z", 
+            "ETag": "\"29aeb0a84fec0a9d736849faef83359a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_230348.gz", 
+            "Size": 354461
+        }, 
+        {
+            "LastModified": "2015-10-22T23:58:58.000Z", 
+            "ETag": "\"b6b29ea45e340f5c596d3b286bd85b7e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_231345.gz", 
+            "Size": 362244
+        }, 
+        {
+            "LastModified": "2015-10-22T23:58:59.000Z", 
+            "ETag": "\"362fe94ed6cfc45dd0fb088e8f59be7e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_232341.gz", 
+            "Size": 360948
+        }, 
+        {
+            "LastModified": "2015-10-22T23:59:01.000Z", 
+            "ETag": "\"6885c04af2738f4f74d6c07968d1f420\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_233338.gz", 
+            "Size": 370734
+        }, 
+        {
+            "LastModified": "2015-10-22T23:59:02.000Z", 
+            "ETag": "\"46e88446d65f43a96329182bcd8ff50b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_234335.gz", 
+            "Size": 407949
+        }, 
+        {
+            "LastModified": "2015-10-22T23:59:04.000Z", 
+            "ETag": "\"50254719d8aa2cc37f14f15285c45ce2\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/KMLB19920229_235332.gz", 
+            "Size": 436147
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:24.000Z", 
+            "ETag": "\"21a411c0c3959854d7571c31a0902060\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/NWS_NEXRAD_NXL2LG_KMLB_19920229000000_19920229075959.tar", 
+            "Size": 33
+        }, 
+        {
+            "LastModified": "2015-10-22T21:32:23.000Z", 
+            "ETag": "\"acbe09550d544b56b85649a02b78cec5\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/NWS_NEXRAD_NXL2LG_KMLB_19920229080000_19920229155959.tar", 
+            "Size": 33
+        }, 
+        {
+            "LastModified": "2015-10-22T23:59:05.000Z", 
+            "ETag": "\"228e0907a340157b24dc286431aa7a04\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/02/29/KMLB/NWS_NEXRAD_NXL2LG_KMLB_19920229160000_19920229235959.tar", 
+            "Size": 33
+        }
+    ]
+}

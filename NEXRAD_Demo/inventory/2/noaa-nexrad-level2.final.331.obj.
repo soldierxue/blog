@@ -1,0 +1,942 @@
+{
+    "Contents": [
+        {
+            "LastModified": "2015-10-22T22:10:52.000Z", 
+            "ETag": "\"7a13791ba9bf3f05a37d934ccb339ab5\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_045706.gz", 
+            "Size": 1163459
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:54.000Z", 
+            "ETag": "\"1550615830591a1aad3fc8689c729ed3\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_050255.gz", 
+            "Size": 1124804
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:57.000Z", 
+            "ETag": "\"ae5ad881f6d8fdd3b0814db0a5127bf1\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_050844.gz", 
+            "Size": 1094542
+        }, 
+        {
+            "LastModified": "2015-10-22T22:10:59.000Z", 
+            "ETag": "\"b9907d43d1f6075c6ec784d3362723a6\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_051432.gz", 
+            "Size": 1126776
+        }, 
+        {
+            "LastModified": "2015-10-22T22:11:01.000Z", 
+            "ETag": "\"6cf602fadaa29877c93c385ba98e6ad4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_052021.gz", 
+            "Size": 1087133
+        }, 
+        {
+            "LastModified": "2015-10-22T22:11:04.000Z", 
+            "ETag": "\"cbeed0d943cc3185cecec1cfaf7eccfd\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_052610.gz", 
+            "Size": 1131066
+        }, 
+        {
+            "LastModified": "2015-10-22T22:11:06.000Z", 
+            "ETag": "\"78de19c550c247eaa252d7e8051c3e8b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_053158.gz", 
+            "Size": 1112694
+        }, 
+        {
+            "LastModified": "2015-10-22T22:11:08.000Z", 
+            "ETag": "\"3b787f1864ed54ce407868a90301b488\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_053747.gz", 
+            "Size": 1080785
+        }, 
+        {
+            "LastModified": "2015-10-22T22:11:11.000Z", 
+            "ETag": "\"b54c44574c97d9fe7b34643369e9419c\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_054336.gz", 
+            "Size": 1109480
+        }, 
+        {
+            "LastModified": "2015-10-22T22:11:13.000Z", 
+            "ETag": "\"153bb321195a6dce1aecaee25d7e7158\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_054924.gz", 
+            "Size": 1076920
+        }, 
+        {
+            "LastModified": "2015-10-22T22:11:16.000Z", 
+            "ETag": "\"3e9389dcd66d9b20aa89156cdda72725\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_055513.gz", 
+            "Size": 1108487
+        }, 
+        {
+            "LastModified": "2015-10-22T22:11:18.000Z", 
+            "ETag": "\"cb493090b71b921f7b47a898c23dcbc4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_060102.gz", 
+            "Size": 1103531
+        }, 
+        {
+            "LastModified": "2015-10-22T22:11:20.000Z", 
+            "ETag": "\"d0cc01eeaeb6761cfd1b0e7eb7139ef5\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_060651.gz", 
+            "Size": 1076308
+        }, 
+        {
+            "LastModified": "2015-10-22T22:11:23.000Z", 
+            "ETag": "\"5584892aa016c215f1fbb0b12cc7e3b1\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_061240.gz", 
+            "Size": 1085948
+        }, 
+        {
+            "LastModified": "2015-10-22T22:11:25.000Z", 
+            "ETag": "\"140ddf16f05004f5d1a431fe8b39e8bf\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_061828.gz", 
+            "Size": 1077922
+        }, 
+        {
+            "LastModified": "2015-10-22T22:11:28.000Z", 
+            "ETag": "\"532b45b7b697d92c629aacf9f4aa63f9\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_062417.gz", 
+            "Size": 1095787
+        }, 
+        {
+            "LastModified": "2015-10-22T22:11:30.000Z", 
+            "ETag": "\"ca5692bd00e88154dcd9aa07cad70aa6\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_063006.gz", 
+            "Size": 1096986
+        }, 
+        {
+            "LastModified": "2015-10-22T22:11:32.000Z", 
+            "ETag": "\"8a082911db623aaf516afac57351bceb\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_063555.gz", 
+            "Size": 1053606
+        }, 
+        {
+            "LastModified": "2015-10-22T22:11:35.000Z", 
+            "ETag": "\"8b8c55f28cb506aea92b3cea0393b34c\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_064144.gz", 
+            "Size": 1080430
+        }, 
+        {
+            "LastModified": "2015-10-22T22:11:38.000Z", 
+            "ETag": "\"f9250da49fb1d5fa5c7ff982013a73ef\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_064732.gz", 
+            "Size": 1074822
+        }, 
+        {
+            "LastModified": "2015-10-22T22:11:40.000Z", 
+            "ETag": "\"2afe7aa1df2a42655510c88a111ad77d\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_065321.gz", 
+            "Size": 1080682
+        }, 
+        {
+            "LastModified": "2015-10-22T22:11:42.000Z", 
+            "ETag": "\"35f34118921680a928a0680e8e96d264\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_065910.gz", 
+            "Size": 1062739
+        }, 
+        {
+            "LastModified": "2015-10-22T22:11:45.000Z", 
+            "ETag": "\"9e5ab948c1197183acff6eea079607f8\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_070459.gz", 
+            "Size": 1033742
+        }, 
+        {
+            "LastModified": "2015-10-22T22:11:47.000Z", 
+            "ETag": "\"4e469def38f8a4088e80679c568cc12a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_071048.gz", 
+            "Size": 1077437
+        }, 
+        {
+            "LastModified": "2015-10-22T22:11:50.000Z", 
+            "ETag": "\"6c190c56e532f3b709b88376498d640f\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_071637.gz", 
+            "Size": 1065963
+        }, 
+        {
+            "LastModified": "2015-10-22T22:11:52.000Z", 
+            "ETag": "\"ea2b93518de42a5c7d47ef82ffbdf3a1\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_072225.gz", 
+            "Size": 1060407
+        }, 
+        {
+            "LastModified": "2015-10-22T22:11:54.000Z", 
+            "ETag": "\"7bfe3bd1af62d88fb90f1240d5796428\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_072814.gz", 
+            "Size": 1096459
+        }, 
+        {
+            "LastModified": "2015-10-22T22:11:57.000Z", 
+            "ETag": "\"5e80fb208ef03dddf6cadec428ae9107\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_073403.gz", 
+            "Size": 1042454
+        }, 
+        {
+            "LastModified": "2015-10-22T22:11:59.000Z", 
+            "ETag": "\"15ad790c1cb44a557a03dd21ff5c04ad\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_073952.gz", 
+            "Size": 1055919
+        }, 
+        {
+            "LastModified": "2015-10-22T22:12:01.000Z", 
+            "ETag": "\"04f4953740c0b010ca276d5a5bbbf5b5\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_074541.gz", 
+            "Size": 1043445
+        }, 
+        {
+            "LastModified": "2015-10-22T22:12:04.000Z", 
+            "ETag": "\"1506af490a90d787705c1c84e4af2abe\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_075129.gz", 
+            "Size": 1037981
+        }, 
+        {
+            "LastModified": "2015-10-22T22:12:06.000Z", 
+            "ETag": "\"e81a19eeaeb720cca07218c6e04234ce\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_075718.gz", 
+            "Size": 1045170
+        }, 
+        {
+            "LastModified": "2015-10-22T22:17:04.000Z", 
+            "ETag": "\"e650b8352699ff907bd7f4fdd8499170\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_080307.gz", 
+            "Size": 999558
+        }, 
+        {
+            "LastModified": "2015-10-22T22:17:06.000Z", 
+            "ETag": "\"071d4bcce1a6731e7dfe9302a0c1588a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_080855.gz", 
+            "Size": 1021973
+        }, 
+        {
+            "LastModified": "2015-10-22T22:17:08.000Z", 
+            "ETag": "\"ba1a7b07a0e7b32bf6224fa031e767e5\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_081511.gz", 
+            "Size": 1017411
+        }, 
+        {
+            "LastModified": "2015-10-22T22:17:11.000Z", 
+            "ETag": "\"0a439271531e4c8af1b9d4a11a11e6d0\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_082059.gz", 
+            "Size": 1035485
+        }, 
+        {
+            "LastModified": "2015-10-22T22:17:13.000Z", 
+            "ETag": "\"656dbe5b4ab7e6fc14fe3e2f8278d9d4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_082648.gz", 
+            "Size": 995688
+        }, 
+        {
+            "LastModified": "2015-10-22T22:17:16.000Z", 
+            "ETag": "\"48a90803f0e991e685d9fd8103dbe3ef\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_083237.gz", 
+            "Size": 985411
+        }, 
+        {
+            "LastModified": "2015-10-22T22:17:18.000Z", 
+            "ETag": "\"b18257f54031a61e0264a3dcf89b856e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_083825.gz", 
+            "Size": 1001038
+        }, 
+        {
+            "LastModified": "2015-10-22T22:17:20.000Z", 
+            "ETag": "\"9ab542c37f63ed2dd1b4db5529046871\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_084414.gz", 
+            "Size": 976107
+        }, 
+        {
+            "LastModified": "2015-10-22T22:17:22.000Z", 
+            "ETag": "\"f690a602ec1147e8d1d03292c470df19\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_085002.gz", 
+            "Size": 976086
+        }, 
+        {
+            "LastModified": "2015-10-22T22:17:25.000Z", 
+            "ETag": "\"ed576d574c057424d62f5502ab6e9722\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_085551.gz", 
+            "Size": 944295
+        }, 
+        {
+            "LastModified": "2015-10-22T22:17:27.000Z", 
+            "ETag": "\"c651f7bbf34701aded5a1b207b4ea148\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_090140.gz", 
+            "Size": 938597
+        }, 
+        {
+            "LastModified": "2015-10-22T22:17:29.000Z", 
+            "ETag": "\"2c31d94235e78d4d626e8ae49466f73f\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_090728.gz", 
+            "Size": 935979
+        }, 
+        {
+            "LastModified": "2015-10-22T22:17:31.000Z", 
+            "ETag": "\"5940cbf63d9be03bdbd29b4e5094343a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_091317.gz", 
+            "Size": 467581
+        }, 
+        {
+            "LastModified": "2015-10-22T22:17:33.000Z", 
+            "ETag": "\"5afe874d808ba6f1521894ef0b57fbb8\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_091658.gz", 
+            "Size": 874619
+        }, 
+        {
+            "LastModified": "2015-10-22T22:17:35.000Z", 
+            "ETag": "\"49e89cbe3eb226c20c20436be6c72973\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_092247.gz", 
+            "Size": 921836
+        }, 
+        {
+            "LastModified": "2015-10-22T22:17:37.000Z", 
+            "ETag": "\"dd4824ac8c6c9b965c83994c5d29d4a7\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_092835.gz", 
+            "Size": 920651
+        }, 
+        {
+            "LastModified": "2015-10-22T22:17:40.000Z", 
+            "ETag": "\"4368f8a89ce135ebbfbb111def55e337\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_093424.gz", 
+            "Size": 926225
+        }, 
+        {
+            "LastModified": "2015-10-22T22:17:42.000Z", 
+            "ETag": "\"e00d37e2d41545792d324ed59310820b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_094013.gz", 
+            "Size": 912536
+        }, 
+        {
+            "LastModified": "2015-10-22T22:17:44.000Z", 
+            "ETag": "\"0004b2752f7e71a893ac8664399f4525\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_094602.gz", 
+            "Size": 889725
+        }, 
+        {
+            "LastModified": "2015-10-22T22:17:47.000Z", 
+            "ETag": "\"63427762561d9cabd8ad79721e9a0a50\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_095151.gz", 
+            "Size": 897374
+        }, 
+        {
+            "LastModified": "2015-10-22T22:17:49.000Z", 
+            "ETag": "\"8efc3abbcfc48575cf2c08b8fd154d24\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_095739.gz", 
+            "Size": 870736
+        }, 
+        {
+            "LastModified": "2015-10-22T22:17:51.000Z", 
+            "ETag": "\"242578dfdb260baa6419a53e0ca07661\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_100328.gz", 
+            "Size": 839575
+        }, 
+        {
+            "LastModified": "2015-10-22T22:17:53.000Z", 
+            "ETag": "\"728b39e38ca944e17caf19d7759309e3\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_100916.gz", 
+            "Size": 841456
+        }, 
+        {
+            "LastModified": "2015-10-22T22:17:56.000Z", 
+            "ETag": "\"c35fb144f71a9bc00555c1b6ea890f1b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_101505.gz", 
+            "Size": 828327
+        }, 
+        {
+            "LastModified": "2015-10-22T22:17:58.000Z", 
+            "ETag": "\"0785bd5a3595f49045f98a6285473d00\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_102054.gz", 
+            "Size": 806206
+        }, 
+        {
+            "LastModified": "2015-10-22T22:18:01.000Z", 
+            "ETag": "\"9c38cf38ceb82d9990cdb4ecc3eb1cd0\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_102643.gz", 
+            "Size": 884811
+        }, 
+        {
+            "LastModified": "2015-10-22T22:18:03.000Z", 
+            "ETag": "\"1344565902320ed1ae4645f348cee5ef\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_103232.gz", 
+            "Size": 814533
+        }, 
+        {
+            "LastModified": "2015-10-22T22:18:05.000Z", 
+            "ETag": "\"3a33f8bc60bedc933b86e50d176efbd2\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_103821.gz", 
+            "Size": 823838
+        }, 
+        {
+            "LastModified": "2015-10-22T22:18:07.000Z", 
+            "ETag": "\"09378a99690586b3894110aa3ddfadfe\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_104409.gz", 
+            "Size": 776185
+        }, 
+        {
+            "LastModified": "2015-10-22T22:18:10.000Z", 
+            "ETag": "\"f427b6fe3fd61117912f7d0beaef3b80\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_104958.gz", 
+            "Size": 706722
+        }, 
+        {
+            "LastModified": "2015-10-22T22:18:12.000Z", 
+            "ETag": "\"c82bae8cf9ad6c4477de3ffc54fdb2d5\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_105547.gz", 
+            "Size": 704493
+        }, 
+        {
+            "LastModified": "2015-10-22T22:18:14.000Z", 
+            "ETag": "\"f0067304ad591616c1f53ecabfc4b460\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_110136.gz", 
+            "Size": 652184
+        }, 
+        {
+            "LastModified": "2015-10-22T22:18:16.000Z", 
+            "ETag": "\"7510b590893f0a8717a77e13e5a2be6d\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_110724.gz", 
+            "Size": 654558
+        }, 
+        {
+            "LastModified": "2015-10-22T22:18:17.000Z", 
+            "ETag": "\"36f73dcdfd993c942f7cf363ae4396a1\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_111313.gz", 
+            "Size": 602374
+        }, 
+        {
+            "LastModified": "2015-10-22T22:18:19.000Z", 
+            "ETag": "\"033a18d0b89b5a93741e34efd581a634\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_111901.gz", 
+            "Size": 595573
+        }, 
+        {
+            "LastModified": "2015-10-22T22:18:21.000Z", 
+            "ETag": "\"800cbf1f35ba2de3645a6b30cc6a2bc9\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_112450.gz", 
+            "Size": 714944
+        }, 
+        {
+            "LastModified": "2015-10-22T22:18:24.000Z", 
+            "ETag": "\"b6bc0a26f12ecffd750ff7f3435d1b25\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_113038.gz", 
+            "Size": 923005
+        }, 
+        {
+            "LastModified": "2015-10-22T22:18:25.000Z", 
+            "ETag": "\"0be00a832c0ec8dd0078f69a7a318f9a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_113627.gz", 
+            "Size": 878822
+        }, 
+        {
+            "LastModified": "2015-10-22T22:18:27.000Z", 
+            "ETag": "\"aa061d50d0e157902bc6d44096096111\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_114216.gz", 
+            "Size": 956903
+        }, 
+        {
+            "LastModified": "2015-10-22T22:18:29.000Z", 
+            "ETag": "\"952358f1530ffe3e08f1311798b20635\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_114805.gz", 
+            "Size": 901847
+        }, 
+        {
+            "LastModified": "2015-10-22T22:18:30.000Z", 
+            "ETag": "\"03c2b5f7602b61cfca730a7e65b4a9e8\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_115353.gz", 
+            "Size": 937524
+        }, 
+        {
+            "LastModified": "2015-10-22T22:18:33.000Z", 
+            "ETag": "\"dd927eb3809a4a89f335476fd5e05398\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_115942.gz", 
+            "Size": 1057165
+        }, 
+        {
+            "LastModified": "2015-10-22T22:18:35.000Z", 
+            "ETag": "\"a007694cbd6b58d655b570bc27735de9\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_120531.gz", 
+            "Size": 947446
+        }, 
+        {
+            "LastModified": "2015-10-22T22:18:37.000Z", 
+            "ETag": "\"ccdc739d1db087fa9c813653d702e77c\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_121120.gz", 
+            "Size": 998823
+        }, 
+        {
+            "LastModified": "2015-10-22T22:18:39.000Z", 
+            "ETag": "\"73d666212ba458fa7ddcc047fbed4d0d\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_121709.gz", 
+            "Size": 959645
+        }, 
+        {
+            "LastModified": "2015-10-22T22:18:40.000Z", 
+            "ETag": "\"9fe490caa68c46ccb60ba90ea39aed72\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_122258.gz", 
+            "Size": 919397
+        }, 
+        {
+            "LastModified": "2015-10-22T22:18:43.000Z", 
+            "ETag": "\"9baad15ee19a86e3381569dd204d3b69\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_122847.gz", 
+            "Size": 1055665
+        }, 
+        {
+            "LastModified": "2015-10-22T22:18:45.000Z", 
+            "ETag": "\"bf31f8b972778562e91c5dce785fdcfd\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_123436.gz", 
+            "Size": 904395
+        }, 
+        {
+            "LastModified": "2015-10-22T22:18:47.000Z", 
+            "ETag": "\"3af3a43633065c0a1fbf00da6307ac82\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_124025.gz", 
+            "Size": 914061
+        }, 
+        {
+            "LastModified": "2015-10-22T22:18:48.000Z", 
+            "ETag": "\"7afde80f26e27ce4fb43b28a7eb3746e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_124614.gz", 
+            "Size": 858878
+        }, 
+        {
+            "LastModified": "2015-10-22T22:18:51.000Z", 
+            "ETag": "\"c480711410dfd61fac9c2c9a4bdb9c7a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_125204.gz", 
+            "Size": 951892
+        }, 
+        {
+            "LastModified": "2015-10-22T22:18:53.000Z", 
+            "ETag": "\"4faee6899feeeb5f37f4e92bb8453f9a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_125752.gz", 
+            "Size": 891931
+        }, 
+        {
+            "LastModified": "2015-10-22T22:18:54.000Z", 
+            "ETag": "\"45e30681cb1e74ef085ec7a79b83d5ab\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_130340.gz", 
+            "Size": 795776
+        }, 
+        {
+            "LastModified": "2015-10-22T22:18:56.000Z", 
+            "ETag": "\"ef44c34c52ec5cd10355f8be99e36469\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_130929.gz", 
+            "Size": 807680
+        }, 
+        {
+            "LastModified": "2015-10-22T22:18:58.000Z", 
+            "ETag": "\"a13e50a45ded226cd9dade3a32630631\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_131518.gz", 
+            "Size": 809664
+        }, 
+        {
+            "LastModified": "2015-10-22T22:19:00.000Z", 
+            "ETag": "\"921f4d1a076f4de66a37eacf5a052e26\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_132106.gz", 
+            "Size": 739303
+        }, 
+        {
+            "LastModified": "2015-10-22T22:19:01.000Z", 
+            "ETag": "\"232cbbc7805b29dc195161a973c2dc22\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_132655.gz", 
+            "Size": 806676
+        }, 
+        {
+            "LastModified": "2015-10-22T22:19:03.000Z", 
+            "ETag": "\"f18b3347bb3c1e62663caa1bccf8d37c\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_133244.gz", 
+            "Size": 745463
+        }, 
+        {
+            "LastModified": "2015-10-22T22:19:05.000Z", 
+            "ETag": "\"6ee83c6dffe7b91b51188b476f898de7\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_133832.gz", 
+            "Size": 803623
+        }, 
+        {
+            "LastModified": "2015-10-22T22:19:07.000Z", 
+            "ETag": "\"502089e86249f3500352655e49bb3ffb\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_134421.gz", 
+            "Size": 767537
+        }, 
+        {
+            "LastModified": "2015-10-22T22:19:08.000Z", 
+            "ETag": "\"c71f41c2c42d5baef0cf4bd21bab9136\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_135009.gz", 
+            "Size": 760349
+        }, 
+        {
+            "LastModified": "2015-10-22T22:19:10.000Z", 
+            "ETag": "\"82d0c2eaf664b43f741365d85bd7f0d7\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_135558.gz", 
+            "Size": 821868
+        }, 
+        {
+            "LastModified": "2015-10-22T22:19:12.000Z", 
+            "ETag": "\"43d944a871836811d80caa81fbdca8b3\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_140146.gz", 
+            "Size": 794093
+        }, 
+        {
+            "LastModified": "2015-10-22T22:19:14.000Z", 
+            "ETag": "\"26eef7b7222b8bbd0351dd2824fbea0e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_140734.gz", 
+            "Size": 835442
+        }, 
+        {
+            "LastModified": "2015-10-22T22:19:16.000Z", 
+            "ETag": "\"349252e71714f3ee3ad7b48eb99317a3\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_141323.gz", 
+            "Size": 800581
+        }, 
+        {
+            "LastModified": "2015-10-22T22:19:17.000Z", 
+            "ETag": "\"0ae7904decc4fa89e9afe9d4ba1e1edf\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_141912.gz", 
+            "Size": 814757
+        }, 
+        {
+            "LastModified": "2015-10-22T22:19:19.000Z", 
+            "ETag": "\"0e0cb9a3100542d0358710ecf2ef0e74\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_142501.gz", 
+            "Size": 835600
+        }, 
+        {
+            "LastModified": "2015-10-22T22:19:21.000Z", 
+            "ETag": "\"e80fd9e7a1ffb110423da8499b436330\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_143049.gz", 
+            "Size": 801348
+        }, 
+        {
+            "LastModified": "2015-10-22T22:19:23.000Z", 
+            "ETag": "\"1b01b994ace5ed37e543b8dd1c8c267b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_143638.gz", 
+            "Size": 848747
+        }, 
+        {
+            "LastModified": "2015-10-22T22:19:25.000Z", 
+            "ETag": "\"5684ca62097ce7f5492547d95cc0088a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_144226.gz", 
+            "Size": 804374
+        }, 
+        {
+            "LastModified": "2015-10-22T22:19:27.000Z", 
+            "ETag": "\"9a798aa86549f2aa4b9d7cfe8b05ef89\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_144815.gz", 
+            "Size": 828408
+        }, 
+        {
+            "LastModified": "2015-10-22T22:19:28.000Z", 
+            "ETag": "\"035629087fb1f05654f5559295cb6463\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_145404.gz", 
+            "Size": 839189
+        }, 
+        {
+            "LastModified": "2015-10-22T22:19:30.000Z", 
+            "ETag": "\"70f2760e44accd14bb25e44feba2e1cd\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_145953.gz", 
+            "Size": 781563
+        }, 
+        {
+            "LastModified": "2015-10-22T22:19:32.000Z", 
+            "ETag": "\"b68b22183e0416cbe821864ab2e4fd03\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_150541.gz", 
+            "Size": 828663
+        }, 
+        {
+            "LastModified": "2015-10-22T22:19:34.000Z", 
+            "ETag": "\"394082546d708fd45de3db1298ba8fe6\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_151130.gz", 
+            "Size": 790266
+        }, 
+        {
+            "LastModified": "2015-10-22T22:19:36.000Z", 
+            "ETag": "\"a3d61b59dc4a9a14466c862a735235d3\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_151719.gz", 
+            "Size": 790133
+        }, 
+        {
+            "LastModified": "2015-10-22T22:19:38.000Z", 
+            "ETag": "\"ab2a9a6e52c19abc4537d63c79f213d6\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_152308.gz", 
+            "Size": 814532
+        }, 
+        {
+            "LastModified": "2015-10-22T22:19:40.000Z", 
+            "ETag": "\"549ab2c46ef511d5136aaae0aa48a332\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_152856.gz", 
+            "Size": 776142
+        }, 
+        {
+            "LastModified": "2015-10-22T22:19:42.000Z", 
+            "ETag": "\"2e3019f5bd854b502721e7a3719c7365\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_153445.gz", 
+            "Size": 821083
+        }, 
+        {
+            "LastModified": "2015-10-22T22:19:43.000Z", 
+            "ETag": "\"557cf97ef19643aeab59a19cb5620473\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_154034.gz", 
+            "Size": 796230
+        }, 
+        {
+            "LastModified": "2015-10-22T22:19:45.000Z", 
+            "ETag": "\"1bbcf70abd9db8a1497f0d8a983f7f1b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_154622.gz", 
+            "Size": 792874
+        }, 
+        {
+            "LastModified": "2015-10-22T22:19:47.000Z", 
+            "ETag": "\"65b1ed0417948b4c3a22ff9ffeac59de\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_155211.gz", 
+            "Size": 834355
+        }, 
+        {
+            "LastModified": "2015-10-22T22:19:49.000Z", 
+            "ETag": "\"7a483f5b21195fa19199546e1053a3b8\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_155800.gz", 
+            "Size": 803124
+        }, 
+        {
+            "LastModified": "2015-10-22T21:25:13.000Z", 
+            "ETag": "\"b0263667a80cd026ba73043e48d981d0\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_160348.gz", 
+            "Size": 848349
+        }, 
+        {
+            "LastModified": "2015-10-22T21:25:15.000Z", 
+            "ETag": "\"c1c5f2c30c2605e8c15c642be9ca194b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_160939.gz", 
+            "Size": 840577
+        }, 
+        {
+            "LastModified": "2015-10-22T21:25:17.000Z", 
+            "ETag": "\"3ef40e51020e5cb79f80e06882e90280\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_161554.gz", 
+            "Size": 837455
+        }, 
+        {
+            "LastModified": "2015-10-22T21:25:19.000Z", 
+            "ETag": "\"08f0cce005bbe9469654194d25eef865\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_162143.gz", 
+            "Size": 843497
+        }, 
+        {
+            "LastModified": "2015-10-22T21:25:21.000Z", 
+            "ETag": "\"2001d0f7d24ac8bb300faf94539602a7\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_162732.gz", 
+            "Size": 859670
+        }, 
+        {
+            "LastModified": "2015-10-22T21:25:23.000Z", 
+            "ETag": "\"60f9bb730b412f583b3f3212ebac426b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_163321.gz", 
+            "Size": 853333
+        }, 
+        {
+            "LastModified": "2015-10-22T21:25:25.000Z", 
+            "ETag": "\"68da93324bbb756fdf98febb363450bb\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_163910.gz", 
+            "Size": 827230
+        }, 
+        {
+            "LastModified": "2015-10-22T21:25:27.000Z", 
+            "ETag": "\"5edbcf840e75672608dbf2e0260b78d6\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_164458.gz", 
+            "Size": 825567
+        }, 
+        {
+            "LastModified": "2015-10-22T21:25:28.000Z", 
+            "ETag": "\"c94b564bc75f4b9154162608e900d3a1\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_165047.gz", 
+            "Size": 837682
+        }, 
+        {
+            "LastModified": "2015-10-22T21:25:30.000Z", 
+            "ETag": "\"f272e7ac5c5098a3378c75d5e362f39e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_165636.gz", 
+            "Size": 824792
+        }, 
+        {
+            "LastModified": "2015-10-22T21:25:32.000Z", 
+            "ETag": "\"6803c76d09a3da69a4051b80f80c482e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_170224.gz", 
+            "Size": 849119
+        }, 
+        {
+            "LastModified": "2015-10-22T21:25:34.000Z", 
+            "ETag": "\"1ce160ba814edd7144a44fa3f3f48953\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_170813.gz", 
+            "Size": 824488
+        }, 
+        {
+            "LastModified": "2015-10-22T21:25:36.000Z", 
+            "ETag": "\"094bff976fa65ffd0ac166f3d80cde3f\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_171402.gz", 
+            "Size": 840880
+        }, 
+        {
+            "LastModified": "2015-10-22T21:25:38.000Z", 
+            "ETag": "\"f774b6f6886de70c3032054feca332f3\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_171950.gz", 
+            "Size": 844576
+        }, 
+        {
+            "LastModified": "2015-10-22T21:25:40.000Z", 
+            "ETag": "\"dda4a8202dfed938595cedccc7fe3778\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_172539.gz", 
+            "Size": 836210
+        }, 
+        {
+            "LastModified": "2015-10-22T21:25:41.000Z", 
+            "ETag": "\"4df4a92b594b7d46878a465b22e45c8e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/KFDR19920718_173127.gz", 
+            "Size": 302498
+        }, 
+        {
+            "LastModified": "2015-10-22T22:12:07.000Z", 
+            "ETag": "\"aa517598064ffc604f1a4eb694d66291\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/NWS_NEXRAD_NXL2LG_KFDR_19920718000000_19920718075959.tar", 
+            "Size": 33
+        }, 
+        {
+            "LastModified": "2015-10-22T22:19:50.000Z", 
+            "ETag": "\"2588cb9443c692199393362985d3eaac\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/NWS_NEXRAD_NXL2LG_KFDR_19920718080000_19920718155959.tar", 
+            "Size": 33
+        }, 
+        {
+            "LastModified": "2015-10-22T21:25:42.000Z", 
+            "ETag": "\"c5391d73bcc4ab451e6e0c162bd5a38b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1992/07/18/KFDR/NWS_NEXRAD_NXL2LG_KFDR_19920718160000_19920718235959.tar", 
+            "Size": 33
+        }
+    ]
+}

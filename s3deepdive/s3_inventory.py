@@ -37,7 +37,7 @@ class RecursionPrefixes():
         self.profile = p
         self.query = "--query \"{Keys:Contents[].{Key: Key, Size: Size,ETag:ETag},CommonPrefixes:CommonPrefixes[].Prefix}\""
         self.cmd_temp = "nohup aws s3api list-objects-v2 --bucket {0} --delimiter '/' {2} {1} --profile {4} > {3}  &"
-        self.cmd_temp_obj = "nohup aws s3api list-objects-v2 --bucket {0} {2} {1} --profile {4} > {3} &"
+        self.cmd_temp_obj = "nohup aws s3api list-objects-v2 --bucket {0} {2} {1} --profile {4} --cli-read-timeout 0 --cli-connect-timeout 0  > {3} &"
     
     def fetchTop(self):
         logger.info("Begin list top level folders and objects!")
@@ -97,6 +97,7 @@ class RecursionPrefixes():
         if self.max_depth >= 1:
             self.fetch2(file,1,"0")
         fidx = 0
+        pauseTimeIdx = 0
         for p in self.task_objects:
             fidx = fidx + 1
             fileName = self.rtfile_temp.format("final",fidx,"")
@@ -105,6 +106,10 @@ class RecursionPrefixes():
             cmd = self.cmd_temp_obj.format(self.bucket,"",para_p,fileName,self.profile)
             logger.info(cmd)
             os.system(cmd)
+            if fidx % 100 == 0:
+                pauseTimeIdx = pauseTimeIdx + 1
+                time.sleep(20 * pauseTimeIdx)
+                
             task =  {'level':self.max_depth,'file':fileName,'parent':-1,'prefix':para_p_value}
             self.task_prefixes.append(task)
 

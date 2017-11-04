@@ -1,0 +1,4463 @@
+{
+    "Contents": [
+        {
+            "LastModified": "2015-10-23T05:30:15.000Z", 
+            "ETag": "\"25b450099975934eeb29c8e907f648f3\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_000517.gz", 
+            "Size": 633993
+        }, 
+        {
+            "LastModified": "2015-10-23T05:30:17.000Z", 
+            "ETag": "\"e28edf2fac133be075e45756cd377e9e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_001114.gz", 
+            "Size": 635944
+        }, 
+        {
+            "LastModified": "2015-10-23T05:30:19.000Z", 
+            "ETag": "\"21b2fcd77147279b87392565977b073b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_001710.gz", 
+            "Size": 653718
+        }, 
+        {
+            "LastModified": "2015-10-23T05:30:20.000Z", 
+            "ETag": "\"b284f1bfefb7f58e9f9027093741b65e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_002307.gz", 
+            "Size": 511523
+        }, 
+        {
+            "LastModified": "2015-10-23T05:30:22.000Z", 
+            "ETag": "\"4c16ea8bf63af2c5eeca3155777f1053\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_002902.gz", 
+            "Size": 653334
+        }, 
+        {
+            "LastModified": "2015-10-23T05:30:23.000Z", 
+            "ETag": "\"4574e808025a189e20e5d834a00b7254\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_003459.gz", 
+            "Size": 664535
+        }, 
+        {
+            "LastModified": "2015-10-23T05:30:25.000Z", 
+            "ETag": "\"7bf43d18d9dae42fe904b68c1879c7a2\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_004055.gz", 
+            "Size": 687072
+        }, 
+        {
+            "LastModified": "2015-10-23T05:30:27.000Z", 
+            "ETag": "\"386788d48c12ee9a7ee816e53cfe800d\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_004652.gz", 
+            "Size": 667063
+        }, 
+        {
+            "LastModified": "2015-10-23T05:30:28.000Z", 
+            "ETag": "\"bd7ba57a27bde844f541a075ae8b6885\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_005249.gz", 
+            "Size": 660814
+        }, 
+        {
+            "LastModified": "2015-10-23T05:30:30.000Z", 
+            "ETag": "\"4bc05fcccb5bde81b5c9476df9631c84\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_005846.gz", 
+            "Size": 652720
+        }, 
+        {
+            "LastModified": "2015-10-23T05:30:32.000Z", 
+            "ETag": "\"2e04ed4fa28dd9d85388d54aec15c5a2\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_010441.gz", 
+            "Size": 634713
+        }, 
+        {
+            "LastModified": "2015-10-23T05:30:33.000Z", 
+            "ETag": "\"3c535670aeefc1af6bab47eeb7737b34\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_011038.gz", 
+            "Size": 640316
+        }, 
+        {
+            "LastModified": "2015-10-23T05:30:35.000Z", 
+            "ETag": "\"2c456dc1b390a27a05b21da47c61c0e9\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_011634.gz", 
+            "Size": 633742
+        }, 
+        {
+            "LastModified": "2015-10-23T05:30:37.000Z", 
+            "ETag": "\"ac9ba7e313d6198840bb0ca8bed0b7a9\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_012229.gz", 
+            "Size": 626100
+        }, 
+        {
+            "LastModified": "2015-10-23T05:30:39.000Z", 
+            "ETag": "\"8107e9d64858bea3b9404841027f84ad\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_012825.gz", 
+            "Size": 640137
+        }, 
+        {
+            "LastModified": "2015-10-23T05:30:40.000Z", 
+            "ETag": "\"86a1e67cc4605025a7feae555ad06602\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_013422.gz", 
+            "Size": 653249
+        }, 
+        {
+            "LastModified": "2015-10-23T05:30:42.000Z", 
+            "ETag": "\"3ea40d36fcc41682be938d0de71a0a87\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_014018.gz", 
+            "Size": 644256
+        }, 
+        {
+            "LastModified": "2015-10-23T05:30:44.000Z", 
+            "ETag": "\"98c6eb3c2797faa56c172633ef2936f4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_014615.gz", 
+            "Size": 520049
+        }, 
+        {
+            "LastModified": "2015-10-23T05:30:45.000Z", 
+            "ETag": "\"3fed1996134237a54edccc7a15a9bcbd\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_015211.gz", 
+            "Size": 630046
+        }, 
+        {
+            "LastModified": "2015-10-23T05:30:47.000Z", 
+            "ETag": "\"809519a6aaf68fb306a6fcd726978cb8\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_015807.gz", 
+            "Size": 634449
+        }, 
+        {
+            "LastModified": "2015-10-23T05:30:49.000Z", 
+            "ETag": "\"62df38d39fde92ce7c89a4197e5c5e24\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_020404.gz", 
+            "Size": 638865
+        }, 
+        {
+            "LastModified": "2015-10-23T05:30:50.000Z", 
+            "ETag": "\"7b67601a8e508d4a095c5b1736a0811b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_021000.gz", 
+            "Size": 631264
+        }, 
+        {
+            "LastModified": "2015-10-23T05:30:52.000Z", 
+            "ETag": "\"9899e73e484fce3fee353032e42b776e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_021557.gz", 
+            "Size": 630809
+        }, 
+        {
+            "LastModified": "2015-10-23T05:30:54.000Z", 
+            "ETag": "\"c35a51f3922ffc035362e04877a289a0\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_022153.gz", 
+            "Size": 638846
+        }, 
+        {
+            "LastModified": "2015-10-23T05:30:55.000Z", 
+            "ETag": "\"db5b64a53d2f4c9165bfd9eb474d2720\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_022749.gz", 
+            "Size": 631533
+        }, 
+        {
+            "LastModified": "2015-10-23T05:30:57.000Z", 
+            "ETag": "\"05ce8a49babec1c200e8e0a618b37b65\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_023345.gz", 
+            "Size": 648141
+        }, 
+        {
+            "LastModified": "2015-10-23T05:30:59.000Z", 
+            "ETag": "\"6e92dfd26833d319b885fb9faafd18cb\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_023942.gz", 
+            "Size": 650287
+        }, 
+        {
+            "LastModified": "2015-10-23T05:31:00.000Z", 
+            "ETag": "\"5fb5dc3535dae94834d9f955ab2a2dd7\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_024538.gz", 
+            "Size": 635424
+        }, 
+        {
+            "LastModified": "2015-10-23T05:31:02.000Z", 
+            "ETag": "\"6ee9d9c9710ef09b1a0470edcd3bcf05\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_025135.gz", 
+            "Size": 640741
+        }, 
+        {
+            "LastModified": "2015-10-23T05:31:04.000Z", 
+            "ETag": "\"d5ecea5b4c74a44c97086470ff41c282\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_025731.gz", 
+            "Size": 640068
+        }, 
+        {
+            "LastModified": "2015-10-23T05:31:05.000Z", 
+            "ETag": "\"47306218e304e68116d020b62b688b3d\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_030327.gz", 
+            "Size": 624933
+        }, 
+        {
+            "LastModified": "2015-10-23T05:31:07.000Z", 
+            "ETag": "\"4d61278bc4a276233d37815af44a6112\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_030923.gz", 
+            "Size": 351729
+        }, 
+        {
+            "LastModified": "2015-10-23T05:31:08.000Z", 
+            "ETag": "\"3224a43b89a3dc0028b7befb6a9da93e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_031520.gz", 
+            "Size": 644675
+        }, 
+        {
+            "LastModified": "2015-10-23T05:31:10.000Z", 
+            "ETag": "\"048c9be2fa3d1cc19d2f923921ebae76\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_032117.gz", 
+            "Size": 658323
+        }, 
+        {
+            "LastModified": "2015-10-23T05:31:12.000Z", 
+            "ETag": "\"434637c3b05074c222942850aa10bbf1\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_032713.gz", 
+            "Size": 654057
+        }, 
+        {
+            "LastModified": "2015-10-23T05:31:13.000Z", 
+            "ETag": "\"8e131fb1e112cf6348a7485a125385f4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_033310.gz", 
+            "Size": 656569
+        }, 
+        {
+            "LastModified": "2015-10-23T05:31:15.000Z", 
+            "ETag": "\"1ecf59532e84860e4d1723adc4d0ad59\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_033907.gz", 
+            "Size": 645799
+        }, 
+        {
+            "LastModified": "2015-10-23T05:31:17.000Z", 
+            "ETag": "\"564ca676c81cc1f4ef1cd73587615bba\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_034503.gz", 
+            "Size": 638748
+        }, 
+        {
+            "LastModified": "2015-10-23T05:31:18.000Z", 
+            "ETag": "\"51908b00fc20db956c2366ae98317c01\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_035059.gz", 
+            "Size": 632131
+        }, 
+        {
+            "LastModified": "2015-10-23T05:31:20.000Z", 
+            "ETag": "\"20ab10ba0de5e90be8ece5fc81e78dd6\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_035655.gz", 
+            "Size": 609614
+        }, 
+        {
+            "LastModified": "2015-10-23T05:31:22.000Z", 
+            "ETag": "\"e7bed30eeceec04c25883a2d4b1fce0d\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_040252.gz", 
+            "Size": 591313
+        }, 
+        {
+            "LastModified": "2015-10-23T05:31:23.000Z", 
+            "ETag": "\"e8763b563d34d5c75660552fff25cd60\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_040848.gz", 
+            "Size": 596322
+        }, 
+        {
+            "LastModified": "2015-10-23T05:31:25.000Z", 
+            "ETag": "\"a0831387281649ea529821273c8c4152\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_041445.gz", 
+            "Size": 604498
+        }, 
+        {
+            "LastModified": "2015-10-23T05:31:27.000Z", 
+            "ETag": "\"24a9c518abb11f26ff3bafaab411b87b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_042040.gz", 
+            "Size": 605380
+        }, 
+        {
+            "LastModified": "2015-10-23T05:31:29.000Z", 
+            "ETag": "\"401df042d5760156f7ace6ad3a38a9cd\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_042636.gz", 
+            "Size": 602332
+        }, 
+        {
+            "LastModified": "2015-10-23T05:31:30.000Z", 
+            "ETag": "\"24f9a737d6e3b7f1c09605d872e934a6\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_043233.gz", 
+            "Size": 600681
+        }, 
+        {
+            "LastModified": "2015-10-23T05:31:32.000Z", 
+            "ETag": "\"5d7685a086762e15b4dec22a9aaf83b4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_043830.gz", 
+            "Size": 590154
+        }, 
+        {
+            "LastModified": "2015-10-23T05:31:34.000Z", 
+            "ETag": "\"ba08230702631df5eb34b4ec6f3a0b79\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_044426.gz", 
+            "Size": 578578
+        }, 
+        {
+            "LastModified": "2015-10-23T05:31:35.000Z", 
+            "ETag": "\"7db57463a489e6198595d11b47193db1\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_045022.gz", 
+            "Size": 557998
+        }, 
+        {
+            "LastModified": "2015-10-23T05:31:37.000Z", 
+            "ETag": "\"3ecf78e44d9c1c361d45cb4d41c58582\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_045619.gz", 
+            "Size": 547011
+        }, 
+        {
+            "LastModified": "2015-10-23T05:31:39.000Z", 
+            "ETag": "\"61480dd8d2a00e0d6cda655f52e34463\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_050216.gz", 
+            "Size": 549394
+        }, 
+        {
+            "LastModified": "2015-10-23T05:31:41.000Z", 
+            "ETag": "\"27fa66be4c5ec62737a4c4676efb3c97\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_050812.gz", 
+            "Size": 555398
+        }, 
+        {
+            "LastModified": "2015-10-23T05:31:42.000Z", 
+            "ETag": "\"9536384e15ca8666dfe4e84db96cb6c6\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_051409.gz", 
+            "Size": 556422
+        }, 
+        {
+            "LastModified": "2015-10-23T05:31:44.000Z", 
+            "ETag": "\"5398750a4fecbcbd7a2df51eebeb2944\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_052032.gz", 
+            "Size": 557141
+        }, 
+        {
+            "LastModified": "2015-10-23T05:31:46.000Z", 
+            "ETag": "\"dcae0f01c01568e5e9fd818efa218d1d\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_052628.gz", 
+            "Size": 546003
+        }, 
+        {
+            "LastModified": "2015-10-23T05:31:48.000Z", 
+            "ETag": "\"f92a961e45a275d01cc6ff3576c7d3f9\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_053224.gz", 
+            "Size": 529786
+        }, 
+        {
+            "LastModified": "2015-10-23T05:31:49.000Z", 
+            "ETag": "\"c4028e3f1912164e70f51248e68e7a2e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_053821.gz", 
+            "Size": 511423
+        }, 
+        {
+            "LastModified": "2015-10-23T05:31:51.000Z", 
+            "ETag": "\"8a6643fe1ffbf901455e123eb53b7e27\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_054418.gz", 
+            "Size": 503329
+        }, 
+        {
+            "LastModified": "2015-10-23T05:31:53.000Z", 
+            "ETag": "\"87c494720318ce71513a0bbf4bf7d871\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_055014.gz", 
+            "Size": 499186
+        }, 
+        {
+            "LastModified": "2015-10-23T05:31:54.000Z", 
+            "ETag": "\"e1cc30928d979449351a2bba86f37ede\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_055611.gz", 
+            "Size": 497427
+        }, 
+        {
+            "LastModified": "2015-10-23T05:31:56.000Z", 
+            "ETag": "\"c619c110423814f913931a341cc029bb\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_060207.gz", 
+            "Size": 501993
+        }, 
+        {
+            "LastModified": "2015-10-23T05:31:58.000Z", 
+            "ETag": "\"5a7e96e94e1f8df920dee3dc23f0236e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_060803.gz", 
+            "Size": 507357
+        }, 
+        {
+            "LastModified": "2015-10-23T05:32:00.000Z", 
+            "ETag": "\"ed2f9c5c7463961b83cac943c8f89429\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_061400.gz", 
+            "Size": 506490
+        }, 
+        {
+            "LastModified": "2015-10-23T05:32:01.000Z", 
+            "ETag": "\"401c4af1ff65fdec72ebbac4f20a7244\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_061956.gz", 
+            "Size": 495901
+        }, 
+        {
+            "LastModified": "2015-10-23T05:32:03.000Z", 
+            "ETag": "\"8b967d21387313776513dbcabfccc546\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_062553.gz", 
+            "Size": 480625
+        }, 
+        {
+            "LastModified": "2015-10-23T05:32:05.000Z", 
+            "ETag": "\"30577f691a9f7e6ea889ef38ab27bdf2\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_063149.gz", 
+            "Size": 465950
+        }, 
+        {
+            "LastModified": "2015-10-23T05:32:06.000Z", 
+            "ETag": "\"df263ae9e9f8001be6c3c2a353e8d448\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_063745.gz", 
+            "Size": 457748
+        }, 
+        {
+            "LastModified": "2015-10-23T05:32:08.000Z", 
+            "ETag": "\"ffe94fe206b67b0f7dd0e776bf61007c\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_064342.gz", 
+            "Size": 443478
+        }, 
+        {
+            "LastModified": "2015-10-23T05:32:10.000Z", 
+            "ETag": "\"81b33f6f03585f8e28f690aa358d7f38\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_064939.gz", 
+            "Size": 445767
+        }, 
+        {
+            "LastModified": "2015-10-23T05:32:11.000Z", 
+            "ETag": "\"647d92e1b6bddfb21a66f3a5f4d38eac\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_065535.gz", 
+            "Size": 443189
+        }, 
+        {
+            "LastModified": "2015-10-23T05:32:13.000Z", 
+            "ETag": "\"f1581bae740f9bb6472b034a416d8de1\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_070132.gz", 
+            "Size": 443245
+        }, 
+        {
+            "LastModified": "2015-10-23T05:32:15.000Z", 
+            "ETag": "\"f2827963d37518d7f131f555a6438efd\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_070729.gz", 
+            "Size": 447677
+        }, 
+        {
+            "LastModified": "2015-10-23T05:32:17.000Z", 
+            "ETag": "\"2b50363d3d0ce4e960700b0a562a8314\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_071325.gz", 
+            "Size": 442126
+        }, 
+        {
+            "LastModified": "2015-10-23T05:32:18.000Z", 
+            "ETag": "\"864622d59fd63b7f5251a9961326e193\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_071921.gz", 
+            "Size": 430113
+        }, 
+        {
+            "LastModified": "2015-10-23T05:32:20.000Z", 
+            "ETag": "\"cac5e0d2918c4fae5fd7962b510b94cc\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_072518.gz", 
+            "Size": 418551
+        }, 
+        {
+            "LastModified": "2015-10-23T05:32:22.000Z", 
+            "ETag": "\"55f6df0ab9145afa575974e0aae56c21\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_073115.gz", 
+            "Size": 406529
+        }, 
+        {
+            "LastModified": "2015-10-23T05:32:23.000Z", 
+            "ETag": "\"728dad443417195776d91f52df109135\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_073711.gz", 
+            "Size": 396119
+        }, 
+        {
+            "LastModified": "2015-10-23T05:32:25.000Z", 
+            "ETag": "\"b025e132acbe3b1c1ea73556d1060fa5\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_074308.gz", 
+            "Size": 403841
+        }, 
+        {
+            "LastModified": "2015-10-23T05:32:27.000Z", 
+            "ETag": "\"bb6ecb6558001b86c339bb5d336b42fb\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_074904.gz", 
+            "Size": 418288
+        }, 
+        {
+            "LastModified": "2015-10-23T05:32:29.000Z", 
+            "ETag": "\"10738c2b16f2650e3c4f0a74ce3ec16b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_075500.gz", 
+            "Size": 423892
+        }, 
+        {
+            "LastModified": "2015-10-23T05:02:55.000Z", 
+            "ETag": "\"441af320a5260edb27f6191d66a24c1d\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_080056.gz", 
+            "Size": 434494
+        }, 
+        {
+            "LastModified": "2015-10-23T05:02:56.000Z", 
+            "ETag": "\"ebc9b01e5e75b06c44cae749b6148bbe\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_080653.gz", 
+            "Size": 433617
+        }, 
+        {
+            "LastModified": "2015-10-23T05:02:58.000Z", 
+            "ETag": "\"205b031a9d787b25147ec0e29d75abed\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_081249.gz", 
+            "Size": 428460
+        }, 
+        {
+            "LastModified": "2015-10-23T05:03:00.000Z", 
+            "ETag": "\"c466f79b2257dd5eb6d774f0b7482db3\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_081845.gz", 
+            "Size": 428862
+        }, 
+        {
+            "LastModified": "2015-10-23T05:03:01.000Z", 
+            "ETag": "\"c365977b98e5e37a3750860c313cf2da\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_082442.gz", 
+            "Size": 427159
+        }, 
+        {
+            "LastModified": "2015-10-23T05:03:03.000Z", 
+            "ETag": "\"4d342c727c1266665edc3dc394a09683\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_083038.gz", 
+            "Size": 330942
+        }, 
+        {
+            "LastModified": "2015-10-23T05:03:05.000Z", 
+            "ETag": "\"38d664c2e795330232ae1289ca30424b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_083635.gz", 
+            "Size": 431890
+        }, 
+        {
+            "LastModified": "2015-10-23T05:03:06.000Z", 
+            "ETag": "\"865a687f9922d15c5772a2b08b4db2b6\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_084230.gz", 
+            "Size": 439993
+        }, 
+        {
+            "LastModified": "2015-10-23T05:03:08.000Z", 
+            "ETag": "\"314f935acab0e3c8efad987b8564b65a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_084826.gz", 
+            "Size": 448395
+        }, 
+        {
+            "LastModified": "2015-10-23T05:03:10.000Z", 
+            "ETag": "\"7b1410aed21ffc80436f19a719cdb951\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_085422.gz", 
+            "Size": 448593
+        }, 
+        {
+            "LastModified": "2015-10-23T05:03:12.000Z", 
+            "ETag": "\"7e3393c2cef47a7e2758d44221e46b48\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_090018.gz", 
+            "Size": 441350
+        }, 
+        {
+            "LastModified": "2015-10-23T05:03:13.000Z", 
+            "ETag": "\"53b5e109dd86c22b4c6c7c756a7728af\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_090614.gz", 
+            "Size": 440546
+        }, 
+        {
+            "LastModified": "2015-10-23T05:03:15.000Z", 
+            "ETag": "\"616b27398ef376e17b4b14974e6cca42\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_091211.gz", 
+            "Size": 424219
+        }, 
+        {
+            "LastModified": "2015-10-23T05:03:17.000Z", 
+            "ETag": "\"f660962397f37c349352839e208d8d4f\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_091807.gz", 
+            "Size": 432991
+        }, 
+        {
+            "LastModified": "2015-10-23T05:03:18.000Z", 
+            "ETag": "\"16c1264fa4c096b35af95dd839e2ebd4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_092403.gz", 
+            "Size": 446238
+        }, 
+        {
+            "LastModified": "2015-10-23T05:03:20.000Z", 
+            "ETag": "\"79b0d9a035ff65f7ebfc0863607a4ff6\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_093000.gz", 
+            "Size": 446456
+        }, 
+        {
+            "LastModified": "2015-10-23T05:03:22.000Z", 
+            "ETag": "\"0a538f0eaca2f088affa435b1fb3e74d\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_093556.gz", 
+            "Size": 450999
+        }, 
+        {
+            "LastModified": "2015-10-23T05:03:23.000Z", 
+            "ETag": "\"f5ff0ed92ecb45947389189b33395bb7\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_094152.gz", 
+            "Size": 453029
+        }, 
+        {
+            "LastModified": "2015-10-23T05:03:25.000Z", 
+            "ETag": "\"5e316db809cb35aa79bd7c2992b809b0\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_094749.gz", 
+            "Size": 455748
+        }, 
+        {
+            "LastModified": "2015-10-23T05:03:27.000Z", 
+            "ETag": "\"80ff0ad2c56f869aa0262f9cb02e1c7e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_095345.gz", 
+            "Size": 447693
+        }, 
+        {
+            "LastModified": "2015-10-23T05:03:28.000Z", 
+            "ETag": "\"e9967cc6e692860fd874f46b5ab0742d\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_095942.gz", 
+            "Size": 454309
+        }, 
+        {
+            "LastModified": "2015-10-23T05:03:30.000Z", 
+            "ETag": "\"9c9ff0e1c40f642306edfb27301dc76b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_100538.gz", 
+            "Size": 442651
+        }, 
+        {
+            "LastModified": "2015-10-23T05:03:32.000Z", 
+            "ETag": "\"f3a785b3c00a51a8fb7733e31d17d9d9\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_101135.gz", 
+            "Size": 434574
+        }, 
+        {
+            "LastModified": "2015-10-23T05:03:33.000Z", 
+            "ETag": "\"346cc9d393721afcd799814a1567057e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_101731.gz", 
+            "Size": 436448
+        }, 
+        {
+            "LastModified": "2015-10-23T05:03:35.000Z", 
+            "ETag": "\"69f46a4acc5bc238c495d4d9f46d146c\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_102327.gz", 
+            "Size": 436186
+        }, 
+        {
+            "LastModified": "2015-10-23T05:03:37.000Z", 
+            "ETag": "\"16598727d4649399144be721ed0b3d45\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_102924.gz", 
+            "Size": 435559
+        }, 
+        {
+            "LastModified": "2015-10-23T05:03:39.000Z", 
+            "ETag": "\"a1c8b2bfb0ddf1b789b298f24fb69813\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_103521.gz", 
+            "Size": 441894
+        }, 
+        {
+            "LastModified": "2015-10-23T05:03:40.000Z", 
+            "ETag": "\"9e7617c0f83e5efdb64d1db22440a1f4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_104117.gz", 
+            "Size": 440368
+        }, 
+        {
+            "LastModified": "2015-10-23T05:03:42.000Z", 
+            "ETag": "\"cc87f4ebd5afd5d0af1b96009f780798\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_104713.gz", 
+            "Size": 441662
+        }, 
+        {
+            "LastModified": "2015-10-23T05:03:44.000Z", 
+            "ETag": "\"d515da79efffe6c54be6e72efd7a098a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_105310.gz", 
+            "Size": 439810
+        }, 
+        {
+            "LastModified": "2015-10-23T05:03:45.000Z", 
+            "ETag": "\"38f77195dcb43a8046f701aa1ac578a2\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_105906.gz", 
+            "Size": 425914
+        }, 
+        {
+            "LastModified": "2015-10-23T05:03:47.000Z", 
+            "ETag": "\"eaf173e1121c198136d50003936a13b3\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_110503.gz", 
+            "Size": 423601
+        }, 
+        {
+            "LastModified": "2015-10-23T05:03:49.000Z", 
+            "ETag": "\"3e01b0819f83a1bc24f5445d72e45be6\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_111100.gz", 
+            "Size": 422812
+        }, 
+        {
+            "LastModified": "2015-10-23T05:03:50.000Z", 
+            "ETag": "\"d3b03d35e86852887587fe0c85ce7d9e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_111656.gz", 
+            "Size": 416079
+        }, 
+        {
+            "LastModified": "2015-10-23T05:03:52.000Z", 
+            "ETag": "\"9bbfebdee6748f6fdf55922a5ad53de8\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_112253.gz", 
+            "Size": 413587
+        }, 
+        {
+            "LastModified": "2015-10-23T05:03:54.000Z", 
+            "ETag": "\"62b3844fa1b473141355e9eb3da46829\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_112849.gz", 
+            "Size": 239876
+        }, 
+        {
+            "LastModified": "2015-10-23T05:03:55.000Z", 
+            "ETag": "\"7648277021b28f04f36ceb88fb19b797\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_113445.gz", 
+            "Size": 415767
+        }, 
+        {
+            "LastModified": "2015-10-23T05:03:57.000Z", 
+            "ETag": "\"d409157b9e32b65c25e32df1186f6d75\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_114042.gz", 
+            "Size": 410548
+        }, 
+        {
+            "LastModified": "2015-10-23T05:03:59.000Z", 
+            "ETag": "\"63204ab50b1f18495d145ed098802bfa\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_114639.gz", 
+            "Size": 413891
+        }, 
+        {
+            "LastModified": "2015-10-23T05:04:00.000Z", 
+            "ETag": "\"323bd93a2100e6bb737041307bd5d86f\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_115235.gz", 
+            "Size": 400522
+        }, 
+        {
+            "LastModified": "2015-10-23T05:04:02.000Z", 
+            "ETag": "\"93c3424a074edf8babca51758acf97be\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_115832.gz", 
+            "Size": 379748
+        }, 
+        {
+            "LastModified": "2015-10-23T05:04:04.000Z", 
+            "ETag": "\"a807cb3023be351995de04225e385f74\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_120428.gz", 
+            "Size": 377045
+        }, 
+        {
+            "LastModified": "2015-10-23T05:04:05.000Z", 
+            "ETag": "\"26ca70e9dcfe5a98bab03e19aec3c153\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_121024.gz", 
+            "Size": 375807
+        }, 
+        {
+            "LastModified": "2015-10-23T05:04:07.000Z", 
+            "ETag": "\"535ffbfaf5fadaa589d766082cf90336\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_121620.gz", 
+            "Size": 388629
+        }, 
+        {
+            "LastModified": "2015-10-23T05:04:08.000Z", 
+            "ETag": "\"7e3624a251da738802c2f9c1885c1d70\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_122216.gz", 
+            "Size": 305165
+        }, 
+        {
+            "LastModified": "2015-10-23T05:04:10.000Z", 
+            "ETag": "\"5420b5eefebb3376c80e1c6018471f79\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_122813.gz", 
+            "Size": 413742
+        }, 
+        {
+            "LastModified": "2015-10-23T05:04:12.000Z", 
+            "ETag": "\"7493ca49d8cd189cc52bdca117c94d93\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_123410.gz", 
+            "Size": 419805
+        }, 
+        {
+            "LastModified": "2015-10-23T05:04:14.000Z", 
+            "ETag": "\"551570aceca58db06397ec45a3d67483\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_124005.gz", 
+            "Size": 413993
+        }, 
+        {
+            "LastModified": "2015-10-23T05:04:15.000Z", 
+            "ETag": "\"b18b22943ade2198e030a88f601ed2b2\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_124602.gz", 
+            "Size": 411846
+        }, 
+        {
+            "LastModified": "2015-10-23T05:04:17.000Z", 
+            "ETag": "\"af69f44af25cd21c1398d2d415959220\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_125158.gz", 
+            "Size": 418300
+        }, 
+        {
+            "LastModified": "2015-10-23T05:04:18.000Z", 
+            "ETag": "\"2684504a0876223a6d5d25594421a3cd\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_125755.gz", 
+            "Size": 432126
+        }, 
+        {
+            "LastModified": "2015-10-23T05:04:20.000Z", 
+            "ETag": "\"56e4c8516902c5bbc76c03dde3fe076a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_130351.gz", 
+            "Size": 436299
+        }, 
+        {
+            "LastModified": "2015-10-23T05:04:22.000Z", 
+            "ETag": "\"9443e587863b653df87fda1e2dcae2fe\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_130948.gz", 
+            "Size": 439686
+        }, 
+        {
+            "LastModified": "2015-10-23T05:04:23.000Z", 
+            "ETag": "\"9c1f681fe07b67de4832ed397534282e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_131545.gz", 
+            "Size": 272886
+        }, 
+        {
+            "LastModified": "2015-10-23T05:04:25.000Z", 
+            "ETag": "\"0922d3f47ca5f056c4171dfc8d2d6882\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_132206.gz", 
+            "Size": 443632
+        }, 
+        {
+            "LastModified": "2015-10-23T05:04:26.000Z", 
+            "ETag": "\"1c6faf82aabfa72d2164f28875290211\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_132803.gz", 
+            "Size": 430841
+        }, 
+        {
+            "LastModified": "2015-10-23T05:04:28.000Z", 
+            "ETag": "\"cfbd0823c11a3ab2b0bde4e554a754d1\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_133359.gz", 
+            "Size": 411881
+        }, 
+        {
+            "LastModified": "2015-10-23T05:04:30.000Z", 
+            "ETag": "\"3962823f8950d080955ce73712c63ca6\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_133956.gz", 
+            "Size": 415701
+        }, 
+        {
+            "LastModified": "2015-10-23T05:04:32.000Z", 
+            "ETag": "\"619834feecba46c966f8fe6101277c53\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_134552.gz", 
+            "Size": 424003
+        }, 
+        {
+            "LastModified": "2015-10-23T05:04:33.000Z", 
+            "ETag": "\"cab5915b28ea60c22a2568382e869256\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_135149.gz", 
+            "Size": 435785
+        }, 
+        {
+            "LastModified": "2015-10-23T05:04:35.000Z", 
+            "ETag": "\"2acfa7be464d1743c8eb42ad7a997fed\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_135746.gz", 
+            "Size": 441213
+        }, 
+        {
+            "LastModified": "2015-10-23T05:04:37.000Z", 
+            "ETag": "\"e2dc21d1184d7c587d725248db087277\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_140341.gz", 
+            "Size": 457986
+        }, 
+        {
+            "LastModified": "2015-10-23T05:04:38.000Z", 
+            "ETag": "\"53eed0cb81c6bcb92a7cd4079d4ed4ed\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_140937.gz", 
+            "Size": 459602
+        }, 
+        {
+            "LastModified": "2015-10-23T05:04:40.000Z", 
+            "ETag": "\"0fbda131eb5b6319eb0eb7e023571ef3\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_141534.gz", 
+            "Size": 460443
+        }, 
+        {
+            "LastModified": "2015-10-23T05:04:42.000Z", 
+            "ETag": "\"d7da574f43361a49854a34d3ca064109\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_142132.gz", 
+            "Size": 461026
+        }, 
+        {
+            "LastModified": "2015-10-23T05:04:44.000Z", 
+            "ETag": "\"9d9e4e9d8c4f76dfe854a446e5da5d2c\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_142728.gz", 
+            "Size": 461511
+        }, 
+        {
+            "LastModified": "2015-10-23T05:04:45.000Z", 
+            "ETag": "\"be765f3be6280e3f43ff21b61f2b2e9e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_143325.gz", 
+            "Size": 461574
+        }, 
+        {
+            "LastModified": "2015-10-23T05:04:47.000Z", 
+            "ETag": "\"d959fb2f9055f08594a44c1d6df171a0\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_143921.gz", 
+            "Size": 460497
+        }, 
+        {
+            "LastModified": "2015-10-23T05:04:48.000Z", 
+            "ETag": "\"6b10124f56b019d38127aa08437b0043\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_144518.gz", 
+            "Size": 458468
+        }, 
+        {
+            "LastModified": "2015-10-23T05:04:50.000Z", 
+            "ETag": "\"0a16fb18cd57f205596cfca4e2573067\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_145115.gz", 
+            "Size": 456247
+        }, 
+        {
+            "LastModified": "2015-10-23T05:04:52.000Z", 
+            "ETag": "\"13b6c0368d86d3ba1737871beb2a751a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_145710.gz", 
+            "Size": 305337
+        }, 
+        {
+            "LastModified": "2015-10-23T05:04:53.000Z", 
+            "ETag": "\"b63261c0aadc4809afa81e139b3371e4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_150306.gz", 
+            "Size": 454712
+        }, 
+        {
+            "LastModified": "2015-10-23T05:04:55.000Z", 
+            "ETag": "\"405468513187031d8febee68873e0c48\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_150903.gz", 
+            "Size": 440435
+        }, 
+        {
+            "LastModified": "2015-10-23T05:04:57.000Z", 
+            "ETag": "\"3ec4ccd5e169a5cf7f32b9fe1bb2d6ae\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_151459.gz", 
+            "Size": 432482
+        }, 
+        {
+            "LastModified": "2015-10-23T05:04:58.000Z", 
+            "ETag": "\"ba896f7459c378b40a61376341958cce\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_152056.gz", 
+            "Size": 421224
+        }, 
+        {
+            "LastModified": "2015-10-23T05:05:00.000Z", 
+            "ETag": "\"e7ae7ab61329d76427184ee64ca40977\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_152653.gz", 
+            "Size": 420131
+        }, 
+        {
+            "LastModified": "2015-10-23T05:05:02.000Z", 
+            "ETag": "\"4d9a62c335b64c431e9b42651f14631b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_153249.gz", 
+            "Size": 421429
+        }, 
+        {
+            "LastModified": "2015-10-23T05:05:03.000Z", 
+            "ETag": "\"438509667b246cd5dc47ff040594a1b5\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_153846.gz", 
+            "Size": 419966
+        }, 
+        {
+            "LastModified": "2015-10-23T05:05:05.000Z", 
+            "ETag": "\"c60a8da74fb20010ff7db6b15e7b4d64\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_154443.gz", 
+            "Size": 419751
+        }, 
+        {
+            "LastModified": "2015-10-23T05:05:07.000Z", 
+            "ETag": "\"225e6f3752963dd4deb2ab96b5777183\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_155038.gz", 
+            "Size": 432662
+        }, 
+        {
+            "LastModified": "2015-10-23T05:05:08.000Z", 
+            "ETag": "\"8b801d4e188c45c45e6a7e2fd11eeac2\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_155635.gz", 
+            "Size": 436012
+        }, 
+        {
+            "LastModified": "2015-10-22T23:12:44.000Z", 
+            "ETag": "\"bd3d0249c88bf1faa79c40a7565f5630\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_160232.gz", 
+            "Size": 436488
+        }, 
+        {
+            "LastModified": "2015-10-22T23:12:46.000Z", 
+            "ETag": "\"db8c4f9f9fe8d57e4a25aa2f518b3162\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_160828.gz", 
+            "Size": 429667
+        }, 
+        {
+            "LastModified": "2015-10-22T23:12:47.000Z", 
+            "ETag": "\"8d3c7d0d5de0ab5ebd7090a093d35c17\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_161425.gz", 
+            "Size": 421444
+        }, 
+        {
+            "LastModified": "2015-10-22T23:12:49.000Z", 
+            "ETag": "\"f6635a2639a6175c5fd4ad831553f235\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_162021.gz", 
+            "Size": 422157
+        }, 
+        {
+            "LastModified": "2015-10-22T23:12:51.000Z", 
+            "ETag": "\"d3d23ba225c1a7c5c47feec38c6b8ead\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_162618.gz", 
+            "Size": 422604
+        }, 
+        {
+            "LastModified": "2015-10-22T23:12:52.000Z", 
+            "ETag": "\"8e940bfa9e01a313f5d2a90ba38d8613\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_163215.gz", 
+            "Size": 427034
+        }, 
+        {
+            "LastModified": "2015-10-22T23:12:54.000Z", 
+            "ETag": "\"5fb8557b11202d40406e8567510c3b7b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_163811.gz", 
+            "Size": 437087
+        }, 
+        {
+            "LastModified": "2015-10-22T23:12:55.000Z", 
+            "ETag": "\"93dc7b697e0ab984c7dee598b090bf78\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_164406.gz", 
+            "Size": 450161
+        }, 
+        {
+            "LastModified": "2015-10-22T23:12:57.000Z", 
+            "ETag": "\"9d58a29f53525d64cd906112bd058769\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_165001.gz", 
+            "Size": 455406
+        }, 
+        {
+            "LastModified": "2015-10-22T23:12:59.000Z", 
+            "ETag": "\"99c3ffaf642d2b659972ce6c473fe19b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_165558.gz", 
+            "Size": 457197
+        }, 
+        {
+            "LastModified": "2015-10-22T23:13:00.000Z", 
+            "ETag": "\"c499f6bbab2d025d9789c5e73ec4bde6\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_170154.gz", 
+            "Size": 456308
+        }, 
+        {
+            "LastModified": "2015-10-22T23:13:02.000Z", 
+            "ETag": "\"232f6027bfef55b35c0fc3c9c6bb77af\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_170750.gz", 
+            "Size": 457306
+        }, 
+        {
+            "LastModified": "2015-10-22T23:13:03.000Z", 
+            "ETag": "\"81ead77441d4b5da48dbad59df709b67\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_171347.gz", 
+            "Size": 459224
+        }, 
+        {
+            "LastModified": "2015-10-22T23:13:05.000Z", 
+            "ETag": "\"e225e33f5afcd942c74eca5ee2d98d2e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_171943.gz", 
+            "Size": 469325
+        }, 
+        {
+            "LastModified": "2015-10-22T23:13:07.000Z", 
+            "ETag": "\"0ec972e60e405fc457496b6c41afeb2c\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_172539.gz", 
+            "Size": 479605
+        }, 
+        {
+            "LastModified": "2015-10-22T23:13:08.000Z", 
+            "ETag": "\"8645132d605726cbfe15a08305ad90bc\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_173135.gz", 
+            "Size": 493974
+        }, 
+        {
+            "LastModified": "2015-10-22T23:13:10.000Z", 
+            "ETag": "\"11ec2e8e683463ff29d4f1f8bcdac9f4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_173730.gz", 
+            "Size": 491858
+        }, 
+        {
+            "LastModified": "2015-10-22T23:13:11.000Z", 
+            "ETag": "\"ff5b243a4f555b18ccdc5c8ef0ae9050\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_174326.gz", 
+            "Size": 489028
+        }, 
+        {
+            "LastModified": "2015-10-22T23:13:13.000Z", 
+            "ETag": "\"80ad1004b7e86846e7c8df18ec3566ff\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_174922.gz", 
+            "Size": 484862
+        }, 
+        {
+            "LastModified": "2015-10-22T23:13:15.000Z", 
+            "ETag": "\"3d0f48538249f5423e0af8d613bc8758\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_175519.gz", 
+            "Size": 491095
+        }, 
+        {
+            "LastModified": "2015-10-22T23:13:16.000Z", 
+            "ETag": "\"3987502ad51b7dbf12636ba0fa8335c4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_180116.gz", 
+            "Size": 507314
+        }, 
+        {
+            "LastModified": "2015-10-22T23:11:09.000Z", 
+            "ETag": "\"207377d283a2e1f9b0e6adb314b5a565\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_182513.gz", 
+            "Size": 514817
+        }, 
+        {
+            "LastModified": "2015-10-22T23:11:10.000Z", 
+            "ETag": "\"6d94112f0d689eb1f353c12aae9778b8\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_183109.gz", 
+            "Size": 527338
+        }, 
+        {
+            "LastModified": "2015-10-22T23:11:12.000Z", 
+            "ETag": "\"fb7fae17f63c1d0152092440182b507e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_183705.gz", 
+            "Size": 531884
+        }, 
+        {
+            "LastModified": "2015-10-22T23:11:14.000Z", 
+            "ETag": "\"ffd76395f1ca2929545ea3c05767a662\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_184302.gz", 
+            "Size": 528759
+        }, 
+        {
+            "LastModified": "2015-10-22T23:11:15.000Z", 
+            "ETag": "\"facc530a0fd318017b10b12159e223c4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_184858.gz", 
+            "Size": 516423
+        }, 
+        {
+            "LastModified": "2015-10-22T23:11:17.000Z", 
+            "ETag": "\"ae39977788658d0d084ed47f75829403\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_185455.gz", 
+            "Size": 504837
+        }, 
+        {
+            "LastModified": "2015-10-22T23:11:18.000Z", 
+            "ETag": "\"ca5b180f8bf6db840562e2f47016a224\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_190051.gz", 
+            "Size": 493132
+        }, 
+        {
+            "LastModified": "2015-10-22T23:11:20.000Z", 
+            "ETag": "\"9f536a045c60865cc0d59d212ee4b8af\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_190647.gz", 
+            "Size": 493512
+        }, 
+        {
+            "LastModified": "2015-10-22T23:11:22.000Z", 
+            "ETag": "\"7813c3e94b1911d2316f6d6c14cc2332\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_191244.gz", 
+            "Size": 500579
+        }, 
+        {
+            "LastModified": "2015-10-22T23:11:23.000Z", 
+            "ETag": "\"856ecbc90b9048041ec4fd0f3a84df63\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_191840.gz", 
+            "Size": 504257
+        }, 
+        {
+            "LastModified": "2015-10-22T23:11:25.000Z", 
+            "ETag": "\"e4b3fda234f6b14968cfd167fd8ae296\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_192437.gz", 
+            "Size": 507279
+        }, 
+        {
+            "LastModified": "2015-10-22T23:11:27.000Z", 
+            "ETag": "\"5d326aa03ae1f08fde78903ff8fc9d40\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_193034.gz", 
+            "Size": 507195
+        }, 
+        {
+            "LastModified": "2015-10-22T23:11:28.000Z", 
+            "ETag": "\"43ad81232404debf155c195196437d97\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_193630.gz", 
+            "Size": 424940
+        }, 
+        {
+            "LastModified": "2015-10-22T23:11:30.000Z", 
+            "ETag": "\"d0e030341d8109562e2856eea9f041b5\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_194227.gz", 
+            "Size": 480238
+        }, 
+        {
+            "LastModified": "2015-10-22T23:11:32.000Z", 
+            "ETag": "\"cbec89851f5e5cf9d7bb12c3994e7dd4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_194824.gz", 
+            "Size": 473213
+        }, 
+        {
+            "LastModified": "2015-10-22T23:11:33.000Z", 
+            "ETag": "\"286016283c5c1fb76b63376ca064dd34\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_195421.gz", 
+            "Size": 463024
+        }, 
+        {
+            "LastModified": "2015-10-22T23:11:35.000Z", 
+            "ETag": "\"9cc22ed44d21b4206a329c5a31264ae4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_200017.gz", 
+            "Size": 458027
+        }, 
+        {
+            "LastModified": "2015-10-22T23:11:37.000Z", 
+            "ETag": "\"7e4097cc5e51fccea72c2d10bcb8b2d5\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_200613.gz", 
+            "Size": 462364
+        }, 
+        {
+            "LastModified": "2015-10-22T23:11:38.000Z", 
+            "ETag": "\"6adf9a5a3b2341fb6f23f8bb36c87088\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_201210.gz", 
+            "Size": 464831
+        }, 
+        {
+            "LastModified": "2015-10-22T23:11:40.000Z", 
+            "ETag": "\"b2d935bc5fba9c4ef86fd967ca8ca88c\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_201806.gz", 
+            "Size": 472649
+        }, 
+        {
+            "LastModified": "2015-10-22T23:11:42.000Z", 
+            "ETag": "\"c3e7f7a39a2329aaabce377cb276a5cf\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_202403.gz", 
+            "Size": 481592
+        }, 
+        {
+            "LastModified": "2015-10-22T23:11:44.000Z", 
+            "ETag": "\"972794e4f0b972ab1e4f40e110e193e8\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_203000.gz", 
+            "Size": 483582
+        }, 
+        {
+            "LastModified": "2015-10-22T23:11:46.000Z", 
+            "ETag": "\"14e35925042f0635042d6748db38717d\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_203557.gz", 
+            "Size": 470951
+        }, 
+        {
+            "LastModified": "2015-10-22T23:11:47.000Z", 
+            "ETag": "\"1bdb31201f599b5563fd1c903414a00a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_204154.gz", 
+            "Size": 466129
+        }, 
+        {
+            "LastModified": "2015-10-22T23:11:49.000Z", 
+            "ETag": "\"e2bf65b5a88cce68860ac63ad7c6e397\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_204750.gz", 
+            "Size": 455871
+        }, 
+        {
+            "LastModified": "2015-10-22T23:11:51.000Z", 
+            "ETag": "\"b9849e887bad058a7044786ff7d389c5\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_205347.gz", 
+            "Size": 446204
+        }, 
+        {
+            "LastModified": "2015-10-22T23:11:52.000Z", 
+            "ETag": "\"f5f48d585894b7927acde5aed3f47fa0\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_205944.gz", 
+            "Size": 449487
+        }, 
+        {
+            "LastModified": "2015-10-22T23:11:54.000Z", 
+            "ETag": "\"fdf70f23631e44082474c49581d44913\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_210541.gz", 
+            "Size": 454442
+        }, 
+        {
+            "LastModified": "2015-10-22T23:11:55.000Z", 
+            "ETag": "\"4760502fbc0ff8bebc97cca53d73c4d8\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_211137.gz", 
+            "Size": 470724
+        }, 
+        {
+            "LastModified": "2015-10-22T23:11:57.000Z", 
+            "ETag": "\"c7ad4fbb6c2145e74799efa07c483315\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_211734.gz", 
+            "Size": 480941
+        }, 
+        {
+            "LastModified": "2015-10-22T23:11:59.000Z", 
+            "ETag": "\"040f86d8be22a93147103fbabc0a75e5\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_212357.gz", 
+            "Size": 483665
+        }, 
+        {
+            "LastModified": "2015-10-22T23:12:00.000Z", 
+            "ETag": "\"6d5f4100ff24c5a3e56842733d38a943\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_212953.gz", 
+            "Size": 475329
+        }, 
+        {
+            "LastModified": "2015-10-22T23:12:02.000Z", 
+            "ETag": "\"47538d6d435e8183bb77125b607ddf16\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_213549.gz", 
+            "Size": 469218
+        }, 
+        {
+            "LastModified": "2015-10-22T23:12:04.000Z", 
+            "ETag": "\"8b34386cb0e25d1157735e08d15542a9\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_214146.gz", 
+            "Size": 462665
+        }, 
+        {
+            "LastModified": "2015-10-22T23:12:06.000Z", 
+            "ETag": "\"b74e6ad4818bfff240312d025ef449f8\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_214743.gz", 
+            "Size": 465509
+        }, 
+        {
+            "LastModified": "2015-10-22T23:12:07.000Z", 
+            "ETag": "\"780a57e793b59103181fb9dae38d6ba4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_215339.gz", 
+            "Size": 477049
+        }, 
+        {
+            "LastModified": "2015-10-22T23:12:09.000Z", 
+            "ETag": "\"f9b6218d15a0c52c24d4c3d065ea2cbe\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_215936.gz", 
+            "Size": 487104
+        }, 
+        {
+            "LastModified": "2015-10-22T23:12:10.000Z", 
+            "ETag": "\"2a29bee8584a4a416e6b3209884d1882\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_220533.gz", 
+            "Size": 164704
+        }, 
+        {
+            "LastModified": "2015-10-22T23:12:12.000Z", 
+            "ETag": "\"dc23f91a62a2f5bed1bd11ec97dbac72\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_221129.gz", 
+            "Size": 505801
+        }, 
+        {
+            "LastModified": "2015-10-22T23:12:14.000Z", 
+            "ETag": "\"a4ddd25388859952147329cdd7520f0b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_221725.gz", 
+            "Size": 507536
+        }, 
+        {
+            "LastModified": "2015-10-22T23:12:15.000Z", 
+            "ETag": "\"23579089730b30aa4ed90bcbddde8ba6\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_222322.gz", 
+            "Size": 501087
+        }, 
+        {
+            "LastModified": "2015-10-22T23:12:17.000Z", 
+            "ETag": "\"36129027a1287f79220328b69a6f8cb3\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_222918.gz", 
+            "Size": 495431
+        }, 
+        {
+            "LastModified": "2015-10-22T23:12:19.000Z", 
+            "ETag": "\"d06a1f553fa4325d80fa6721ccc07193\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_223515.gz", 
+            "Size": 492690
+        }, 
+        {
+            "LastModified": "2015-10-22T23:12:20.000Z", 
+            "ETag": "\"f3968c05efc4520a986f216481f9839a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_224112.gz", 
+            "Size": 487402
+        }, 
+        {
+            "LastModified": "2015-10-22T23:12:22.000Z", 
+            "ETag": "\"b4b03c1840f564351ab96fce6f0bafcb\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_224708.gz", 
+            "Size": 489867
+        }, 
+        {
+            "LastModified": "2015-10-22T23:12:24.000Z", 
+            "ETag": "\"d4cac39ff4a0a52789e7fbc6501cebcf\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_225305.gz", 
+            "Size": 369191
+        }, 
+        {
+            "LastModified": "2015-10-22T23:12:25.000Z", 
+            "ETag": "\"89c9afba505e6ee5456e543c287cc8c1\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_225901.gz", 
+            "Size": 514189
+        }, 
+        {
+            "LastModified": "2015-10-22T23:12:27.000Z", 
+            "ETag": "\"bfd90aa73415aa3df012556962761afa\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_230458.gz", 
+            "Size": 517544
+        }, 
+        {
+            "LastModified": "2015-10-22T23:12:29.000Z", 
+            "ETag": "\"d0c443935e3b7e6f1b7353b3d4b82e79\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_231054.gz", 
+            "Size": 534395
+        }, 
+        {
+            "LastModified": "2015-10-22T23:12:31.000Z", 
+            "ETag": "\"1ca2676967e40667b52ac91212de8e3c\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_231650.gz", 
+            "Size": 533686
+        }, 
+        {
+            "LastModified": "2015-10-22T23:12:32.000Z", 
+            "ETag": "\"9e4463be3c5ddeb45c4074cc9611e037\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_232247.gz", 
+            "Size": 544371
+        }, 
+        {
+            "LastModified": "2015-10-22T23:12:34.000Z", 
+            "ETag": "\"8b446a226383816a22dc1a49fcdb3502\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_232843.gz", 
+            "Size": 537409
+        }, 
+        {
+            "LastModified": "2015-10-22T23:12:36.000Z", 
+            "ETag": "\"943735b7bde4fc34ba82fcad17e7fac0\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_233440.gz", 
+            "Size": 547640
+        }, 
+        {
+            "LastModified": "2015-10-22T23:12:37.000Z", 
+            "ETag": "\"b32013fe86901caafcae111ad9a66a57\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_234037.gz", 
+            "Size": 576942
+        }, 
+        {
+            "LastModified": "2015-10-22T23:12:39.000Z", 
+            "ETag": "\"0b44a1bd183903875a8fd8a5eabf813c\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_234633.gz", 
+            "Size": 621974
+        }, 
+        {
+            "LastModified": "2015-10-22T23:12:41.000Z", 
+            "ETag": "\"ac0b6b110b8c18fbf193e298ffdcc18f\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_235230.gz", 
+            "Size": 643415
+        }, 
+        {
+            "LastModified": "2015-10-22T23:12:42.000Z", 
+            "ETag": "\"1314ed4cfb150bb2d607e12cf16bb903\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/KHGX19931202_235827.gz", 
+            "Size": 659513
+        }, 
+        {
+            "LastModified": "2015-10-23T05:32:30.000Z", 
+            "ETag": "\"71818d41f75152c369c74b58e293a0fa\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/NWS_NEXRAD_NXL2LG_KHGX_19931202000000_19931202075959.tar", 
+            "Size": 33
+        }, 
+        {
+            "LastModified": "2015-10-23T05:05:09.000Z", 
+            "ETag": "\"5c86de952e9045862823eaa501ab0de9\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/NWS_NEXRAD_NXL2LG_KHGX_19931202080000_19931202155959.tar", 
+            "Size": 33
+        }, 
+        {
+            "LastModified": "2015-10-22T23:13:17.000Z", 
+            "ETag": "\"cf3d5b0bd70b4519d3270788d1c3d106\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KHGX/NWS_NEXRAD_NXL2LG_KHGX_19931202160000_19931202235959.tar", 
+            "Size": 33
+        }, 
+        {
+            "LastModified": "2015-10-22T22:12:34.000Z", 
+            "ETag": "\"2374157d2f5ba11029e24ac3e6149dbc\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_000432.gz", 
+            "Size": 178771
+        }, 
+        {
+            "LastModified": "2015-10-22T22:12:36.000Z", 
+            "ETag": "\"2204fef728680468c6d737233ff29ed5\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_001412.gz", 
+            "Size": 182286
+        }, 
+        {
+            "LastModified": "2015-10-22T22:12:37.000Z", 
+            "ETag": "\"19fb3ed010a3153b958ec4d921256931\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_002351.gz", 
+            "Size": 188344
+        }, 
+        {
+            "LastModified": "2015-10-22T22:12:39.000Z", 
+            "ETag": "\"ec45a0c74ea6d6a809b730e91d9cb21c\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_003354.gz", 
+            "Size": 184892
+        }, 
+        {
+            "LastModified": "2015-10-22T22:12:40.000Z", 
+            "ETag": "\"97e0623997e37eed225e78ec00bcfed4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_004333.gz", 
+            "Size": 181942
+        }, 
+        {
+            "LastModified": "2015-10-22T22:12:42.000Z", 
+            "ETag": "\"824734b3babf09135ebec8c70a760b9b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_005312.gz", 
+            "Size": 186031
+        }, 
+        {
+            "LastModified": "2015-10-22T22:12:43.000Z", 
+            "ETag": "\"6c5f84c47697bc55f37c888f57bac338\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_010250.gz", 
+            "Size": 181987
+        }, 
+        {
+            "LastModified": "2015-10-22T22:12:45.000Z", 
+            "ETag": "\"b492107d74ccd01f80267e2ebb9cc474\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_011229.gz", 
+            "Size": 187640
+        }, 
+        {
+            "LastModified": "2015-10-22T22:12:46.000Z", 
+            "ETag": "\"149fbffcc320839b7146059fb21e7dcc\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_012207.gz", 
+            "Size": 6717
+        }, 
+        {
+            "LastModified": "2015-10-22T22:12:47.000Z", 
+            "ETag": "\"b86d198f47dfed35ede50479d843cb4d\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_012235.gz", 
+            "Size": 187373
+        }, 
+        {
+            "LastModified": "2015-10-22T22:12:49.000Z", 
+            "ETag": "\"a95718c0768cf770690f829f58ff7566\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_013214.gz", 
+            "Size": 184480
+        }, 
+        {
+            "LastModified": "2015-10-22T22:12:50.000Z", 
+            "ETag": "\"d02c5bfa7d15797fa7ca5b82ce9b70d1\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_014153.gz", 
+            "Size": 183815
+        }, 
+        {
+            "LastModified": "2015-10-22T22:12:52.000Z", 
+            "ETag": "\"950d322524ee5438d37a8cf4b13e718c\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_015132.gz", 
+            "Size": 182426
+        }, 
+        {
+            "LastModified": "2015-10-22T22:12:53.000Z", 
+            "ETag": "\"33d9833e032202f1fc9bde61d643dc57\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_020111.gz", 
+            "Size": 179913
+        }, 
+        {
+            "LastModified": "2015-10-22T22:12:54.000Z", 
+            "ETag": "\"1b677b6d628ed63da377d66336ace5f1\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_021050.gz", 
+            "Size": 186228
+        }, 
+        {
+            "LastModified": "2015-10-22T22:12:56.000Z", 
+            "ETag": "\"61562f472c8f04c90521aee850a9d3e2\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_022028.gz", 
+            "Size": 187160
+        }, 
+        {
+            "LastModified": "2015-10-22T22:12:57.000Z", 
+            "ETag": "\"e336c10f38ea9c8c42909f3feae1fffa\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_023006.gz", 
+            "Size": 186636
+        }, 
+        {
+            "LastModified": "2015-10-22T22:12:59.000Z", 
+            "ETag": "\"c027dd6a6e5039102ef94aea6eae280a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_023945.gz", 
+            "Size": 184413
+        }, 
+        {
+            "LastModified": "2015-10-22T22:13:00.000Z", 
+            "ETag": "\"076c4280aaf10ba76197a8d4ec06d520\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_024924.gz", 
+            "Size": 189038
+        }, 
+        {
+            "LastModified": "2015-10-22T22:13:02.000Z", 
+            "ETag": "\"8a3117ac6047d39f15273ee7533ecb13\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_025904.gz", 
+            "Size": 195466
+        }, 
+        {
+            "LastModified": "2015-10-22T22:13:03.000Z", 
+            "ETag": "\"d42c85bf0e3834464252c0cd108c5180\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_030842.gz", 
+            "Size": 189775
+        }, 
+        {
+            "LastModified": "2015-10-22T22:13:05.000Z", 
+            "ETag": "\"b186f00f63a78f06e71e2ad160db2d7e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_031821.gz", 
+            "Size": 189442
+        }, 
+        {
+            "LastModified": "2015-10-22T22:13:06.000Z", 
+            "ETag": "\"e853998f634d281f7bcf985e83955747\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_032800.gz", 
+            "Size": 188145
+        }, 
+        {
+            "LastModified": "2015-10-22T22:13:08.000Z", 
+            "ETag": "\"a48dc20bc93351f5d56b93ffd49964ef\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_033739.gz", 
+            "Size": 189652
+        }, 
+        {
+            "LastModified": "2015-10-22T22:13:09.000Z", 
+            "ETag": "\"372c16c1c58f505330d443cdcf88d79d\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_034718.gz", 
+            "Size": 186366
+        }, 
+        {
+            "LastModified": "2015-10-22T22:13:10.000Z", 
+            "ETag": "\"e112901ad72db5920643ee2a27c86344\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_035658.gz", 
+            "Size": 192578
+        }, 
+        {
+            "LastModified": "2015-10-22T22:13:12.000Z", 
+            "ETag": "\"466bf12f7c597119ebdc285d2ec3abc3\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_040637.gz", 
+            "Size": 194028
+        }, 
+        {
+            "LastModified": "2015-10-22T22:13:13.000Z", 
+            "ETag": "\"384386707b24c5ddd15efe179b279c39\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_041616.gz", 
+            "Size": 197289
+        }, 
+        {
+            "LastModified": "2015-10-22T22:13:15.000Z", 
+            "ETag": "\"529dd2aecec7941499a5714517f7868e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_042554.gz", 
+            "Size": 193038
+        }, 
+        {
+            "LastModified": "2015-10-22T22:13:16.000Z", 
+            "ETag": "\"b3661f64a94faeff13de2082705e09d4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_043533.gz", 
+            "Size": 202026
+        }, 
+        {
+            "LastModified": "2015-10-22T22:13:18.000Z", 
+            "ETag": "\"68612ba3a02dfaef974e892e7c046ef8\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_044512.gz", 
+            "Size": 203022
+        }, 
+        {
+            "LastModified": "2015-10-22T22:13:19.000Z", 
+            "ETag": "\"cd6bf423711e5185d5bdd199cb36d08b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_045450.gz", 
+            "Size": 204509
+        }, 
+        {
+            "LastModified": "2015-10-22T22:13:21.000Z", 
+            "ETag": "\"5fddc221b8fb6793f21c55553b5ea60c\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_050429.gz", 
+            "Size": 201393
+        }, 
+        {
+            "LastModified": "2015-10-22T22:13:22.000Z", 
+            "ETag": "\"9776fc30ad6d262ce52c2443f1e01782\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_051408.gz", 
+            "Size": 205735
+        }, 
+        {
+            "LastModified": "2015-10-22T22:13:24.000Z", 
+            "ETag": "\"754d72800e2d4f7e5c4329cd1bd1d614\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_052347.gz", 
+            "Size": 207135
+        }, 
+        {
+            "LastModified": "2015-10-22T22:13:25.000Z", 
+            "ETag": "\"fe85529b456e240631821853f58a48ce\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_053326.gz", 
+            "Size": 199959
+        }, 
+        {
+            "LastModified": "2015-10-22T22:13:27.000Z", 
+            "ETag": "\"221327c6851062176ea8ba0bf4243ca7\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_054304.gz", 
+            "Size": 197418
+        }, 
+        {
+            "LastModified": "2015-10-22T22:13:28.000Z", 
+            "ETag": "\"4c20636aeccd4c74b35051801ea92144\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_055243.gz", 
+            "Size": 200669
+        }, 
+        {
+            "LastModified": "2015-10-22T22:13:30.000Z", 
+            "ETag": "\"d70d4e039a160ee2a8c5f7ae60a8e606\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_060222.gz", 
+            "Size": 200576
+        }, 
+        {
+            "LastModified": "2015-10-22T22:13:31.000Z", 
+            "ETag": "\"308f8ceff0e23087c379b3eee7f302df\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_061200.gz", 
+            "Size": 198077
+        }, 
+        {
+            "LastModified": "2015-10-22T22:13:33.000Z", 
+            "ETag": "\"e205105c3638ce29db4be9efcbd6608b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_062139.gz", 
+            "Size": 204884
+        }, 
+        {
+            "LastModified": "2015-10-22T22:13:35.000Z", 
+            "ETag": "\"75ec47cceef43d24ebc973bb587433af\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_063118.gz", 
+            "Size": 198863
+        }, 
+        {
+            "LastModified": "2015-10-22T22:13:36.000Z", 
+            "ETag": "\"8518d656219c5649ecb95ef3b8a0db94\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_064056.gz", 
+            "Size": 197635
+        }, 
+        {
+            "LastModified": "2015-10-22T22:13:38.000Z", 
+            "ETag": "\"e536e033c3c1db4ec575d983d6b4a5c0\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_065036.gz", 
+            "Size": 192312
+        }, 
+        {
+            "LastModified": "2015-10-22T22:13:39.000Z", 
+            "ETag": "\"4be6ded778e53a57d0dddf31ad69c66a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_070015.gz", 
+            "Size": 199625
+        }, 
+        {
+            "LastModified": "2015-10-22T22:13:41.000Z", 
+            "ETag": "\"42fed4af9d1a553a0daa866ecb03a9ef\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_070954.gz", 
+            "Size": 199118
+        }, 
+        {
+            "LastModified": "2015-10-22T22:13:42.000Z", 
+            "ETag": "\"acdc419f805bf8726f8cba63f918b1a8\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_071932.gz", 
+            "Size": 194681
+        }, 
+        {
+            "LastModified": "2015-10-22T22:13:44.000Z", 
+            "ETag": "\"b821431b39f452bd6eebc4b295b658e5\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_072911.gz", 
+            "Size": 193336
+        }, 
+        {
+            "LastModified": "2015-10-22T22:13:45.000Z", 
+            "ETag": "\"a1542ebc91e02bc3167fa0678f8cd234\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_073851.gz", 
+            "Size": 192413
+        }, 
+        {
+            "LastModified": "2015-10-22T22:13:47.000Z", 
+            "ETag": "\"ef04c09f8c77827883e5282bb1e51a6a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_074829.gz", 
+            "Size": 190468
+        }, 
+        {
+            "LastModified": "2015-10-22T22:13:48.000Z", 
+            "ETag": "\"f4be8399fcbd4066002705b6f48b4e2c\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_075808.gz", 
+            "Size": 184556
+        }, 
+        {
+            "LastModified": "2015-10-23T05:21:33.000Z", 
+            "ETag": "\"22582f748403dab220c2abf42d8e2b03\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_080747.gz", 
+            "Size": 186485
+        }, 
+        {
+            "LastModified": "2015-10-23T05:21:35.000Z", 
+            "ETag": "\"5cb11a9c0f3026ac02f2cde88204522e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_081725.gz", 
+            "Size": 183203
+        }, 
+        {
+            "LastModified": "2015-10-23T05:21:36.000Z", 
+            "ETag": "\"eef42f044bfb8be4de4b25589a276aa4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_082704.gz", 
+            "Size": 188957
+        }, 
+        {
+            "LastModified": "2015-10-23T05:21:38.000Z", 
+            "ETag": "\"127197a10e269658b65bafffd6e2a22a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_083715.gz", 
+            "Size": 186885
+        }, 
+        {
+            "LastModified": "2015-10-23T05:21:39.000Z", 
+            "ETag": "\"3bdc5d5adaa4cfe5c450ea6be1082ea7\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_084654.gz", 
+            "Size": 188608
+        }, 
+        {
+            "LastModified": "2015-10-23T05:21:41.000Z", 
+            "ETag": "\"e9378fb0a981599cf20097baad30ddb4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_085632.gz", 
+            "Size": 189686
+        }, 
+        {
+            "LastModified": "2015-10-23T05:21:42.000Z", 
+            "ETag": "\"b5a7058d4fda9fc0bbc3a29f045769a4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_090611.gz", 
+            "Size": 189092
+        }, 
+        {
+            "LastModified": "2015-10-23T05:21:44.000Z", 
+            "ETag": "\"1a2d282421325d0e1a8cafb623a24e46\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_091550.gz", 
+            "Size": 185622
+        }, 
+        {
+            "LastModified": "2015-10-23T05:21:45.000Z", 
+            "ETag": "\"92930a318c8044eff051f80c486b4f0b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_092529.gz", 
+            "Size": 187714
+        }, 
+        {
+            "LastModified": "2015-10-23T05:21:46.000Z", 
+            "ETag": "\"6313d026d7e1d959ee8c513abca24c28\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_093508.gz", 
+            "Size": 184491
+        }, 
+        {
+            "LastModified": "2015-10-23T05:21:48.000Z", 
+            "ETag": "\"bc400c54a6dfdb0a659b2a313d779b0c\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_094446.gz", 
+            "Size": 190119
+        }, 
+        {
+            "LastModified": "2015-10-23T05:21:50.000Z", 
+            "ETag": "\"034cd0574f7b9f4453b5172cf29ceea2\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_095425.gz", 
+            "Size": 185757
+        }, 
+        {
+            "LastModified": "2015-10-23T05:21:51.000Z", 
+            "ETag": "\"e29c111a3cbcb77e7437b61464bab028\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_100404.gz", 
+            "Size": 190989
+        }, 
+        {
+            "LastModified": "2015-10-23T05:21:52.000Z", 
+            "ETag": "\"f9428b5f6d6b37f67c123c934fdb2339\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_101343.gz", 
+            "Size": 193391
+        }, 
+        {
+            "LastModified": "2015-10-23T05:21:54.000Z", 
+            "ETag": "\"1aaee5f9c332aedfe6c601b4f4b81d96\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_102322.gz", 
+            "Size": 197904
+        }, 
+        {
+            "LastModified": "2015-10-23T05:21:55.000Z", 
+            "ETag": "\"334d94c43b70b815a24564cf26824226\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_103301.gz", 
+            "Size": 200048
+        }, 
+        {
+            "LastModified": "2015-10-23T05:21:57.000Z", 
+            "ETag": "\"4abe1a9678da0fb4179a61345db59a00\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_104241.gz", 
+            "Size": 198285
+        }, 
+        {
+            "LastModified": "2015-10-23T05:21:58.000Z", 
+            "ETag": "\"f8c73c195ca89fcde75804e714dfb608\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_105219.gz", 
+            "Size": 204408
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:00.000Z", 
+            "ETag": "\"b49f9af240656c7e59cc0627e0b0a9a6\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_110159.gz", 
+            "Size": 203336
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:01.000Z", 
+            "ETag": "\"a5021bd44cfe8f91a8e562511da21bf1\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_111137.gz", 
+            "Size": 197371
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:03.000Z", 
+            "ETag": "\"e11a87101f49eb1acbdfb759704942a3\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_112116.gz", 
+            "Size": 192505
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:05.000Z", 
+            "ETag": "\"9831a7ee6b11443117eecad40ba697e1\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_113055.gz", 
+            "Size": 193099
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:06.000Z", 
+            "ETag": "\"1d2273b6843994e931d0ce71c21061e8\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_114033.gz", 
+            "Size": 189420
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:08.000Z", 
+            "ETag": "\"b956b3944b29672b948469bbee63c18e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_115012.gz", 
+            "Size": 197256
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:09.000Z", 
+            "ETag": "\"fe17e62480bee8fd4ea3f8a8cfaf5b77\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_115950.gz", 
+            "Size": 257941
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:10.000Z", 
+            "ETag": "\"23745903563b2d38fd5c73cf28228b58\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_120929.gz", 
+            "Size": 321694
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:12.000Z", 
+            "ETag": "\"aff476fa686baf2d880b5cfacb05a290\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_121908.gz", 
+            "Size": 297151
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:13.000Z", 
+            "ETag": "\"aee11cbe25f4d3805495ecea6287a027\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_122846.gz", 
+            "Size": 261994
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:15.000Z", 
+            "ETag": "\"b09681cd16ce70b7a812d7bdaef76820\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_123825.gz", 
+            "Size": 244413
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:17.000Z", 
+            "ETag": "\"3a31ac1bf0f706dd35bbe6b03df274a9\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_124804.gz", 
+            "Size": 228080
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:18.000Z", 
+            "ETag": "\"68e988cb6c630319d461698523637403\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_125744.gz", 
+            "Size": 212951
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:20.000Z", 
+            "ETag": "\"538e1fd53b0ebc2c696637a57e495d84\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_130723.gz", 
+            "Size": 205784
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:21.000Z", 
+            "ETag": "\"6f51da82350c5c06e5766c0cbd854d1f\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_131701.gz", 
+            "Size": 211340
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:23.000Z", 
+            "ETag": "\"d1d23722d0e1c11c3ccf9918c95e20cf\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_132640.gz", 
+            "Size": 213599
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:24.000Z", 
+            "ETag": "\"abc70855e4a738c2ded3a76214b7d4fe\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_133618.gz", 
+            "Size": 211258
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:26.000Z", 
+            "ETag": "\"886a263f4ae2f0c7295d60151848b894\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_134557.gz", 
+            "Size": 214617
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:28.000Z", 
+            "ETag": "\"39138632adbca940c4dc73bd8729f4f8\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_135536.gz", 
+            "Size": 217915
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:29.000Z", 
+            "ETag": "\"b6301fd372120cb5f7f9e6c018ebc349\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_140514.gz", 
+            "Size": 224702
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:31.000Z", 
+            "ETag": "\"841be344a31b2f32aaa45941f909d15d\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_141453.gz", 
+            "Size": 227312
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:32.000Z", 
+            "ETag": "\"0b6bbc5a2bba8a7e75cebbb7926287c4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_142432.gz", 
+            "Size": 226815
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:34.000Z", 
+            "ETag": "\"380bc7622e05f9ee64b773166cdcace4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_143411.gz", 
+            "Size": 228134
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:35.000Z", 
+            "ETag": "\"4586a1d7c5bfb904f31a9a1b4ce05d08\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_144349.gz", 
+            "Size": 221467
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:37.000Z", 
+            "ETag": "\"5a341161ab30564cddf900f809d739ae\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_145328.gz", 
+            "Size": 216786
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:38.000Z", 
+            "ETag": "\"12dae9acca5e05f6f92bbc5a67f88baa\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_150308.gz", 
+            "Size": 216738
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:40.000Z", 
+            "ETag": "\"f3954ce4e35f4164b185fc2b41b83c97\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_151246.gz", 
+            "Size": 220311
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:41.000Z", 
+            "ETag": "\"1fd2bd82c49def08a3faed76cdb9d901\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_152225.gz", 
+            "Size": 218849
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:43.000Z", 
+            "ETag": "\"9e371971e3708e95cb5dde8481f83e11\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_153204.gz", 
+            "Size": 218550
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:44.000Z", 
+            "ETag": "\"676b8b17c989ede17d32048ad49a1851\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_154144.gz", 
+            "Size": 29105
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:48.000Z", 
+            "ETag": "\"3f0aa6d6d925df6d9e97e96022c6bb85\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_161204.gz", 
+            "Size": 248945
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:50.000Z", 
+            "ETag": "\"6d2340ee81d5bd76b4b02352a75ac1d7\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_162144.gz", 
+            "Size": 269744
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:51.000Z", 
+            "ETag": "\"2f5a456bb1aaf33f2cb30e68034f19d3\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_163122.gz", 
+            "Size": 284374
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:53.000Z", 
+            "ETag": "\"5356cad6713ea0dd728b0cf8ca940ab7\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_164126.gz", 
+            "Size": 288362
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:54.000Z", 
+            "ETag": "\"600c0d6b75013f56bb29a0f81aa239dd\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_165104.gz", 
+            "Size": 278956
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:56.000Z", 
+            "ETag": "\"f7dabf550435ef19e3011f9c06f61927\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_170043.gz", 
+            "Size": 266828
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:57.000Z", 
+            "ETag": "\"cf80763fc6022229b7a048acaef66647\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_171022.gz", 
+            "Size": 260830
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:59.000Z", 
+            "ETag": "\"271e7da973f191b5f32d9efc975ced62\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_172001.gz", 
+            "Size": 263928
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:00.000Z", 
+            "ETag": "\"4e2e07b475c7dcdb21a941a6595c8ac7\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_172939.gz", 
+            "Size": 263403
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:02.000Z", 
+            "ETag": "\"105931f5c271c478faa7e56b0f2b787c\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_173918.gz", 
+            "Size": 261685
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:04.000Z", 
+            "ETag": "\"24c68593affc56b4afb7302f4838987a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_174858.gz", 
+            "Size": 261744
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:05.000Z", 
+            "ETag": "\"6aa394c1b2350b30c77d0a0fed7e0fa1\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_175836.gz", 
+            "Size": 265400
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:07.000Z", 
+            "ETag": "\"b4f9b010d42ef9725a6e2b2a9617a3a2\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_180815.gz", 
+            "Size": 262960
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:08.000Z", 
+            "ETag": "\"cf081194faf03be86f0ffeebca589f76\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_181754.gz", 
+            "Size": 259805
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:10.000Z", 
+            "ETag": "\"7ba6ac7f025428115afb6045c109eb4c\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_182732.gz", 
+            "Size": 262917
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:11.000Z", 
+            "ETag": "\"9b138b7225e25de64c2115ee01582f75\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_183712.gz", 
+            "Size": 269276
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:13.000Z", 
+            "ETag": "\"948d70d64773d479caa87fe93c5380e4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_184651.gz", 
+            "Size": 267758
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:14.000Z", 
+            "ETag": "\"366b0e4b13a7fd37684a0659f8b700ad\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_185631.gz", 
+            "Size": 260450
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:16.000Z", 
+            "ETag": "\"c566a7dac8d54376a5bfe4dbf0461afa\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_190609.gz", 
+            "Size": 266767
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:17.000Z", 
+            "ETag": "\"7fd49b9ca40358e80614993a5ab902c8\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_191548.gz", 
+            "Size": 263166
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:19.000Z", 
+            "ETag": "\"6d8f92b5180e180ae0b7b1ad02ef82fe\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_192527.gz", 
+            "Size": 254455
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:20.000Z", 
+            "ETag": "\"67464068bc82411b0bc529492c723f1d\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_193505.gz", 
+            "Size": 251945
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:22.000Z", 
+            "ETag": "\"8febe13084944baf074eade465066990\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_194444.gz", 
+            "Size": 253067
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:23.000Z", 
+            "ETag": "\"ae4a781da3de7adb5fb94da9e23c354c\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_195422.gz", 
+            "Size": 247333
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:25.000Z", 
+            "ETag": "\"f6f0aa2957a20a75e83e7d7d867881bb\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_200401.gz", 
+            "Size": 245546
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:26.000Z", 
+            "ETag": "\"582d428b77cba8efaf5c1fb7f4d4d96c\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_201340.gz", 
+            "Size": 240231
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:28.000Z", 
+            "ETag": "\"2bca6947d2cb1fa056563f618ca090d6\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_202319.gz", 
+            "Size": 239404
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:29.000Z", 
+            "ETag": "\"2f28f9a395d0919e0e9e3007be58cc10\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_203257.gz", 
+            "Size": 229990
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:31.000Z", 
+            "ETag": "\"4f9bf52c96b86bef2382e5efb222dbb1\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_204236.gz", 
+            "Size": 220946
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:32.000Z", 
+            "ETag": "\"18570e97d5236958430c647fd51c751d\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_205214.gz", 
+            "Size": 224097
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:34.000Z", 
+            "ETag": "\"9697dc8e21c317a9daa3be9cdf90accb\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_210153.gz", 
+            "Size": 224941
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:35.000Z", 
+            "ETag": "\"45a8e5dac3d5730f4cdc830bdee1c06d\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_211132.gz", 
+            "Size": 221123
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:37.000Z", 
+            "ETag": "\"743b5e4c97f0aef542ac761c30ac38eb\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_212111.gz", 
+            "Size": 224325
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:38.000Z", 
+            "ETag": "\"4ae49438bb15abde9f2b4614d2293863\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_213050.gz", 
+            "Size": 212271
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:40.000Z", 
+            "ETag": "\"3e1b21e00d74c40d7cbd6832fc64bed4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_214029.gz", 
+            "Size": 195254
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:41.000Z", 
+            "ETag": "\"6f2be462a4ed860a0f8bcb3ce050b49b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_215007.gz", 
+            "Size": 178125
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:43.000Z", 
+            "ETag": "\"647331b35bf3bc399197b17f35fe4ebb\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_215946.gz", 
+            "Size": 166922
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:44.000Z", 
+            "ETag": "\"5696172868cea2caab670061ba2374bd\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_220925.gz", 
+            "Size": 170404
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:45.000Z", 
+            "ETag": "\"46f7ffe835669a0ee3e710569c0ccc27\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_221903.gz", 
+            "Size": 169332
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:47.000Z", 
+            "ETag": "\"d9ba86f24442df94c2e86b14baf98174\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_222842.gz", 
+            "Size": 174267
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:48.000Z", 
+            "ETag": "\"bbf5977f74973d6da9bd5538b540a71f\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_223820.gz", 
+            "Size": 175514
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:50.000Z", 
+            "ETag": "\"4716611df4018c02f8f45662143742f4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_224759.gz", 
+            "Size": 174451
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:51.000Z", 
+            "ETag": "\"f54040c4815d82995888089426f5c149\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_225738.gz", 
+            "Size": 171410
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:53.000Z", 
+            "ETag": "\"151549a4ed9a4587d2d9a801de2fc8f7\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_230716.gz", 
+            "Size": 171893
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:54.000Z", 
+            "ETag": "\"bf38789c1c2558777b40669c3e9c4f58\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_231655.gz", 
+            "Size": 187834
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:56.000Z", 
+            "ETag": "\"1e08bdb2f7933d95ada6f00b152f7de2\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_232708.gz", 
+            "Size": 186672
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:57.000Z", 
+            "ETag": "\"a26cf83731398e881eb29e85876cc23f\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_233646.gz", 
+            "Size": 199569
+        }, 
+        {
+            "LastModified": "2015-10-23T05:23:59.000Z", 
+            "ETag": "\"f78aec22573637d2659e36e10c0fb905\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_234625.gz", 
+            "Size": 202225
+        }, 
+        {
+            "LastModified": "2015-10-23T05:24:00.000Z", 
+            "ETag": "\"b5e18632c2b93741d95aa55bd560cd6c\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/KLWX19931202_235604.gz", 
+            "Size": 206365
+        }, 
+        {
+            "LastModified": "2015-10-22T22:13:49.000Z", 
+            "ETag": "\"cd961e31e7e3a38df5eee5f8558e6b68\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/NWS_NEXRAD_NXL2LG_KLWX_19931202000000_19931202075959.tar", 
+            "Size": 33
+        }, 
+        {
+            "LastModified": "2015-10-23T05:22:45.000Z", 
+            "ETag": "\"6eb30aee2b8cf22f8cf94bb75e5d8831\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/NWS_NEXRAD_NXL2LG_KLWX_19931202080000_19931202155959.tar", 
+            "Size": 33
+        }, 
+        {
+            "LastModified": "2015-10-23T05:24:01.000Z", 
+            "ETag": "\"56c4d1a6fcc4d284b5b0deb3ece92e5f\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KLWX/NWS_NEXRAD_NXL2LG_KLWX_19931202160000_19931202235959.tar", 
+            "Size": 33
+        }, 
+        {
+            "LastModified": "2015-10-23T04:26:16.000Z", 
+            "ETag": "\"f9ff4d0a0b5d773c5371a7818d15ca69\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_000245.gz", 
+            "Size": 473881
+        }, 
+        {
+            "LastModified": "2015-10-23T04:26:17.000Z", 
+            "ETag": "\"babae5d713b550af9ddef85a0bd16fdb\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_000840.gz", 
+            "Size": 469196
+        }, 
+        {
+            "LastModified": "2015-10-23T04:26:19.000Z", 
+            "ETag": "\"45e314463326a009810c8ca10bf58c0c\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_001434.gz", 
+            "Size": 475720
+        }, 
+        {
+            "LastModified": "2015-10-23T04:26:21.000Z", 
+            "ETag": "\"f9e3f9e7b60d7e7f1cc6291b134ba5bc\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_002055.gz", 
+            "Size": 466599
+        }, 
+        {
+            "LastModified": "2015-10-23T04:26:22.000Z", 
+            "ETag": "\"9ad531d7eeef5eb58bba6a5e86ac1e2b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_002650.gz", 
+            "Size": 470656
+        }, 
+        {
+            "LastModified": "2015-10-23T04:26:24.000Z", 
+            "ETag": "\"09de91c5871bc572def6fd15f7fd9b71\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_003245.gz", 
+            "Size": 466875
+        }, 
+        {
+            "LastModified": "2015-10-23T04:26:26.000Z", 
+            "ETag": "\"e6d3c2e3e847374b1e9ab07a2084765d\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_003840.gz", 
+            "Size": 468202
+        }, 
+        {
+            "LastModified": "2015-10-23T04:26:27.000Z", 
+            "ETag": "\"08d04d5343ca2748c96df451dbadeed6\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_004435.gz", 
+            "Size": 458116
+        }, 
+        {
+            "LastModified": "2015-10-23T04:26:29.000Z", 
+            "ETag": "\"0db771b59668951ecd8b5169c6d92311\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_005030.gz", 
+            "Size": 462513
+        }, 
+        {
+            "LastModified": "2015-10-23T04:26:31.000Z", 
+            "ETag": "\"34cd83bd3a7eae0571f2d6e2a213cb63\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_005625.gz", 
+            "Size": 448415
+        }, 
+        {
+            "LastModified": "2015-10-23T04:26:33.000Z", 
+            "ETag": "\"cd5e56bb239b2f33aae7a228bd86de84\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_010221.gz", 
+            "Size": 437917
+        }, 
+        {
+            "LastModified": "2015-10-23T04:26:34.000Z", 
+            "ETag": "\"986c222347cddf4694e3d9b202b280ec\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_010815.gz", 
+            "Size": 435859
+        }, 
+        {
+            "LastModified": "2015-10-23T04:26:36.000Z", 
+            "ETag": "\"27b826e6892b84e411bf47a58e0277f9\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_011410.gz", 
+            "Size": 429627
+        }, 
+        {
+            "LastModified": "2015-10-23T04:26:38.000Z", 
+            "ETag": "\"a8b1ef5e5d952da65ff3f5bf16aafcd7\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_012007.gz", 
+            "Size": 427111
+        }, 
+        {
+            "LastModified": "2015-10-23T04:26:39.000Z", 
+            "ETag": "\"1b571b3d44711c63d9e2a00fae11e1ee\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_012603.gz", 
+            "Size": 414264
+        }, 
+        {
+            "LastModified": "2015-10-23T04:26:41.000Z", 
+            "ETag": "\"de955a19f8048d8b8353e8506f19e4ec\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_013159.gz", 
+            "Size": 418330
+        }, 
+        {
+            "LastModified": "2015-10-23T04:26:43.000Z", 
+            "ETag": "\"1a0e3b7201a520c6892fd6fc36bf4a9c\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_013754.gz", 
+            "Size": 420634
+        }, 
+        {
+            "LastModified": "2015-10-23T04:26:44.000Z", 
+            "ETag": "\"8166699636c05c281dce3679f8b2ff3a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_014350.gz", 
+            "Size": 410602
+        }, 
+        {
+            "LastModified": "2015-10-23T04:26:46.000Z", 
+            "ETag": "\"59cb6c3c9a6da933332f68b8dc6f575a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_014946.gz", 
+            "Size": 409516
+        }, 
+        {
+            "LastModified": "2015-10-23T04:26:47.000Z", 
+            "ETag": "\"a114a9fb5aff0b5f017cd629d595a442\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_015540.gz", 
+            "Size": 406891
+        }, 
+        {
+            "LastModified": "2015-10-23T04:26:49.000Z", 
+            "ETag": "\"185b9bbe560e93b2ae020fadff808523\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_020135.gz", 
+            "Size": 411907
+        }, 
+        {
+            "LastModified": "2015-10-23T04:26:51.000Z", 
+            "ETag": "\"f2d65149f2f51545e0fcda6327145f3e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_020730.gz", 
+            "Size": 405073
+        }, 
+        {
+            "LastModified": "2015-10-23T04:26:52.000Z", 
+            "ETag": "\"66efb9f27e767ea6d4f84dfc7ec50bbf\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_021327.gz", 
+            "Size": 416932
+        }, 
+        {
+            "LastModified": "2015-10-23T04:26:54.000Z", 
+            "ETag": "\"110554799b0e7c1dd1629ea7a33f19c2\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_021922.gz", 
+            "Size": 430170
+        }, 
+        {
+            "LastModified": "2015-10-23T04:26:56.000Z", 
+            "ETag": "\"fbe4f2be044aad64a6a77501952d548e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_022516.gz", 
+            "Size": 425293
+        }, 
+        {
+            "LastModified": "2015-10-23T04:26:57.000Z", 
+            "ETag": "\"c551b83d194efb91f35569ca9d6bede2\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_023111.gz", 
+            "Size": 428958
+        }, 
+        {
+            "LastModified": "2015-10-23T04:26:59.000Z", 
+            "ETag": "\"960d9d549f9d2da3c8e8be7b1feb5158\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_023706.gz", 
+            "Size": 421104
+        }, 
+        {
+            "LastModified": "2015-10-23T04:27:01.000Z", 
+            "ETag": "\"be907a4d7e531137a45d2c7f3b2b189a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_024301.gz", 
+            "Size": 420602
+        }, 
+        {
+            "LastModified": "2015-10-23T04:27:02.000Z", 
+            "ETag": "\"976526887fac55405c22ecebab14ddba\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_024857.gz", 
+            "Size": 424156
+        }, 
+        {
+            "LastModified": "2015-10-23T04:27:04.000Z", 
+            "ETag": "\"bb894b7c8e0587c2a8a7bf6f18095a8f\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_025451.gz", 
+            "Size": 438030
+        }, 
+        {
+            "LastModified": "2015-10-23T04:27:05.000Z", 
+            "ETag": "\"4f2410e62f5c309f7247975d4fc2766c\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_030047.gz", 
+            "Size": 440035
+        }, 
+        {
+            "LastModified": "2015-10-23T04:27:07.000Z", 
+            "ETag": "\"d910d78f062d26f4e0053d19eea8c51d\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_030643.gz", 
+            "Size": 430311
+        }, 
+        {
+            "LastModified": "2015-10-23T04:27:09.000Z", 
+            "ETag": "\"973a0bd411a488608a9fe423285765ec\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_031238.gz", 
+            "Size": 429369
+        }, 
+        {
+            "LastModified": "2015-10-23T04:27:10.000Z", 
+            "ETag": "\"c7560e037812f37687ee22af3db3c618\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_031832.gz", 
+            "Size": 420051
+        }, 
+        {
+            "LastModified": "2015-10-23T04:27:12.000Z", 
+            "ETag": "\"8c6ecb7e4f73ddbaeb5196f747ac62b1\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_032427.gz", 
+            "Size": 409113
+        }, 
+        {
+            "LastModified": "2015-10-23T04:27:13.000Z", 
+            "ETag": "\"ab9f5ca1e69ed6eb42208ce037d094d1\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_033022.gz", 
+            "Size": 427374
+        }, 
+        {
+            "LastModified": "2015-10-23T04:27:15.000Z", 
+            "ETag": "\"1cda909bb5e8899c991607966b7c15df\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_033616.gz", 
+            "Size": 432975
+        }, 
+        {
+            "LastModified": "2015-10-23T04:27:17.000Z", 
+            "ETag": "\"ad07866cdbec54270e8f379d08f02db3\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_034211.gz", 
+            "Size": 414567
+        }, 
+        {
+            "LastModified": "2015-10-23T04:27:18.000Z", 
+            "ETag": "\"2972b251600225810dee0db76aeb5985\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_034805.gz", 
+            "Size": 408919
+        }, 
+        {
+            "LastModified": "2015-10-23T04:27:20.000Z", 
+            "ETag": "\"e87289c1d8010afba8522faba9b0a620\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_035359.gz", 
+            "Size": 401435
+        }, 
+        {
+            "LastModified": "2015-10-23T04:27:22.000Z", 
+            "ETag": "\"6ee843766a8679b9ac61757d99ccaf23\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_035954.gz", 
+            "Size": 400234
+        }, 
+        {
+            "LastModified": "2015-10-23T04:27:23.000Z", 
+            "ETag": "\"102924d4b8b7faa9d03957b6dea6272f\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_040548.gz", 
+            "Size": 413479
+        }, 
+        {
+            "LastModified": "2015-10-23T04:27:25.000Z", 
+            "ETag": "\"95eed75289863a6c0724f183bc71262f\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_041144.gz", 
+            "Size": 419189
+        }, 
+        {
+            "LastModified": "2015-10-23T04:27:27.000Z", 
+            "ETag": "\"6c034376cbe6399431af0379f485ef18\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_041739.gz", 
+            "Size": 404879
+        }, 
+        {
+            "LastModified": "2015-10-23T04:27:28.000Z", 
+            "ETag": "\"14822a64e5e644fbb3cc8ab9fbdd0324\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_042334.gz", 
+            "Size": 409678
+        }, 
+        {
+            "LastModified": "2015-10-23T04:27:30.000Z", 
+            "ETag": "\"32255511ec6530fb1dc7d6981892c16f\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_042928.gz", 
+            "Size": 406423
+        }, 
+        {
+            "LastModified": "2015-10-23T04:27:31.000Z", 
+            "ETag": "\"8f29f4666a7182bea7f48bb09cfeb9b5\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_043524.gz", 
+            "Size": 398599
+        }, 
+        {
+            "LastModified": "2015-10-23T04:27:33.000Z", 
+            "ETag": "\"8e65577919027773cb1217f5621ff2ff\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_044119.gz", 
+            "Size": 419885
+        }, 
+        {
+            "LastModified": "2015-10-23T04:27:35.000Z", 
+            "ETag": "\"74c7e408708c4e84831e1dbcca8a9cf4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_044715.gz", 
+            "Size": 421671
+        }, 
+        {
+            "LastModified": "2015-10-23T04:27:36.000Z", 
+            "ETag": "\"961690146fdcbc7b72d894d184d1bf6b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_045310.gz", 
+            "Size": 421311
+        }, 
+        {
+            "LastModified": "2015-10-23T04:27:38.000Z", 
+            "ETag": "\"481e5ec7cd0df12c6429c14e3cda97d0\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_045905.gz", 
+            "Size": 410388
+        }, 
+        {
+            "LastModified": "2015-10-23T04:27:40.000Z", 
+            "ETag": "\"55213d22f8f35b7118794f3162c2fb41\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_050459.gz", 
+            "Size": 403591
+        }, 
+        {
+            "LastModified": "2015-10-23T04:27:41.000Z", 
+            "ETag": "\"ae3a5d804b9a5995dc81d01e52f21f5f\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_051054.gz", 
+            "Size": 402342
+        }, 
+        {
+            "LastModified": "2015-10-23T04:27:43.000Z", 
+            "ETag": "\"a19379206536607f8c437553d8e5c707\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_051649.gz", 
+            "Size": 419477
+        }, 
+        {
+            "LastModified": "2015-10-23T04:27:45.000Z", 
+            "ETag": "\"1a5e71501de6fd08db455d58096aaee6\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_052243.gz", 
+            "Size": 424372
+        }, 
+        {
+            "LastModified": "2015-10-23T04:27:46.000Z", 
+            "ETag": "\"529ca0f6a6db2953e7abfe5efd76962e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_052838.gz", 
+            "Size": 419581
+        }, 
+        {
+            "LastModified": "2015-10-23T04:27:48.000Z", 
+            "ETag": "\"7326e403eccaaa1b9dfeb387b92fcd53\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_053433.gz", 
+            "Size": 417531
+        }, 
+        {
+            "LastModified": "2015-10-23T04:27:50.000Z", 
+            "ETag": "\"579a9abe6df1a44995de2bac40dbb86f\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_054028.gz", 
+            "Size": 408093
+        }, 
+        {
+            "LastModified": "2015-10-23T04:27:51.000Z", 
+            "ETag": "\"e0dc095526c394255d806150688c506a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_054622.gz", 
+            "Size": 409867
+        }, 
+        {
+            "LastModified": "2015-10-23T04:27:53.000Z", 
+            "ETag": "\"ac3982013e74788fd45f40ba251c936e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_055217.gz", 
+            "Size": 430240
+        }, 
+        {
+            "LastModified": "2015-10-23T04:27:55.000Z", 
+            "ETag": "\"8f4049a5d5b46ddfc897a79a45e6feb8\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_055812.gz", 
+            "Size": 435155
+        }, 
+        {
+            "LastModified": "2015-10-23T04:27:56.000Z", 
+            "ETag": "\"9ef516698c13056e525aff5a22553184\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_060407.gz", 
+            "Size": 428266
+        }, 
+        {
+            "LastModified": "2015-10-23T04:27:58.000Z", 
+            "ETag": "\"621f5b9b8e121fde60fbf29c27c4bc63\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_061001.gz", 
+            "Size": 428892
+        }, 
+        {
+            "LastModified": "2015-10-23T04:28:00.000Z", 
+            "ETag": "\"53c6d281ab722c79708baae6ea1292ed\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_061555.gz", 
+            "Size": 426491
+        }, 
+        {
+            "LastModified": "2015-10-23T04:28:01.000Z", 
+            "ETag": "\"d7234e9942c28a7d071b911672fb5987\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_062151.gz", 
+            "Size": 428795
+        }, 
+        {
+            "LastModified": "2015-10-23T04:28:03.000Z", 
+            "ETag": "\"bce437f67d7344ee17924e348ba4ffa7\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_062745.gz", 
+            "Size": 444968
+        }, 
+        {
+            "LastModified": "2015-10-23T04:28:05.000Z", 
+            "ETag": "\"b1e5357c87f35ad6fc1568d1313f97f5\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_063341.gz", 
+            "Size": 436301
+        }, 
+        {
+            "LastModified": "2015-10-23T04:28:06.000Z", 
+            "ETag": "\"c4994b385fdf06932808e61014ea2f31\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_063938.gz", 
+            "Size": 443666
+        }, 
+        {
+            "LastModified": "2015-10-23T04:28:08.000Z", 
+            "ETag": "\"c49e4be376e7f06d35ba23e715dee9ee\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_064533.gz", 
+            "Size": 435881
+        }, 
+        {
+            "LastModified": "2015-10-23T04:28:10.000Z", 
+            "ETag": "\"ab5d03d84e9da6b102dea8fe336813d7\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_065128.gz", 
+            "Size": 438295
+        }, 
+        {
+            "LastModified": "2015-10-23T04:28:11.000Z", 
+            "ETag": "\"3b23a1cc11ae65c708b46a445d382bf8\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_065723.gz", 
+            "Size": 436481
+        }, 
+        {
+            "LastModified": "2015-10-23T04:28:13.000Z", 
+            "ETag": "\"0e18f2561777e910a825a3376fa4fe94\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_070318.gz", 
+            "Size": 433453
+        }, 
+        {
+            "LastModified": "2015-10-23T04:28:15.000Z", 
+            "ETag": "\"c580b0eb741e1e083ce8e810b607cb9c\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_070913.gz", 
+            "Size": 444536
+        }, 
+        {
+            "LastModified": "2015-10-23T04:28:16.000Z", 
+            "ETag": "\"41c9aee95ccdbf867a64877860d7eb5c\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_071508.gz", 
+            "Size": 446862
+        }, 
+        {
+            "LastModified": "2015-10-23T04:28:18.000Z", 
+            "ETag": "\"76143b360bddc4b288414aa62e2f9160\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_072103.gz", 
+            "Size": 435733
+        }, 
+        {
+            "LastModified": "2015-10-23T04:28:20.000Z", 
+            "ETag": "\"3ab81c8e6a384ed2aceff2b4ffba0235\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_072658.gz", 
+            "Size": 427754
+        }, 
+        {
+            "LastModified": "2015-10-23T04:28:21.000Z", 
+            "ETag": "\"89f0cc89b9ca236d68d19c2f1a69713f\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_073253.gz", 
+            "Size": 416109
+        }, 
+        {
+            "LastModified": "2015-10-23T04:28:23.000Z", 
+            "ETag": "\"917c46b6d7d70f463aca67671aba8826\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_073848.gz", 
+            "Size": 411621
+        }, 
+        {
+            "LastModified": "2015-10-23T04:28:25.000Z", 
+            "ETag": "\"12c74af73e6472a90918e58cd4ba43a8\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_074445.gz", 
+            "Size": 415580
+        }, 
+        {
+            "LastModified": "2015-10-23T04:28:26.000Z", 
+            "ETag": "\"72c258fb9b66d37a6a946127869dbad2\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_075040.gz", 
+            "Size": 421065
+        }, 
+        {
+            "LastModified": "2015-10-23T04:28:28.000Z", 
+            "ETag": "\"c1c71060b0edea802cbb096f85145586\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_075635.gz", 
+            "Size": 422476
+        }, 
+        {
+            "LastModified": "2015-10-23T05:05:55.000Z", 
+            "ETag": "\"2ab59545b21b1724b7103cb4ae6ded48\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_080232.gz", 
+            "Size": 421568
+        }, 
+        {
+            "LastModified": "2015-10-23T05:05:57.000Z", 
+            "ETag": "\"e72b944b7e31b72c96018fe4c520a802\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_080827.gz", 
+            "Size": 404970
+        }, 
+        {
+            "LastModified": "2015-10-23T05:05:58.000Z", 
+            "ETag": "\"7cf3df8dfd92387d8534ebfba8b83ccb\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_081422.gz", 
+            "Size": 400859
+        }, 
+        {
+            "LastModified": "2015-10-23T05:06:00.000Z", 
+            "ETag": "\"4c97901e96e841a160ac96c05568501a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_082016.gz", 
+            "Size": 393029
+        }, 
+        {
+            "LastModified": "2015-10-23T05:06:02.000Z", 
+            "ETag": "\"17f4c19034c62f3ed6f6b2e1e37ddc4a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_082638.gz", 
+            "Size": 407682
+        }, 
+        {
+            "LastModified": "2015-10-23T05:06:03.000Z", 
+            "ETag": "\"20acc1e19a61c6fbb63c81ba164a8ac8\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_083233.gz", 
+            "Size": 416015
+        }, 
+        {
+            "LastModified": "2015-10-23T05:06:05.000Z", 
+            "ETag": "\"eb52642319ca410a3c8a7023c523ca5f\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_083829.gz", 
+            "Size": 407897
+        }, 
+        {
+            "LastModified": "2015-10-23T05:06:07.000Z", 
+            "ETag": "\"bce6a6791810148de7637345ec9a0020\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_084423.gz", 
+            "Size": 404911
+        }, 
+        {
+            "LastModified": "2015-10-23T05:06:08.000Z", 
+            "ETag": "\"78cd37588b83571b2ef6357b171580c4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_085019.gz", 
+            "Size": 390372
+        }, 
+        {
+            "LastModified": "2015-10-23T05:06:10.000Z", 
+            "ETag": "\"c1448bd8db248e756fe9a49e57c6de0b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_085614.gz", 
+            "Size": 399064
+        }, 
+        {
+            "LastModified": "2015-10-23T05:06:12.000Z", 
+            "ETag": "\"1525e816377342c775036017f8ddf5ac\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_090209.gz", 
+            "Size": 403604
+        }, 
+        {
+            "LastModified": "2015-10-23T05:06:13.000Z", 
+            "ETag": "\"191ebb5456b2f7edfcd2bc43c5420b3f\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_090803.gz", 
+            "Size": 418660
+        }, 
+        {
+            "LastModified": "2015-10-23T05:06:15.000Z", 
+            "ETag": "\"f5778903d83febc975133a8492479770\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_091358.gz", 
+            "Size": 419010
+        }, 
+        {
+            "LastModified": "2015-10-23T05:06:17.000Z", 
+            "ETag": "\"f27f2b80ca33a75286a9b9306297f8f5\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_091952.gz", 
+            "Size": 357511
+        }, 
+        {
+            "LastModified": "2015-10-23T05:06:19.000Z", 
+            "ETag": "\"f157e337ffdd7c1e02dc6572b706b8f0\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_092548.gz", 
+            "Size": 408627
+        }, 
+        {
+            "LastModified": "2015-10-23T05:06:20.000Z", 
+            "ETag": "\"7435c2953fba5c2ec1a2c05b66658015\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_093142.gz", 
+            "Size": 414891
+        }, 
+        {
+            "LastModified": "2015-10-23T05:06:22.000Z", 
+            "ETag": "\"1e44fccd3fc8ae63ae30038770d06fd1\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_093739.gz", 
+            "Size": 417115
+        }, 
+        {
+            "LastModified": "2015-10-23T05:06:24.000Z", 
+            "ETag": "\"439800065d5c3bea7cc149c9b1530057\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_094335.gz", 
+            "Size": 421721
+        }, 
+        {
+            "LastModified": "2015-10-23T05:06:25.000Z", 
+            "ETag": "\"0d42f036ae76fb5ad2f2cb6210403aca\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_094930.gz", 
+            "Size": 426605
+        }, 
+        {
+            "LastModified": "2015-10-23T05:06:27.000Z", 
+            "ETag": "\"4488057f28a15f151d036f1326cad9ff\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_095525.gz", 
+            "Size": 428538
+        }, 
+        {
+            "LastModified": "2015-10-23T05:06:28.000Z", 
+            "ETag": "\"80b694287c4540cb743e855e0f21ad80\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_100120.gz", 
+            "Size": 420601
+        }, 
+        {
+            "LastModified": "2015-10-23T05:06:30.000Z", 
+            "ETag": "\"cdc0f67d3e8a5995f4c5e5e9be8bae7f\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_100715.gz", 
+            "Size": 416614
+        }, 
+        {
+            "LastModified": "2015-10-23T05:06:32.000Z", 
+            "ETag": "\"62dab369f21919ced443614575365ed1\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_101311.gz", 
+            "Size": 411999
+        }, 
+        {
+            "LastModified": "2015-10-23T05:06:33.000Z", 
+            "ETag": "\"0220d88a41dae99375d32186122a9132\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_101905.gz", 
+            "Size": 411535
+        }, 
+        {
+            "LastModified": "2015-10-23T05:06:35.000Z", 
+            "ETag": "\"1266b15ef741d2d9383307385abdf0d6\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_102500.gz", 
+            "Size": 419376
+        }, 
+        {
+            "LastModified": "2015-10-23T05:06:37.000Z", 
+            "ETag": "\"537e50f2429bf80f06a8a7089a536d15\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_103055.gz", 
+            "Size": 429020
+        }, 
+        {
+            "LastModified": "2015-10-23T05:06:38.000Z", 
+            "ETag": "\"2aa64ee95ea7abb81fa0d6db9b24dd22\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_103651.gz", 
+            "Size": 422839
+        }, 
+        {
+            "LastModified": "2015-10-23T05:06:40.000Z", 
+            "ETag": "\"a0ab3845b1d3cc61c5526aaea2dd1770\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_104247.gz", 
+            "Size": 415085
+        }, 
+        {
+            "LastModified": "2015-10-23T05:06:42.000Z", 
+            "ETag": "\"45840c727a079ea5e057ec193b92fc57\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_104843.gz", 
+            "Size": 414950
+        }, 
+        {
+            "LastModified": "2015-10-23T05:06:43.000Z", 
+            "ETag": "\"6d94e24de11fa60c9a385a56cadc45bd\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_105437.gz", 
+            "Size": 408546
+        }, 
+        {
+            "LastModified": "2015-10-23T05:06:45.000Z", 
+            "ETag": "\"b6e4fd98cc456be1d4cf3eee84a11328\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_110032.gz", 
+            "Size": 414786
+        }, 
+        {
+            "LastModified": "2015-10-23T05:06:47.000Z", 
+            "ETag": "\"3ec709f2acc9efcebd4397cf54da8fb2\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_110628.gz", 
+            "Size": 428344
+        }, 
+        {
+            "LastModified": "2015-10-23T05:06:49.000Z", 
+            "ETag": "\"84900750a6e842421d2788c4184efe39\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_111225.gz", 
+            "Size": 438681
+        }, 
+        {
+            "LastModified": "2015-10-23T05:06:50.000Z", 
+            "ETag": "\"c4ec68c273b4e2bf4a339a34ffbd5542\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_111820.gz", 
+            "Size": 443954
+        }, 
+        {
+            "LastModified": "2015-10-23T05:06:52.000Z", 
+            "ETag": "\"20841e0037a17cae58f6f60f877407ca\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_112415.gz", 
+            "Size": 424160
+        }, 
+        {
+            "LastModified": "2015-10-23T05:06:54.000Z", 
+            "ETag": "\"602300809d278e7c5b2e62d73d02d980\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_113010.gz", 
+            "Size": 417361
+        }, 
+        {
+            "LastModified": "2015-10-23T05:06:55.000Z", 
+            "ETag": "\"2901dd5dfb71db3a134cf1bc7d59e201\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_113604.gz", 
+            "Size": 406669
+        }, 
+        {
+            "LastModified": "2015-10-23T05:06:57.000Z", 
+            "ETag": "\"efd21153072b81551bf3880bacae0bdb\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_114159.gz", 
+            "Size": 444513
+        }, 
+        {
+            "LastModified": "2015-10-23T05:06:59.000Z", 
+            "ETag": "\"99175dd9e7ad3d21250f42fa2290dc29\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_114754.gz", 
+            "Size": 478969
+        }, 
+        {
+            "LastModified": "2015-10-23T05:07:00.000Z", 
+            "ETag": "\"5f3ddae69d8ee02f1f0427881b8607aa\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_115349.gz", 
+            "Size": 506705
+        }, 
+        {
+            "LastModified": "2015-10-23T05:07:02.000Z", 
+            "ETag": "\"efdd7ab745497488b5cbb5600b0cd440\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_115943.gz", 
+            "Size": 507875
+        }, 
+        {
+            "LastModified": "2015-10-23T05:07:04.000Z", 
+            "ETag": "\"e822271b7f92ad7df43d9ab508dc0ef5\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_120538.gz", 
+            "Size": 502748
+        }, 
+        {
+            "LastModified": "2015-10-23T05:07:05.000Z", 
+            "ETag": "\"a4e702766b17096ed2a8c8a0d7208ded\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_121133.gz", 
+            "Size": 478995
+        }, 
+        {
+            "LastModified": "2015-10-23T05:07:07.000Z", 
+            "ETag": "\"01ee249a48daf66d062210470cd6274e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_121727.gz", 
+            "Size": 470192
+        }, 
+        {
+            "LastModified": "2015-10-23T05:07:09.000Z", 
+            "ETag": "\"c92b1873a39f9864845adfb268bad2aa\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_122322.gz", 
+            "Size": 463455
+        }, 
+        {
+            "LastModified": "2015-10-23T05:07:10.000Z", 
+            "ETag": "\"9e856633b71afc24be8d1769a6611bc0\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_122918.gz", 
+            "Size": 467499
+        }, 
+        {
+            "LastModified": "2015-10-23T05:07:12.000Z", 
+            "ETag": "\"63e6331831bc4a4ceeaf4a962658ad06\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_123513.gz", 
+            "Size": 454826
+        }, 
+        {
+            "LastModified": "2015-10-23T05:07:14.000Z", 
+            "ETag": "\"f314b965e07f0665a8cc317f8d5c69bd\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_124108.gz", 
+            "Size": 437821
+        }, 
+        {
+            "LastModified": "2015-10-23T05:07:15.000Z", 
+            "ETag": "\"477906a6b312a4db096a94d191b54952\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_124703.gz", 
+            "Size": 52066
+        }, 
+        {
+            "LastModified": "2015-10-23T05:07:16.000Z", 
+            "ETag": "\"ae15b30ae792685f2682359d2cfecc60\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_125148.gz", 
+            "Size": 465568
+        }, 
+        {
+            "LastModified": "2015-10-23T05:07:18.000Z", 
+            "ETag": "\"7507a8099cfbfc643ebde25e432a85d3\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_125742.gz", 
+            "Size": 436873
+        }, 
+        {
+            "LastModified": "2015-10-23T05:07:20.000Z", 
+            "ETag": "\"2e7ca9d366ab1d1be1338a7015e81c2f\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_130337.gz", 
+            "Size": 427930
+        }, 
+        {
+            "LastModified": "2015-10-23T05:07:21.000Z", 
+            "ETag": "\"9eaf3ccc8c275f7f65004bfced00da67\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_130933.gz", 
+            "Size": 438878
+        }, 
+        {
+            "LastModified": "2015-10-23T05:07:23.000Z", 
+            "ETag": "\"180447a798d20ad05fe1f06ed7f77947\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_131527.gz", 
+            "Size": 445411
+        }, 
+        {
+            "LastModified": "2015-10-23T05:05:14.000Z", 
+            "ETag": "\"f9e6f7175977c0d0e6597ab61a6da511\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_133305.gz", 
+            "Size": 426460
+        }, 
+        {
+            "LastModified": "2015-10-23T05:05:16.000Z", 
+            "ETag": "\"aea012ea9038e8c6d2dc509102c4e1c4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_133859.gz", 
+            "Size": 435429
+        }, 
+        {
+            "LastModified": "2015-10-23T05:05:17.000Z", 
+            "ETag": "\"db6b7036b8c2416d29553d3205081104\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_134454.gz", 
+            "Size": 433329
+        }, 
+        {
+            "LastModified": "2015-10-23T05:05:19.000Z", 
+            "ETag": "\"08a1523476b178f49a6272e5a702813a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_135050.gz", 
+            "Size": 367008
+        }, 
+        {
+            "LastModified": "2015-10-23T05:05:20.000Z", 
+            "ETag": "\"e77b822e45b1fe308c5a84e987010312\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_135644.gz", 
+            "Size": 419366
+        }, 
+        {
+            "LastModified": "2015-10-23T05:05:22.000Z", 
+            "ETag": "\"f69069d82162851f047e2eadca63098a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_140239.gz", 
+            "Size": 407274
+        }, 
+        {
+            "LastModified": "2015-10-23T05:05:24.000Z", 
+            "ETag": "\"010de25fb8e295ad65212526efe93b74\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_140836.gz", 
+            "Size": 410751
+        }, 
+        {
+            "LastModified": "2015-10-23T05:05:25.000Z", 
+            "ETag": "\"73ad6abe25cd8a4161d724b5bb3c1e15\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_141430.gz", 
+            "Size": 412550
+        }, 
+        {
+            "LastModified": "2015-10-23T05:05:27.000Z", 
+            "ETag": "\"e53768f54efdaa09fa098e3b4132f90b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_142027.gz", 
+            "Size": 425043
+        }, 
+        {
+            "LastModified": "2015-10-23T05:05:29.000Z", 
+            "ETag": "\"95c771891529d80deb2f35f1ecbdad5a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_142621.gz", 
+            "Size": 435079
+        }, 
+        {
+            "LastModified": "2015-10-23T05:05:30.000Z", 
+            "ETag": "\"234b37263b54510e25ad53ee97d41a5d\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_143217.gz", 
+            "Size": 444213
+        }, 
+        {
+            "LastModified": "2015-10-23T05:05:32.000Z", 
+            "ETag": "\"d77e6aad8817bb8f7aa2713c212f134b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_143812.gz", 
+            "Size": 432957
+        }, 
+        {
+            "LastModified": "2015-10-23T05:05:34.000Z", 
+            "ETag": "\"be1b31bd47db72b4238570c879395802\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_144407.gz", 
+            "Size": 428168
+        }, 
+        {
+            "LastModified": "2015-10-23T05:05:35.000Z", 
+            "ETag": "\"32e86822b3238bef0ffe920db40b3798\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_145002.gz", 
+            "Size": 431499
+        }, 
+        {
+            "LastModified": "2015-10-23T05:05:37.000Z", 
+            "ETag": "\"9321503d7b881fdec43855825599f32f\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_145557.gz", 
+            "Size": 437023
+        }, 
+        {
+            "LastModified": "2015-10-23T05:05:38.000Z", 
+            "ETag": "\"e24f9dc043f9db4508bd01227ed79442\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_150153.gz", 
+            "Size": 447880
+        }, 
+        {
+            "LastModified": "2015-10-23T05:05:40.000Z", 
+            "ETag": "\"000654fffd8fe72762ce0997b5ffc80e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_150747.gz", 
+            "Size": 460601
+        }, 
+        {
+            "LastModified": "2015-10-23T05:05:42.000Z", 
+            "ETag": "\"431c6602a3aa7421fed90947ecb729e3\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_151342.gz", 
+            "Size": 449643
+        }, 
+        {
+            "LastModified": "2015-10-23T05:05:43.000Z", 
+            "ETag": "\"80b6a4f92b3affc244978e29e14ba68f\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_151936.gz", 
+            "Size": 441954
+        }, 
+        {
+            "LastModified": "2015-10-23T05:05:45.000Z", 
+            "ETag": "\"d71e0b766f233f66a6c5ee7a0d9ce7cf\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_152531.gz", 
+            "Size": 435511
+        }, 
+        {
+            "LastModified": "2015-10-23T05:05:47.000Z", 
+            "ETag": "\"730fa665688e3df265b717da932acc23\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_153126.gz", 
+            "Size": 437848
+        }, 
+        {
+            "LastModified": "2015-10-23T05:05:49.000Z", 
+            "ETag": "\"e76fac5d96ca066699ef2e54dcc1f4da\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_153720.gz", 
+            "Size": 448523
+        }, 
+        {
+            "LastModified": "2015-10-23T05:05:50.000Z", 
+            "ETag": "\"b4de85a8b35e47d036a43877c163aa6a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_154317.gz", 
+            "Size": 459842
+        }, 
+        {
+            "LastModified": "2015-10-23T05:05:52.000Z", 
+            "ETag": "\"c40d5ad8bfcd2ad41efa183865c0dc24\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_154913.gz", 
+            "Size": 473818
+        }, 
+        {
+            "LastModified": "2015-10-23T05:05:54.000Z", 
+            "ETag": "\"589413d66466d753ffc6adbaa4d3ba61\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_155510.gz", 
+            "Size": 468938
+        }, 
+        {
+            "LastModified": "2015-10-22T22:06:01.000Z", 
+            "ETag": "\"098b20694438d1ab56eaed054186719d\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_160105.gz", 
+            "Size": 468432
+        }, 
+        {
+            "LastModified": "2015-10-22T22:06:03.000Z", 
+            "ETag": "\"b38aa1597c83916a26ad2fecdc22530b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_160659.gz", 
+            "Size": 465413
+        }, 
+        {
+            "LastModified": "2015-10-22T22:06:05.000Z", 
+            "ETag": "\"1c8919fc05d27bccd2b43572b70d7e45\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_161254.gz", 
+            "Size": 462137
+        }, 
+        {
+            "LastModified": "2015-10-22T22:06:06.000Z", 
+            "ETag": "\"db05d599e907412836bdbac79518ef38\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_161849.gz", 
+            "Size": 208001
+        }, 
+        {
+            "LastModified": "2015-10-22T22:06:08.000Z", 
+            "ETag": "\"e6d99a7c6e595144693086f023300614\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_162444.gz", 
+            "Size": 472244
+        }, 
+        {
+            "LastModified": "2015-10-22T22:06:10.000Z", 
+            "ETag": "\"d459bbf1ea4df6e2f61c92721fdcb263\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_163105.gz", 
+            "Size": 464317
+        }, 
+        {
+            "LastModified": "2015-10-22T22:06:11.000Z", 
+            "ETag": "\"fa8aa5187dd0a680b530992554f581c0\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_163700.gz", 
+            "Size": 462849
+        }, 
+        {
+            "LastModified": "2015-10-22T22:06:13.000Z", 
+            "ETag": "\"5c1c8c49291bc8aab8f86bdd84f32030\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_164255.gz", 
+            "Size": 463945
+        }, 
+        {
+            "LastModified": "2015-10-22T22:06:15.000Z", 
+            "ETag": "\"c1a436dde6987ba5e9ffae5d7540c9ba\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_164850.gz", 
+            "Size": 467672
+        }, 
+        {
+            "LastModified": "2015-10-22T22:06:16.000Z", 
+            "ETag": "\"a8195ca9a22ec769c9aebc185cc35a03\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_165445.gz", 
+            "Size": 471080
+        }, 
+        {
+            "LastModified": "2015-10-22T22:06:18.000Z", 
+            "ETag": "\"89ae637dab971f1b1ae71b4ff731e4c7\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_170041.gz", 
+            "Size": 472031
+        }, 
+        {
+            "LastModified": "2015-10-22T22:06:20.000Z", 
+            "ETag": "\"9183c2a6b06122e0160683a5ca4d40c0\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_170635.gz", 
+            "Size": 465980
+        }, 
+        {
+            "LastModified": "2015-10-22T22:06:22.000Z", 
+            "ETag": "\"144411ff326e6d2ec452ef9498841650\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_171230.gz", 
+            "Size": 466274
+        }, 
+        {
+            "LastModified": "2015-10-22T22:06:23.000Z", 
+            "ETag": "\"99ee5ddac27db8460805a7c2e3f8efbc\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_171825.gz", 
+            "Size": 473234
+        }, 
+        {
+            "LastModified": "2015-10-22T22:06:25.000Z", 
+            "ETag": "\"7bb57b320b4697fcb60a81522f3961b4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_172420.gz", 
+            "Size": 468473
+        }, 
+        {
+            "LastModified": "2015-10-22T22:06:27.000Z", 
+            "ETag": "\"c29f078660f90809049d80f027c78ebe\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_173015.gz", 
+            "Size": 475925
+        }, 
+        {
+            "LastModified": "2015-10-22T22:06:29.000Z", 
+            "ETag": "\"850d2d78677c8ec679560dae49eda69d\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_173610.gz", 
+            "Size": 486359
+        }, 
+        {
+            "LastModified": "2015-10-22T22:06:30.000Z", 
+            "ETag": "\"1d4e108a5cbfea7f05ce6da98c843dd0\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_174205.gz", 
+            "Size": 491828
+        }, 
+        {
+            "LastModified": "2015-10-22T22:06:32.000Z", 
+            "ETag": "\"41ce318c5b365f8251a1b936e5de7aba\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_174800.gz", 
+            "Size": 498015
+        }, 
+        {
+            "LastModified": "2015-10-22T22:06:34.000Z", 
+            "ETag": "\"7f268c628d4ad2d7d91c9bd02d129f88\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_175354.gz", 
+            "Size": 512863
+        }, 
+        {
+            "LastModified": "2015-10-22T22:06:35.000Z", 
+            "ETag": "\"c01d80f1be3b1cf778568400fa151737\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_175949.gz", 
+            "Size": 503629
+        }, 
+        {
+            "LastModified": "2015-10-22T22:06:37.000Z", 
+            "ETag": "\"dc95419ee3863e4c1525a627561e7bfc\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_180544.gz", 
+            "Size": 509387
+        }, 
+        {
+            "LastModified": "2015-10-22T22:06:39.000Z", 
+            "ETag": "\"cda51ebfb6da766746d39d885da4d69a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_181141.gz", 
+            "Size": 504625
+        }, 
+        {
+            "LastModified": "2015-10-22T22:06:40.000Z", 
+            "ETag": "\"14203c788565b50ebe0ecd8889f6dbdf\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_181735.gz", 
+            "Size": 505641
+        }, 
+        {
+            "LastModified": "2015-10-22T22:06:42.000Z", 
+            "ETag": "\"55cbb0279a23b5e30e6751aaab9f52b8\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_182330.gz", 
+            "Size": 519625
+        }, 
+        {
+            "LastModified": "2015-10-22T22:06:44.000Z", 
+            "ETag": "\"6db30878845d5cb0c1970e56fdf68f63\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_182924.gz", 
+            "Size": 518237
+        }, 
+        {
+            "LastModified": "2015-10-22T22:06:45.000Z", 
+            "ETag": "\"a6b347a528ce4f51399b3810f3d054ce\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_183519.gz", 
+            "Size": 512786
+        }, 
+        {
+            "LastModified": "2015-10-22T22:06:47.000Z", 
+            "ETag": "\"45eba45cd337d385a90dbee8435207bd\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_184114.gz", 
+            "Size": 509371
+        }, 
+        {
+            "LastModified": "2015-10-22T22:06:49.000Z", 
+            "ETag": "\"8279b59945493f2478a997f0257f58e6\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_184709.gz", 
+            "Size": 504459
+        }, 
+        {
+            "LastModified": "2015-10-22T22:06:51.000Z", 
+            "ETag": "\"5856c861b30ea459a46f987e71489250\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_185307.gz", 
+            "Size": 505352
+        }, 
+        {
+            "LastModified": "2015-10-22T22:06:52.000Z", 
+            "ETag": "\"0f8fb768d69cd09cdfda50a4c75dd7f1\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_185902.gz", 
+            "Size": 512064
+        }, 
+        {
+            "LastModified": "2015-10-22T22:06:54.000Z", 
+            "ETag": "\"5f0184c58487d059b374c1572866b636\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_190456.gz", 
+            "Size": 523982
+        }, 
+        {
+            "LastModified": "2015-10-22T22:06:56.000Z", 
+            "ETag": "\"cecdc4690f2b961121be742c1aa9316b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_191051.gz", 
+            "Size": 526254
+        }, 
+        {
+            "LastModified": "2015-10-22T22:06:58.000Z", 
+            "ETag": "\"44a816c3a2173e8113ae5da2b19ea390\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_191648.gz", 
+            "Size": 519560
+        }, 
+        {
+            "LastModified": "2015-10-22T22:06:59.000Z", 
+            "ETag": "\"ebba0e5fbc6d30ed028c507d3d59918e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_192243.gz", 
+            "Size": 511578
+        }, 
+        {
+            "LastModified": "2015-10-22T22:07:01.000Z", 
+            "ETag": "\"39fce2b6b16ef17c073f9272a1a385ad\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_192837.gz", 
+            "Size": 513872
+        }, 
+        {
+            "LastModified": "2015-10-22T22:07:03.000Z", 
+            "ETag": "\"bd7b2632fef38430416098636cca7394\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_193432.gz", 
+            "Size": 515908
+        }, 
+        {
+            "LastModified": "2015-10-22T22:07:05.000Z", 
+            "ETag": "\"4c9592c0dbc762876926b852c29af129\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_194028.gz", 
+            "Size": 536353
+        }, 
+        {
+            "LastModified": "2015-10-22T22:07:06.000Z", 
+            "ETag": "\"0815d79193be5fadac77f0fd5d22eac8\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_194622.gz", 
+            "Size": 537506
+        }, 
+        {
+            "LastModified": "2015-10-22T22:07:08.000Z", 
+            "ETag": "\"5060e0e5a5a06fed77c6790895badd3d\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_195217.gz", 
+            "Size": 535900
+        }, 
+        {
+            "LastModified": "2015-10-22T22:07:10.000Z", 
+            "ETag": "\"26d705f5b2bee9b79eaf6a5125ce7d29\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_195811.gz", 
+            "Size": 527345
+        }, 
+        {
+            "LastModified": "2015-10-22T22:07:11.000Z", 
+            "ETag": "\"4662d6ee3735c7135e61f7eb3a4655a7\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_200407.gz", 
+            "Size": 527035
+        }, 
+        {
+            "LastModified": "2015-10-22T22:07:13.000Z", 
+            "ETag": "\"61240edd676ecb73b3d03b45992c591f\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_201001.gz", 
+            "Size": 531686
+        }, 
+        {
+            "LastModified": "2015-10-22T22:07:15.000Z", 
+            "ETag": "\"d49446f582be60918adc698a74a475ef\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_201556.gz", 
+            "Size": 539878
+        }, 
+        {
+            "LastModified": "2015-10-22T22:07:17.000Z", 
+            "ETag": "\"e0292bac05d47bc03d07b4d833ac83b4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_202151.gz", 
+            "Size": 544062
+        }, 
+        {
+            "LastModified": "2015-10-22T22:07:18.000Z", 
+            "ETag": "\"78080440c9992de93ee6dfb4ad912ed3\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_202746.gz", 
+            "Size": 547909
+        }, 
+        {
+            "LastModified": "2015-10-22T22:07:20.000Z", 
+            "ETag": "\"514e2fb91e13268bab7a03ca5f22b051\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_203341.gz", 
+            "Size": 540206
+        }, 
+        {
+            "LastModified": "2015-10-22T22:07:22.000Z", 
+            "ETag": "\"ac6a02043bf8f87c2e176795afc29df8\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_203937.gz", 
+            "Size": 543240
+        }, 
+        {
+            "LastModified": "2015-10-22T22:07:23.000Z", 
+            "ETag": "\"9327edcf98cb34409f0e6c84a72635b8\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_204531.gz", 
+            "Size": 547737
+        }, 
+        {
+            "LastModified": "2015-10-22T22:07:25.000Z", 
+            "ETag": "\"4188d9424548676c9b5cf95c0a48b060\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_205126.gz", 
+            "Size": 550708
+        }, 
+        {
+            "LastModified": "2015-10-22T22:07:27.000Z", 
+            "ETag": "\"f996a660ddb1a7db59c5d2671f68aeb9\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_205721.gz", 
+            "Size": 550716
+        }, 
+        {
+            "LastModified": "2015-10-22T22:07:29.000Z", 
+            "ETag": "\"9ee2c40fccf8780efa178a206b08176a\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_210316.gz", 
+            "Size": 545205
+        }, 
+        {
+            "LastModified": "2015-10-22T22:07:30.000Z", 
+            "ETag": "\"185c9fff897ea190482b1a53cbb584bc\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_210911.gz", 
+            "Size": 523384
+        }, 
+        {
+            "LastModified": "2015-10-22T22:07:32.000Z", 
+            "ETag": "\"bd0e18872fa9c4ef807fd784b41a4ecf\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_211505.gz", 
+            "Size": 520834
+        }, 
+        {
+            "LastModified": "2015-10-22T22:07:34.000Z", 
+            "ETag": "\"a84dc5a39906e7b816db57841f1a9669\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_212100.gz", 
+            "Size": 517294
+        }, 
+        {
+            "LastModified": "2015-10-22T22:07:35.000Z", 
+            "ETag": "\"8366a0ec51c77f019957b7d1b9e4d9f9\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_212656.gz", 
+            "Size": 518105
+        }, 
+        {
+            "LastModified": "2015-10-22T22:07:37.000Z", 
+            "ETag": "\"c52dd1fa7068bb19142d8f2b537af1bc\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_213251.gz", 
+            "Size": 527914
+        }, 
+        {
+            "LastModified": "2015-10-22T22:07:39.000Z", 
+            "ETag": "\"f11c14d5c223122eaaec285d961a74ad\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_213848.gz", 
+            "Size": 520017
+        }, 
+        {
+            "LastModified": "2015-10-22T22:07:40.000Z", 
+            "ETag": "\"db32d71a03d6a59ac894fe9e5ed6f6c4\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_214442.gz", 
+            "Size": 520905
+        }, 
+        {
+            "LastModified": "2015-10-22T22:07:42.000Z", 
+            "ETag": "\"bc94628e8fd24eba7d9ceab10d3ecd84\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_215038.gz", 
+            "Size": 517350
+        }, 
+        {
+            "LastModified": "2015-10-22T22:07:44.000Z", 
+            "ETag": "\"43a7a8d05e332f9e58a1fb536adf79c3\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_215632.gz", 
+            "Size": 514493
+        }, 
+        {
+            "LastModified": "2015-10-22T22:07:46.000Z", 
+            "ETag": "\"46c32537da4c567fb52638647883bc65\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_220226.gz", 
+            "Size": 511760
+        }, 
+        {
+            "LastModified": "2015-10-22T22:07:47.000Z", 
+            "ETag": "\"f940d4b35cc6a6337f9c60faecbf8423\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_220821.gz", 
+            "Size": 515734
+        }, 
+        {
+            "LastModified": "2015-10-22T22:07:49.000Z", 
+            "ETag": "\"bb8bfe925835ba6ede55846249ddc85b\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_221418.gz", 
+            "Size": 517354
+        }, 
+        {
+            "LastModified": "2015-10-22T22:07:51.000Z", 
+            "ETag": "\"947f320c825352f640cade66904adf80\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_222012.gz", 
+            "Size": 504799
+        }, 
+        {
+            "LastModified": "2015-10-22T22:07:52.000Z", 
+            "ETag": "\"c7f6a2a84003464c264e68a18e1e6df3\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_222607.gz", 
+            "Size": 494815
+        }, 
+        {
+            "LastModified": "2015-10-22T22:07:54.000Z", 
+            "ETag": "\"11ebaee352e97a8f0f996f2f5bcf3886\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_223203.gz", 
+            "Size": 497884
+        }, 
+        {
+            "LastModified": "2015-10-22T22:07:56.000Z", 
+            "ETag": "\"69166fbecc6ac2dac944e1a706f31492\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_223758.gz", 
+            "Size": 504708
+        }, 
+        {
+            "LastModified": "2015-10-22T22:07:58.000Z", 
+            "ETag": "\"66e78f897186046efd5fe1d92b8893f5\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_224353.gz", 
+            "Size": 517768
+        }, 
+        {
+            "LastModified": "2015-10-22T22:08:00.000Z", 
+            "ETag": "\"10f5809bd1b82be632e5d72a27702ea6\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_224947.gz", 
+            "Size": 538755
+        }, 
+        {
+            "LastModified": "2015-10-22T22:08:01.000Z", 
+            "ETag": "\"25d527f2265631e5026ff2944406a5db\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_225542.gz", 
+            "Size": 534877
+        }, 
+        {
+            "LastModified": "2015-10-22T22:08:03.000Z", 
+            "ETag": "\"8b264a6348765b5b6da4ffb6a55c6c57\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_230137.gz", 
+            "Size": 548206
+        }, 
+        {
+            "LastModified": "2015-10-22T22:08:05.000Z", 
+            "ETag": "\"69acc5f47be217f7f901dfce84d6be42\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_230732.gz", 
+            "Size": 552208
+        }, 
+        {
+            "LastModified": "2015-10-22T22:08:07.000Z", 
+            "ETag": "\"f8b8809225668381c5ee9d7523415691\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_231328.gz", 
+            "Size": 562314
+        }, 
+        {
+            "LastModified": "2015-10-22T22:08:08.000Z", 
+            "ETag": "\"e150f7650646faecf5f00e1f3cae7b28\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_231923.gz", 
+            "Size": 573458
+        }, 
+        {
+            "LastModified": "2015-10-22T22:08:10.000Z", 
+            "ETag": "\"4d109c14e4a1a89d5c407c981e122922\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_232518.gz", 
+            "Size": 588763
+        }, 
+        {
+            "LastModified": "2015-10-22T22:08:12.000Z", 
+            "ETag": "\"646372b223c6143597775c9f35666b3e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_233114.gz", 
+            "Size": 614270
+        }, 
+        {
+            "LastModified": "2015-10-22T22:08:14.000Z", 
+            "ETag": "\"d09af9e44d7852d47891d6833208851e\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_233711.gz", 
+            "Size": 629564
+        }, 
+        {
+            "LastModified": "2015-10-22T22:08:15.000Z", 
+            "ETag": "\"86197c4de07387eca638a9869a368d70\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_234307.gz", 
+            "Size": 631246
+        }, 
+        {
+            "LastModified": "2015-10-22T22:08:17.000Z", 
+            "ETag": "\"8318b66c66273ea058344603b736729d\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_234901.gz", 
+            "Size": 617103
+        }, 
+        {
+            "LastModified": "2015-10-22T22:08:19.000Z", 
+            "ETag": "\"65641865235f3575ac84769e9dcedfd6\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/KMLB19931202_235456.gz", 
+            "Size": 603421
+        }, 
+        {
+            "LastModified": "2015-10-23T04:28:29.000Z", 
+            "ETag": "\"29642cc39015232fe505b402f10b0aea\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/NWS_NEXRAD_NXL2LG_KMLB_19931202000000_19931202075959.tar", 
+            "Size": 33
+        }, 
+        {
+            "LastModified": "2015-10-23T05:07:24.000Z", 
+            "ETag": "\"13bf0e9c17437b3c09d156bfc1225975\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/NWS_NEXRAD_NXL2LG_KMLB_19931202080000_19931202155959.tar", 
+            "Size": 33
+        }, 
+        {
+            "LastModified": "2015-10-22T22:08:20.000Z", 
+            "ETag": "\"9e7d41871f008224f58096767cc1e5a9\"", 
+            "StorageClass": "STANDARD", 
+            "Key": "1993/12/02/KMLB/NWS_NEXRAD_NXL2LG_KMLB_19931202160000_19931202235959.tar", 
+            "Size": 33
+        }
+    ]
+}

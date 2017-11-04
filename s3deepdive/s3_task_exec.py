@@ -6,6 +6,7 @@ import time
 import datetime
 import threading
 import boto3
+from botocore.config import Config
 import traceback
 
 logging.basicConfig(level=logging.INFO)
@@ -17,7 +18,8 @@ def current_milli_time():
 
 def globalRegionsReplicate(profile,sb,db,s3obj,destProfile):
     logger = logging.getLogger(__name__)
-    session = boto3.Session(profile_name=profile)
+    cfg = Config(connect_timeout=0,read_timeout=0)
+    session = boto3.Session(profile_name=profile,cfg)
     s3_client = session.client('s3')
     try:
         okey = s3obj['Key']
@@ -74,7 +76,7 @@ def globalRegionsReplicate(profile,sb,db,s3obj,destProfile):
 
         if cachedS3Obj is not None:
             logger.info("Bytes form len # %d, bytes from Message # %d",len(cachedS3Obj),bytesObj)
-            session2 = boto3.Session(profile_name=destProfile)
+            session2 = boto3.Session(profile_name=destProfile,cfg)
             s3_client2 = session2.client('s3')
             s3_client2.put_object(
                 ACL='bucket-owner-full-control',
