@@ -8,6 +8,8 @@ For complete demo please go and ref to [NEXRAD_Demo](https://github.com/soldierx
 ## Prerequisite : 
 * Python 2.7.x
 * Boto3 http://boto3.readthedocs.io/en/latest/guide/quickstart.html
+* Disk : 300GB+ gp2
+* Memory: 60GB+ (If you run parallel thread in one machine)
 
 ## Step 1 : Generated S3 Bucket Inventory List
 The source data bucket is from Region US Standard (N. Virginia), so we launched a bastion Amazon Linux EC2 with proper instance profile 
@@ -28,6 +30,17 @@ AWS Access Key ID [None]: AKI***************A
 AWS Secret Access Key [None]: 7j+R6*****************oDrqU
 Default region name [None]: cn-north-1
 Default output format [None]:
+```
+And add following additional timeout parameters:
+```
+[default]
+region = us-east-1
+metadata_service_timeout = 5
+metadata_service_num_attempts = 5
+[profile bjs]
+region = cn-north-1
+metadata_service_timeout = 5
+metadata_service_num_attempts = 5
 ```
 Execute following similar script, be carefull that, this dataset is very large, it will launch 1400+ parallel aws s3 list-object threads, so please use at least r4.2xlarge (61GB memory) to try this demo or it will throw "cant allocate memeory" error:
 
