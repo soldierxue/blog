@@ -46,19 +46,31 @@ Execute following similar script, be carefull that, this dataset is very large, 
 
 ```
 cd NEXRAD_Demo/inventory
-nohup python ../../s3deepdive/s3_inventory.py -b noaa-nexrad-level2 -r us-east-1 -d 2 > noaa-nexrad-level2.log 2>&1 &
+nohup python ../../s3deepdive/s3_inventory.py -b noaa-nexrad-level2 -r us-east-1 -d 3 > noaa-nexrad-level2.log 2>&1 &
 ```
 wait until following s3 thread process count is 0, then you will find this sript deep searched 2 prefix levels and generated total 6563 files that contains s3 objects information in this bucket.
 ```
 [ec2-user@youserver inventory]$ ps -el | grep aws | wc -l
 0
 [ec2-user@youserver inventory]$ ls noaa-nexrad-level2.*obj* | wc -l
-6563
+2551
+[ec2-user@youserver inventory]$ mkdir 1 2
+[ec2-user@youserver inventory]$ find ./ -size -800000c -print0 | xargs -0 -I {} mv {} ./1/
+[ec2-user@youserver inventory]$ mv noaa-nexrad-level2.final.*obj* ./2/
 ```
 ## Step 2 : Analyze the objects and submit to SQS to prepare for data tansfer tasks
+
+Because the networking from US-EAST-1 to BJS is a bit slow, we assumed it 10KB/s, so we defined following task parameters:
+* Max Objects Number per Task : 10
+* Max Objects Size Per Task: 20 MB
+* Threshold to split is : 5MB
+* Chunksize of the Splitted object : 5MB
 ```
+
 cd NEXRAD_Demo/tasksubmit
-nohup python ../../s3deepdive/s3_task_submit.py -d ../inventory/ -r us-east-1 > noaa-nexrad-level2.task.log 2>&1 &
+
+nohup python ../../s3deepdive/s3_task_submit.py -d ../inventory/1/ -r us-east-1 > noaa-nexrad-level2.task1.log 2>&1 &
+nohup python ../../s3deepdive/s3_task_submit.py -d ../inventory/2/ -r us-east-1 > noaa-nexrad-level2.task2.log 2>&1 &
 ```
 ## Step 3 : Read the tasks from SQS and do parallel data transfer
 
