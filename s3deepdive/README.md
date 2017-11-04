@@ -79,7 +79,12 @@ nohup python ../../s3deepdive/s3_task_submit.py -d ../inventory/2/ -r us-east-1 
 You have many options to parallelly run data transfer task, 
 
 ### Option 1: Manully Run multiple threads in one or a few machines
+```
 
+cd NEXRAD_Demo/taskexec
+
+nohup python ../../s3deepdive/s3_task_exec.py -q S3Task_NormalQueue1 -source_bucket noaa-nexrad-level2 -dest_bucket bjsdest -dest_profile bjs > S3Task_NormalQueue1.exec1.log 2>&1 &
+```
 
 ### Option 2: Custom User Data to download the script and run while the ec2 intance is starting, and base on this AMI, launch a spot instance fleet to parallel execution it
 
