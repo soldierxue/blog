@@ -3,6 +3,12 @@
 ## Testing Scenario 
 Take AWS Public Data Set https://amazonaws-china.com/public-datasets/nexrad/ as the source, try to copy them to BJS region bucket.
 
+For complete demo please go and ref to [NEXRAD_Demo](https://github.com/soldierxue/blog/NEXRAD_Demo)
+
+## Prerequisite : 
+* Python 2.7.x
+* Boto3 http://boto3.readthedocs.io/en/latest/guide/quickstart.html
+
 ## Step 1 : Generated S3 Bucket Inventory List
 The source data bucket is from Region US Standard (N. Virginia), so we launched a bastion Amazon Linux EC2 with proper instance profile 
 
@@ -23,3 +29,33 @@ AWS Secret Access Key [None]: 7j+R6*****************oDrqU
 Default region name [None]: cn-north-1
 Default output format [None]:
 ```
+Execute following similar script, be carefull that, this dataset is very large, it will launch 1400+ parallel aws s3 list-object threads, so please use at least r4.2xlarge (61GB memory) to try this demo or it will throw "cant allocate memeory" error:
+
+```
+cd NEXRAD_Demo/inventory
+nohup python ../../s3deepdive/s3_inventory.py -b noaa-nexrad-level2 -r us-east-1 -d 2 > noaa-nexrad-level2.log 2>&1 &
+```
+wait until following s3 thread process count is 0, then you will find this sript deep searched 2 prefix levels and generated total 6563 files that contains s3 objects information in this bucket.
+```
+[ec2-user@youserver inventory]$ ps -el | grep aws | wc -l
+0
+[ec2-user@youserver inventory]$ ls noaa-nexrad-level2.*obj* | wc -l
+6563
+```
+## Step 2 : Analyze the objects and submit to SQS to prepare for data tansfer tasks
+```
+cd NEXRAD_Demo/tasksubmit
+nohup python ../../s3deepdive/s3_task_submit.py -d ../inventory/ -r us-east-1 > noaa-nexrad-level2.task.log 2>&1 &
+```
+## Step 3 : Read the tasks from SQS and do parallel data transfer
+
+You have many options to parallelly run data transfer task, 
+
+### Option 1: Manully Run multiple threads in one or a few machines
+
+
+### Option 2: Custom User Data to download the script and run while the ec2 intance is starting, and base on this AMI, launch a spot instance fleet to parallel execution it
+
+### Option 3: User AWS Batch to help you run batch jobs
+
+### Option 4: Create a Container Cluster and run batch jobs by container scheduler
