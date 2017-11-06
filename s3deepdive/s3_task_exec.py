@@ -18,7 +18,7 @@ def current_milli_time():
 
 def globalRegionsReplicate(profile,sb,db,s3obj,destProfile):
     logger = logging.getLogger(__name__)
-    cfg = Config(connect_timeout=0,read_timeout=0)
+    cfg = Config(connect_timeout=120,read_timeout=600)
     session = boto3.Session(profile_name=profile,cfg)
     s3_client = session.client('s3')
     try:
