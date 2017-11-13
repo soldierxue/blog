@@ -1,7 +1,7 @@
 # blog list
 
 * [Amazon S3 深度实践系列之一：S3 CLI深度解析及性能测试](https://amazonaws-china.com/cn/blogs/china/amazon-s3-depth-of-practice-series-s3-cli-depth-parsing-and-performance-testing/)
-* [Amazon S3 深度实践系列之二：如何实现 S3 数据跨区域高效可靠传输] (https://amazonaws-china.com/cn/blogs/china/amazon-s3-depth-practice-series-ii-how-to-achieve-efficient-and-reliable-transmission-of-s3-data-across-regions/)
+* [Amazon S3 深度实践系列之二：如何实现 S3 数据跨区域高效可靠传输](https://amazonaws-china.com/cn/blogs/china/amazon-s3-depth-practice-series-ii-how-to-achieve-efficient-and-reliable-transmission-of-s3-data-across-regions/)
 
 
 
