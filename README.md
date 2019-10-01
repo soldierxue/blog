@@ -4,7 +4,7 @@
 * [Amazon S3 深度实践系列之二：如何实现 S3 数据跨区域高效可靠传输](https://amazonaws-china.com/cn/blogs/china/amazon-s3-depth-practice-series-ii-how-to-achieve-efficient-and-reliable-transmission-of-s3-data-across-regions/)
 
 
-
+欢迎关注公众号：
 
 
 
